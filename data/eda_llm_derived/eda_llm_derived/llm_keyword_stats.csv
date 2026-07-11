@@ -1,0 +1,101 @@
+﻿rank,keyword,paper_count,paradigms,first_month,latest_month
+1,benchmark,79,Benchmark/Evaluation | Reasoning | Multimodal | Alignment/Safety,2026-07,2026-07
+2,evaluation,55,Benchmark/Evaluation | Reasoning | Alignment/Safety | Agent/Tool Use,2026-07,2026-07
+3,large language models,52,Alignment/Safety | Reasoning | Benchmark/Evaluation | Theory/Methodology,2026-07,2026-07
+4,multimodal,34,Reasoning | Multimodal | Benchmark/Evaluation | Alignment/Safety,2026-07,2026-07
+5,large language model,29,Agent/Tool Use | Benchmark/Evaluation | Reasoning | Alignment/Safety,2026-07,2026-07
+6,optimization,28,Efficiency/Optimization | Reasoning | Agent/Tool Use | Alignment/Safety,2026-07,2026-07
+7,transformer,26,Reasoning | Efficiency/Optimization | Theory/Methodology | Benchmark/Evaluation,2026-07,2026-07
+8,language model,26,Benchmark/Evaluation | Reasoning | Theory/Methodology | Alignment/Safety,2026-07,2026-07
+9,alignment,22,Alignment/Safety | Theory/Methodology | Reasoning | Benchmark/Evaluation,2026-07,2026-07
+10,reinforcement learning,21,Reasoning | Alignment/Safety | Agent/Tool Use,2026-07,2026-07
+11,machine learning,19,Theory/Methodology | Efficiency/Optimization | Reasoning | RAG/Retrieval,2026-07,2026-07
+12,reasoning,17,Reasoning | Alignment/Safety | Benchmark/Evaluation | Agent/Tool Use,2026-07,2026-07
+13,llm,13,Alignment/Safety | Reasoning | Benchmark/Evaluation | Multimodal,2026-07,2026-07
+14,efficiency,13,Efficiency/Optimization | Reasoning | Application | Agent/Tool Use,2026-07,2026-07
+15,vision-language model,10,Reasoning | Benchmark/Evaluation | Alignment/Safety | Efficiency/Optimization,2026-07,2026-07
+16,agent,10,Agent/Tool Use | Alignment/Safety | Benchmark/Evaluation | Reasoning,2026-07,2026-07
+17,robustness,10,Alignment/Safety | Reasoning | Benchmark/Evaluation | Efficiency/Optimization,2026-07,2026-07
+18,safety,10,Alignment/Safety | Theory/Methodology | Agent/Tool Use | Benchmark/Evaluation,2026-07,2026-07
+19,natural language processing,9,Theory/Methodology | Reasoning | Dataset/Benchmark | Agent/Tool Use,2026-07,2026-07
+20,accuracy,9,Reasoning | Efficiency/Optimization | Application | Benchmark/Evaluation,2026-07,2026-07
+21,retrieval-augmented generation,8,RAG/Retrieval | Agent/Tool Use | Reasoning,2026-07,2026-07
+22,vision-language models,8,Reasoning | Benchmark/Evaluation | Alignment/Safety | Multimodal,2026-07,2026-07
+23,fine-tuning,7,Theory/Methodology | Alignment/Safety | Multimodal | Efficiency/Optimization,2026-07,2026-07
+24,classification,7,Reasoning | Benchmark/Evaluation | Dataset/Benchmark | Multimodal,2026-07,2026-07
+25,distillation,7,Reasoning | Efficiency/Optimization | Alignment/Safety | Multimodal,2026-07,2026-07
+26,attention,7,Efficiency/Optimization | Alignment/Safety | Benchmark/Evaluation | Multimodal,2026-07,2026-07
+27,hallucination,7,Alignment/Safety | Reasoning | Theory/Methodology | Multimodal,2026-07,2026-07
+28,language modeling,6,Efficiency/Optimization | Theory/Methodology | Dataset/Benchmark,2026-07,2026-07
+29,inference,6,Efficiency/Optimization | Reasoning,2026-07,2026-07
+30,performance,6,Efficiency/Optimization | Theory/Methodology | Reasoning,2026-07,2026-07
+31,language models,6,Reasoning | Theory/Methodology | Alignment/Safety,2026-07,2026-07
+32,transfer learning,6,Reasoning | Alignment/Safety | Multimodal,2026-07,2026-07
+33,pretraining,5,Reasoning | Theory/Methodology | Efficiency/Optimization | RAG/Retrieval,2026-07,2026-07
+34,multilingual,5,Benchmark/Evaluation | Alignment/Safety | Multimodal,2026-07,2026-07
+35,calibration,5,Benchmark/Evaluation | Reasoning | Alignment/Safety,2026-07,2026-07
+36,security,5,Agent/Tool Use | Alignment/Safety | Reasoning,2026-07,2026-07
+37,ai,5,Alignment/Safety | Theory/Methodology | Benchmark/Evaluation,2026-07,2026-07
+38,semantics,5,Reasoning | Theory/Methodology | Alignment/Safety,2026-07,2026-07
+39,planning,5,Alignment/Safety | Benchmark/Evaluation | Agent/Tool Use | Reasoning,2026-07,2026-07
+40,generalization,5,Theory/Methodology | Efficiency/Optimization | Alignment/Safety,2026-07,2026-07
+41,interpretability,5,Reasoning | Theory/Methodology,2026-07,2026-07
+42,verification,5,Agent/Tool Use | RAG/Retrieval | Efficiency/Optimization | Reasoning,2026-07,2026-07
+43,stability,4,Reasoning | Alignment/Safety | Efficiency/Optimization,2026-07,2026-07
+44,learning,4,Theory/Methodology | Alignment/Safety | Benchmark/Evaluation,2026-07,2026-07
+45,privacy,4,Agent/Tool Use | Application | Alignment/Safety | Benchmark/Evaluation,2026-07,2026-07
+46,embedding,4,Benchmark/Evaluation | Theory/Methodology | Reasoning,2026-07,2026-07
+47,uncertainty quantification,4,Reasoning | Alignment/Safety | Theory/Methodology,2026-07,2026-07
+48,generation,4,Efficiency/Optimization | RAG/Retrieval | Reasoning | Alignment/Safety,2026-07,2026-07
+49,software engineering,4,RAG/Retrieval | Reasoning | Theory/Methodology | Benchmark/Evaluation,2026-07,2026-07
+50,domain adaptation,4,Alignment/Safety | Benchmark/Evaluation | Theory/Methodology,2026-07,2026-07
+51,code generation,4,Reasoning | Multimodal,2026-07,2026-07
+52,benchmarks,4,Benchmark/Evaluation | Reasoning,2026-07,2026-07
+53,agent-based,4,Alignment/Safety | Agent/Tool Use | Reasoning | Benchmark/Evaluation,2026-07,2026-07
+54,perplexity,4,Efficiency/Optimization | Benchmark/Evaluation | RAG/Retrieval,2026-07,2026-07
+55,robotics,4,Reasoning | Agent/Tool Use,2026-07,2026-07
+56,sample efficiency,4,Reasoning | Theory/Methodology | Efficiency/Optimization,2026-07,2026-07
+57,supervised fine-tuning,4,Theory/Methodology | Reasoning | Agent/Tool Use | Benchmark/Evaluation,2026-07,2026-07
+58,knowledge distillation,3,Efficiency/Optimization | Reasoning,2026-07,2026-07
+59,knowledge graph,3,Agent/Tool Use | Benchmark/Evaluation | Reasoning,2026-07,2026-07
+60,multi-agent,3,Multimodal | Alignment/Safety | Agent/Tool Use,2026-07,2026-07
+61,data augmentation,3,Theory/Methodology | Efficiency/Optimization | Dataset/Benchmark,2026-07,2026-07
+62,rl,3,Alignment/Safety | Agent/Tool Use,2026-07,2026-07
+63,few-shot,3,Efficiency/Optimization | Multimodal,2026-07,2026-07
+64,diffusion models,3,Reasoning | Efficiency/Optimization,2026-07,2026-07
+65,tool use,3,Alignment/Safety | Agent/Tool Use,2026-07,2026-07
+66,bias,3,Benchmark/Evaluation | Alignment/Safety,2026-07,2026-07
+67,training,3,Efficiency/Optimization | Multimodal | Reasoning,2026-07,2026-07
+68,parameter efficiency,3,Theory/Methodology | Multimodal | Reasoning,2026-07,2026-07
+69,latency,3,Efficiency/Optimization | Alignment/Safety | Benchmark/Evaluation,2026-07,2026-07
+70,geometry-aware,3,Reasoning | Efficiency/Optimization,2026-07,2026-07
+71,sentiment analysis,3,Dataset/Benchmark | Alignment/Safety | Reasoning,2026-07,2026-07
+72,pruning,3,Reasoning | Theory/Methodology | Efficiency/Optimization,2026-07,2026-07
+73,mlp,3,Multimodal | Theory/Methodology | Reasoning,2026-07,2026-07
+74,transformers,3,Theory/Methodology,2026-07,2026-07
+75,cybersecurity,3,Benchmark/Evaluation | Alignment/Safety,2026-07,2026-07
+76,text-to-speech,3,Multimodal | Application | Benchmark/Evaluation,2026-07,2026-07
+77,efficient training,3,Efficiency/Optimization | Reasoning,2026-07,2026-07
+78,detection,3,Reasoning | Theory/Methodology,2026-07,2026-07
+79,on-policy,3,Reasoning | Alignment/Safety,2026-07,2026-07
+80,zero-shot,3,Multimodal | Benchmark/Evaluation,2026-07,2026-07
+81,dataset,3,Dataset/Benchmark | Benchmark/Evaluation | Multimodal,2026-07,2026-07
+82,pretrained model,3,Efficiency/Optimization | Theory/Methodology | Multimodal,2026-07,2026-07
+83,emotion,3,Benchmark/Evaluation | Multimodal,2026-07,2026-07
+84,self-distillation,3,Reasoning | Alignment/Safety,2026-07,2026-07
+85,watermarking,3,Theory/Methodology | Alignment/Safety,2026-07,2026-07
+86,open-source,3,Multimodal | Benchmark/Evaluation,2026-07,2026-07
+87,chain-of-thought,3,Reasoning | Alignment/Safety,2026-07,2026-07
+88,on-policy distillation,3,Theory/Methodology | Reasoning | Agent/Tool Use,2026-07,2026-07
+89,explainability,3,Reasoning | Benchmark/Evaluation | Theory/Methodology,2026-07,2026-07
+90,hidden states,3,Reasoning | Theory/Methodology,2026-07,2026-07
+91,vision-language,3,Theory/Methodology | Multimodal | Reasoning,2026-07,2026-07
+92,lora,3,Efficiency/Optimization | Reasoning,2026-07,2026-07
+93,representation,3,Theory/Methodology | Reasoning,2026-07,2026-07
+94,interaction,3,Alignment/Safety | Benchmark/Evaluation,2026-07,2026-07
+95,deep learning,3,Application | Reasoning | Benchmark/Evaluation,2026-07,2026-07
+96,self-supervised learning,3,Benchmark/Evaluation | Theory/Methodology,2026-07,2026-07
+97,taxonomy,3,Benchmark/Evaluation | Theory/Methodology | Alignment/Safety,2026-07,2026-07
+98,mathematical reasoning,3,Theory/Methodology | Benchmark/Evaluation | Reasoning,2026-07,2026-07
+99,performance optimization,3,Efficiency/Optimization | Reasoning,2026-07,2026-07
+100,semantic alignment,2,Benchmark/Evaluation | Reasoning,2026-07,2026-07

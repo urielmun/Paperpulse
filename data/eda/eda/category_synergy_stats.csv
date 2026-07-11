@@ -1,0 +1,8 @@
+﻿category_combo,combo_size,paper_count,paper_ratio
+cs.AI,1,157,31.4
+cs.LG,1,94,18.8
+cs.AI + cs.LG,2,76,15.2
+cs.CL,1,69,13.8
+cs.AI + cs.CL,2,53,10.6
+cs.AI + cs.CL + cs.LG,3,30,6.0
+cs.CL + cs.LG,2,21,4.2

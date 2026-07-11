@@ -1,0 +1,301 @@
+﻿source,target,edge_weight,first_month,latest_month
+reinforcement learning,transformer,2,2026-07,2026-07
+knowledge distillation,transformer-based model,2,2026-07,2026-07
+benchmark,multimodal,2,2026-07,2026-07
+ablated models,vulnerability detection,1,2026-07,2026-07
+sub-goal embeddings,sub-instructions,1,2026-07,2026-07
+ablated models,executable patch validation,1,2026-07,2026-07
+ablated models,cwe attribution,1,2026-07,2026-07
+ablated models,aligned models,1,2026-07,2026-07
+1d u-net,utility classifier,1,2026-07,2026-07
+1d u-net,reconstruction-aware,1,2026-07,2026-07
+1d u-net,privacy-utility orthogonality,1,2026-07,2026-07
+1d u-net,privacy classifier,1,2026-07,2026-07
+1d u-net,ecg anonymization,1,2026-07,2026-07
+1-regularization,variational source condition,1,2026-07,2026-07
+1-regularization,statistical inverse learning,1,2026-07,2026-07
+1-regularization,empirical risk minimization,1,2026-07,2026-07
+ablated models,refusal behavior,1,2026-07,2026-07
+stochastic block steering (sbs,stochastic token steering (sts,1,2026-07,2026-07
+stochastic model-discovery operator,utility-aligned canonical decomposition,1,2026-07,2026-07
+stop-gradient operator,unbounded positive asymmetric optimization (up,1,2026-07,2026-07
+strategic bargaining,surplus extraction,1,2026-07,2026-07
+structural and functional mri,transformer,1,2026-07,2026-07
+structural and functional mri,variational autoencoder,1,2026-07,2026-07
+structural tension,topological continuity,1,2026-07,2026-07
+accuracy,coherence,1,2026-07,2026-07
+structured newton layer parallelism,symbolic bootstraps,1,2026-07,2026-07
+structured radio frequency interference,vision-language model,1,2026-07,2026-07
+structured radio frequency interference,zero-shot,1,2026-07,2026-07
+structured token-level communication,token-centric dual-view learning,1,2026-07,2026-07
+ablated models,localization,1,2026-07,2026-07
+advantage-weighted compactness,advantage-weighted ranking loss,1,2026-07,2026-07
+1-regularization,reproducing kernel hilbert space,1,2026-07,2026-07
+super-resolution,time-agnostic propagation,1,2026-07,2026-07
+superquadric primitive,vision-language model,1,2026-07,2026-07
+supervised training,transformer decoder,1,2026-07,2026-07
+surrogate model,token-level explanation,1,2026-07,2026-07
+surrogate model,transformer-based model,1,2026-07,2026-07
+surrogate models,verification-first workflow,1,2026-07,2026-07
+svm classifier,wavelet scattering transform,1,2026-07,2026-07
+syntactic attacks,variable naming conventions,1,2026-07,2026-07
+synthetic consumer data,top-term analyses,1,2026-07,2026-07
+synthetic consumer data,topic models,1,2026-07,2026-07
+synthetic content analysis,zero-day detection,1,2026-07,2026-07
+agent,llm,1,2026-07,2026-07
+table insight,table qa,1,2026-07,2026-07
+advantage regularization,thinking residual,1,2026-07,2026-07
+task-semantic field factorization,variable semantics,1,2026-07,2026-07
+teacher-student framework,voxel features,1,2026-07,2026-07
+activation,working memory,1,2026-07,2026-07
+activation dispersion,entity familiarity,1,2026-07,2026-07
+activation dispersion,factual reliability,1,2026-07,2026-07
+activation dispersion,inverse participation ratio,1,2026-07,2026-07
+activation dispersion,large language models,1,2026-07,2026-07
+activation dispersion,spectral entropy,1,2026-07,2026-07
+activation magnitude,percentile-aware layerwise sparsity,1,2026-07,2026-07
+activation magnitude,perplexity,1,2026-07,2026-07
+activation magnitude,pruning,1,2026-07,2026-07
+activation magnitude,transformer,1,2026-07,2026-07
+synthetic fog generation,tracking,1,2026-07,2026-07
+1-regularization,effective dimension,1,2026-07,2026-07
+task-semantic field factorization,time-series forecasting,1,2026-07,2026-07
+activation steering,conditional dialect group invariance (cdgi,1,2026-07,2026-07
+activation steering,dialect bias,1,2026-07,2026-07
+activations,linear probes,1,2026-07,2026-07
+activations,representation sharing,1,2026-07,2026-07
+activations,steering vectors,1,2026-07,2026-07
+activations,sycophancy,1,2026-07,2026-07
+adapter composition schedule,adapter gates,1,2026-07,2026-07
+adapter composition schedule,low-rank temporal adapters,1,2026-07,2026-07
+adapter composition schedule,recursive prompt bank,1,2026-07,2026-07
+adapter composition schedule,shot-local story-global tuning objective,1,2026-07,2026-07
+adapter composition schedule,shot-role prompt tokens,1,2026-07,2026-07
+adapter composition schedule,text-to-video diffusion transformer,1,2026-07,2026-07
+advantage regularization,mixed-mode rollout,1,2026-07,2026-07
+superposition,transformer circuit analysis,1,2026-07,2026-07
+adapter gates,shot-local story-global tuning objective,1,2026-07,2026-07
+adapter gates,shot-role prompt tokens,1,2026-07,2026-07
+adapter gates,text-to-video diffusion transformer,1,2026-07,2026-07
+adolescent substance use discourse,naturalistic online setting,1,2026-07,2026-07
+adolescent substance use discourse,sentiment and emotion classification,1,2026-07,2026-07
+adolescent substance use discourse,temporal analysis,1,2026-07,2026-07
+adolescent substance use discourse,transformer-based topic modeling,1,2026-07,2026-07
+advantage awareness,dynamic interaction,1,2026-07,2026-07
+advantage awareness,human-ai coordination,1,2026-07,2026-07
+advantage awareness,predictability,1,2026-07,2026-07
+advantage awareness,social norms,1,2026-07,2026-07
+advantage awareness,value alignment,1,2026-07,2026-07
+advantage regularization,factual hallucination,1,2026-07,2026-07
+auto-fix,program analysis,1,2026-07,2026-07
+adapter gates,recursive prompt bank,1,2026-07,2026-07
+advantage-weighted compactness,advantage-weighted separation,1,2026-07,2026-07
+advantage-weighted compactness,mutual transformer,1,2026-07,2026-07
+advantage-weighted compactness,temporal encoder,1,2026-07,2026-07
+advantage-weighted ranking loss,advantage-weighted separation,1,2026-07,2026-07
+advantage-weighted ranking loss,mutual transformer,1,2026-07,2026-07
+advantage-weighted ranking loss,temporal encoder,1,2026-07,2026-07
+advantage-weighted regression,finite-horizon,1,2026-07,2026-07
+advantage-weighted regression,harness maturity score,1,2026-07,2026-07
+advantage-weighted regression,harness mdp,1,2026-07,2026-07
+advantage-weighted regression,offline reinforcement learning,1,2026-07,2026-07
+advantage-weighted regression,task-rubric rewards,1,2026-07,2026-07
+activation overflow,fixed-point arithmetic,1,2026-07,2026-07
+advantage-weighted separation,temporal encoder,1,2026-07,2026-07
+activation overflow,quantisation,1,2026-07,2026-07
+adversarial attack,scene classification,1,2026-07,2026-07
+adversarial attack,thermal-airflow perturbation,1,2026-07,2026-07
+adversarial attack,zero-shot attack,1,2026-07,2026-07
+adversarial strategy,multi-modality machine unlearning,1,2026-07,2026-07
+adversarial strategy,prompt-optimized parameter shaking,1,2026-07,2026-07
+adversarial vulnerability,singular vectors,1,2026-07,2026-07
+adversarial vulnerability,spectral decomposition,1,2026-07,2026-07
+adversarial vulnerability,transformer-based vision-language models,1,2026-07,2026-07
+adversarial vulnerability,white-box attack,1,2026-07,2026-07
+agent,curation,1,2026-07,2026-07
+agent,extraction,1,2026-07,2026-07
+agent,knowledge graph,1,2026-07,2026-07
+advantage-weighted separation,mutual transformer,1,2026-07,2026-07
+activation overflow,lyapunov function,1,2026-07,2026-07
+adversarial attack,physical plausibility,1,2026-07,2026-07
+agent attention mechanism,global dependency modeling,1,2026-07,2026-07
+agent attention mechanism,graph propagation module,1,2026-07,2026-07
+agent attention mechanism,spatio-temporal encoder,1,2026-07,2026-07
+agent attention mechanism,temporal convolution module,1,2026-07,2026-07
+agent optimization,causal localization,1,2026-07,2026-07
+agent optimization,failure pattern mining,1,2026-07,2026-07
+agent optimization,optimization context,1,2026-07,2026-07
+agent optimization,textual dependency graph,1,2026-07,2026-07
+agent-as-recommender,agent-as-user-simulator,1,2026-07,2026-07
+agent-as-recommender,agent-assisted recommendation,1,2026-07,2026-07
+agent-as-recommender,autonomy framework,1,2026-07,2026-07
+agent-based modeling,scalable framework,1,2026-07,2026-07
+agent-as-recommender,lifelong user modeling,1,2026-07,2026-07
+adapter gates,low-rank temporal adapters,1,2026-07,2026-07
+agent-as-user-simulator,agent-assisted recommendation,1,2026-07,2026-07
+agent-as-user-simulator,autonomy framework,1,2026-07,2026-07
+agent-as-user-simulator,evaluation methodologies,1,2026-07,2026-07
+agent-as-user-simulator,lifelong user modeling,1,2026-07,2026-07
+agent-as-user-simulator,multimodal alignment,1,2026-07,2026-07
+agent-assisted recommendation,autonomy framework,1,2026-07,2026-07
+agent-assisted recommendation,evaluation methodologies,1,2026-07,2026-07
+agent-assisted recommendation,lifelong user modeling,1,2026-07,2026-07
+agent-assisted recommendation,multimodal alignment,1,2026-07,2026-07
+agent-based modeling,epidemic modeling,1,2026-07,2026-07
+agent-based modeling,human decision-making,1,2026-07,2026-07
+agent-based modeling,large language model,1,2026-07,2026-07
+agent-as-recommender,evaluation methodologies,1,2026-07,2026-07
+analytical workflow,feedback-based refinement,1,2026-07,2026-07
+agent-as-recommender,multimodal alignment,1,2026-07,2026-07
+agent-based pipeline,benchmark,1,2026-07,2026-07
+agent-based pipeline,text-to-sql,1,2026-07,2026-07
+agent-based verification,inference procedure,1,2026-07,2026-07
+agent-based verification,large language model,1,2026-07,2026-07
+agent-based verification,question-type-specific inference,1,2026-07,2026-07
+agentic ai,calibration,1,2026-07,2026-07
+agentic ai,computational imaging,1,2026-07,2026-07
+agentic ai,computational sensing,1,2026-07,2026-07
+agentic ai,image signal processing,1,2026-07,2026-07
+agentic ai,inverse reconstruction,1,2026-07,2026-07
+agentic ai,ray and wave optics,1,2026-07,2026-07
+bayesian ceiling,transformer,1,2026-07,2026-07
+agentic framework,exploratory data analysis,1,2026-07,2026-07
+agent,verification,1,2026-07,2026-07
+agentic framework,table insight,1,2026-07,2026-07
+agentic framework,table qa,1,2026-07,2026-07
+ai-native sql,benchmark,1,2026-07,2026-07
+ai-native sql,repeated execution protocol,1,2026-07,2026-07
+ai-native sql,text-to-sql,1,2026-07,2026-07
+algebraic structure,cognitive bias,1,2026-07,2026-07
+algebraic structure,formal verification,1,2026-07,2026-07
+algebraic structure,proof-mechanism,1,2026-07,2026-07
+algebraic structure,template accuracy,1,2026-07,2026-07
+aligned models,cwe attribution,1,2026-07,2026-07
+aligned models,executable patch validation,1,2026-07,2026-07
+aligned models,localization,1,2026-07,2026-07
+agentic ai,vision-language models,1,2026-07,2026-07
+agent,typing,1,2026-07,2026-07
+agentic framework,llm,1,2026-07,2026-07
+alignment,chain-of-thought,1,2026-07,2026-07
+alignment,continual pretraining,1,2026-07,2026-07
+alignment,dialectal robustness,1,2026-07,2026-07
+alignment,domain knowledge base,1,2026-07,2026-07
+alignment,forensic reconstruction,1,2026-07,2026-07
+alignment,generation,1,2026-07,2026-07
+alignment,hallucinated chain-of-thought,1,2026-07,2026-07
+alignment,pragmatic ambiguity,1,2026-07,2026-07
+alignment,pragmatic framing,1,2026-07,2026-07
+alignment,requirement disambiguation,1,2026-07,2026-07
+alignment,retrieval-augmented generation,1,2026-07,2026-07
+analytical workflow,dynamic tool-orchestration engine,1,2026-07,2026-07
+alignment,visual alignment reward,1,2026-07,2026-07
+analytical workflow,multi-agent architecture,1,2026-07,2026-07
+alignment amplification,compression failure,1,2026-07,2026-07
+alignment amplification,difference-in-differences,1,2026-07,2026-07
+alignment amplification,lora fine-tune,1,2026-07,2026-07
+alignment amplification,natural-language i/o,1,2026-07,2026-07
+alignment criterion,confidence interval,1,2026-07,2026-07
+alignment criterion,error rate,1,2026-07,2026-07
+alignment criterion,risk-controlled selective answering,1,2026-07,2026-07
+alignment criterion,uncertainty quantification,1,2026-07,2026-07
+analytical jacobian,fr chet mean,1,2026-07,2026-07
+analytical jacobian,pullback metrics,1,2026-07,2026-07
+analytical jacobian,riemannian mean pooling,1,2026-07,2026-07
+analytical jacobian,symmetric positive definite (spd) manifold,1,2026-07,2026-07
+alignment,sft,1,2026-07,2026-07
+subword vocabulary,unigram-lm,1,2026-07,2026-07
+alignment,visual-action alignment reward,1,2026-07,2026-07
+analytical workflow,narrative generation,1,2026-07,2026-07
+analytical workflow,natural language specification,1,2026-07,2026-07
+analytical workflow,self-evolution module,1,2026-07,2026-07
+analytical workflow,spatiotemporal analysis,1,2026-07,2026-07
+anatomical validation,classification,1,2026-07,2026-07
+anatomical validation,cross-center validation,1,2026-07,2026-07
+anatomical validation,cross-scanner validation,1,2026-07,2026-07
+anatomical validation,segmentation,1,2026-07,2026-07
+anatomical validation,self-supervised pretraining,1,2026-07,2026-07
+anatomical validation,transformer-based architectures,1,2026-07,2026-07
+anatomical validation,vision foundation models,1,2026-07,2026-07
+aligned models,refusal behavior,1,2026-07,2026-07
+anhedonia,effort-based decision-making,1,2026-07,2026-07
+alignment,benchmark,1,2026-07,2026-07
+anhedonia,reward valuation,1,2026-07,2026-07
+annotation guidelines,conspiratorial actors,1,2026-07,2026-07
+annotation guidelines,span-annotated corpus,1,2026-07,2026-07
+annotation guidelines,telegram posts,1,2026-07,2026-07
+annotation guidelines,transformer-based models,1,2026-07,2026-07
+anov,cross-frequency coupling,1,2026-07,2026-07
+anov,gamma band,1,2026-07,2026-07
+anov,leave one subject out cross-validation,1,2026-07,2026-07
+anov,random forest,1,2026-07,2026-07
+anov,shap explainability,1,2026-07,2026-07
+anov,svm classifier,1,2026-07,2026-07
+anov,wavelet scattering transform,1,2026-07,2026-07
+anhedonia,causal mechanism,1,2026-07,2026-07
+aligned models,vulnerability detection,1,2026-07,2026-07
+anhedonia,nucleus accumbens,1,2026-07,2026-07
+answer generation,hierarchical search,1,2026-07,2026-07
+answer generation,multi-hop qa,1,2026-07,2026-07
+answer generation,quality-filtered trajectory distillation,1,2026-07,2026-07
+answer generation,role factorization,1,2026-07,2026-07
+answer-driven reasoning,chain-of-thought,1,2026-07,2026-07
+answer-driven reasoning,truncated reasoning auc evaluation (trace,1,2026-07,2026-07
+anti-pattern detection,ci/cd workflow,1,2026-07,2026-07
+anti-pattern detection,large language model,1,2026-07,2026-07
+anti-pattern detection,recommendation generation,1,2026-07,2026-07
+anti-pattern detection,repository enrichment,1,2026-07,2026-07
+antisemitic events,expert-annotated datasets,1,2026-07,2026-07
+area under the receiver operating characteristic curve (auc,gradient-boosted tree classifier,1,2026-07,2026-07
+antisemitic events,large language models,1,2026-07,2026-07
+agent-based pipeline,repeated execution protocol,1,2026-07,2026-07
+apache arrow buffers,data lock-in,1,2026-07,2026-07
+apache arrow buffers,database storage decoding,1,2026-07,2026-07
+apache arrow buffers,llm-assisted code synthesis,1,2026-07,2026-07
+apache arrow buffers,tpc-h benchmark,1,2026-07,2026-07
+approval-framed delegation,multi-agent llm safety,1,2026-07,2026-07
+approval-framed delegation,operational reframing,1,2026-07,2026-07
+approval-framed delegation,planner behavior,1,2026-07,2026-07
+architectural inductive biases,cross-temporal generalization,1,2026-07,2026-07
+architectural inductive biases,inductive biases,1,2026-07,2026-07
+architectural inductive biases,temporal drift,1,2026-07,2026-07
+area under the receiver operating characteristic curve (auc,balanced accuracy,1,2026-07,2026-07
+area under the receiver operating characteristic curve (auc,closed-loop program synthesis,1,2026-07,2026-07
+antisemitic events,hateful event detection,1,2026-07,2026-07
+attention mechanisms,sparse autoencoders (saes,1,2026-07,2026-07
+antisemitic events,prompt engineering,1,2026-07,2026-07
+area under the receiver operating characteristic curve (auc,spike detection,1,2026-07,2026-07
+area under the receiver operating characteristic curve (auc,tabular classifier,1,2026-07,2026-07
+argument-level policy,authorization gateway,1,2026-07,2026-07
+argument-level policy,hmac-authenticated qr receipt,1,2026-07,2026-07
+argument-level policy,hmac-sha256 signature,1,2026-07,2026-07
+argument-level policy,role-based policy,1,2026-07,2026-07
+argument-level policy,sha-256 hash-chained audit log,1,2026-07,2026-07
+aspect-based sentiment analysis,dataset,1,2026-07,2026-07
+aspect-based sentiment analysis,manual labeling,1,2026-07,2026-07
+asr robustness,controlled dialogue prompts,1,2026-07,2026-07
+asr robustness,emotional naturalness,1,2026-07,2026-07
+audio understanding,multimodal generation,1,2026-07,2026-07
+asr robustness,language and dialect consistency,1,2026-07,2026-07
+answer generation,execution,1,2026-07,2026-07
+asr robustness,response latency,1,2026-07,2026-07
+asr robustness,seamless interaction corpus,1,2026-07,2026-07
+association metric,bias,1,2026-07,2026-07
+association metric,continuation probability,1,2026-07,2026-07
+association metric,downstream metric,1,2026-07,2026-07
+association metric,embedding,1,2026-07,2026-07
+association metric,evaluation,1,2026-07,2026-07
+association metric,language model,1,2026-07,2026-07
+association metric,upstream metric,1,2026-07,2026-07
+ast-based code mutation,deployment pipeline,1,2026-07,2026-07
+ast-based code mutation,evaluative pipeline,1,2026-07,2026-07
+ast-based code mutation,fractal architecture,1,2026-07,2026-07
+asr robustness,interpersonal stance,1,2026-07,2026-07
+answer generation,delegation,1,2026-07,2026-07
+asr robustness,multidimensional protocol,1,2026-07,2026-07
+ast-based code mutation,nas,1,2026-07,2026-07
+asynchronous reinforcement learning,rl benchmark,1,2026-07,2026-07
+asynchronous reinforcement learning,single-rollout sampling,1,2026-07,2026-07
+asynchronous reinforcement learning,token-level clipping,1,2026-07,2026-07
+atmospheric scattering model,detection robustness,1,2026-07,2026-07
+atmospheric scattering model,image restoration,1,2026-07,2026-07
+atmospheric scattering model,monocular depth estimation,1,2026-07,2026-07

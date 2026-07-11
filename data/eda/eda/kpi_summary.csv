@@ -1,0 +1,13 @@
+﻿metric_name,metric_value,metric_description
+total_papers,500,전체 분석 논문 수
+total_categories,60,전체 카테고리 수
+first_month,2026-07,가장 오래된 논문 월
+latest_month,2026-07,가장 최근 논문 월
+latest_month_paper_count,500,가장 최근 월 논문 수
+latest_month_growth_rate,0.0,가장 최근 월 전월 대비 증가율
+top_category,cs.AI,최다 카테고리
+top_category_count,316,최다 카테고리 논문 수
+top_keyword,reasoning,전체 데이터 기준 최상위 키워드
+top_keyword_count,251,최상위 키워드 등장 횟수
+top_rising_keyword,reasoning,최근 월 기준 급상승 키워드
+top_rising_score,138788.6701,최근 월 기준 급상승 점수

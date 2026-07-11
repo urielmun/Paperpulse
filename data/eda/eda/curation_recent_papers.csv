@@ -1,0 +1,196 @@
+﻿curation_keyword,canonical_arxiv_id,title,published_month,primary_category,abs_url,pdf_url
+rag,2607.06993,Large Behavior Model A Promptable Digital Twin of the Retail Customer,2026-07,cs.AI,https://arxiv.org/abs/2607.06993,https://arxiv.org/pdf/2607.06993
+rag,2607.06964,End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent,2026-07,cs.RO,https://arxiv.org/abs/2607.06964,https://arxiv.org/pdf/2607.06964
+rag,2607.06839,LEMUR 2 Unlocking Neural Network Diversity for AI,2026-07,cs.LG,https://arxiv.org/abs/2607.06839,https://arxiv.org/pdf/2607.06839
+rag,2607.06507,DynaKRAG A Unified Framework for Learnable Evidence Control in Multi-Hop Retrieval-Augmented Generation,2026-07,cs.CL,https://arxiv.org/abs/2607.06507,https://arxiv.org/pdf/2607.06507
+rag,2607.06641,Healthier LLMs Retrieval-Augmented Generation for Public Health Question Answering,2026-07,cs.CL,https://arxiv.org/abs/2607.06641,https://arxiv.org/pdf/2607.06641
+rag,2607.05936,Mitigating Errors in LLM-Generated Web API Invocations via Retrieval-Augmented Generation and Constrained Decoding,2026-07,cs.SE,https://arxiv.org/abs/2607.05936,https://arxiv.org/pdf/2607.05936
+rag,2607.05483,PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates,2026-07,cs.LG,https://arxiv.org/abs/2607.05483,https://arxiv.org/pdf/2607.05483
+rag,2607.05217,Curated retrieval versus open web search in public AI information services a coverage-trust trade-off,2026-07,cs.CY,https://arxiv.org/abs/2607.05217,https://arxiv.org/pdf/2607.05217
+rag,2607.05479,Privilege and confidentiality in generative AI workflows,2026-07,cs.CR,https://arxiv.org/abs/2607.05479,https://arxiv.org/pdf/2607.05479
+rag,2607.05069,MIRAGE Defending Long-Form RAG Against Misinformation Pollution,2026-07,cs.CL,https://arxiv.org/abs/2607.05069,https://arxiv.org/pdf/2607.05069
+rag,2607.05055,Toward Trustworthy Large Language Model Agents in Healthcare,2026-07,cs.AI,https://arxiv.org/abs/2607.05055,https://arxiv.org/pdf/2607.05055
+rag,2607.04907,Medi-Gemma A Hybrid Clinical Decision Support System Integrating Deterministic EMR Analytics and Retrieval-Augmented Generation,2026-07,cs.AI,https://arxiv.org/abs/2607.04907,https://arxiv.org/pdf/2607.04907
+rag,2607.04625,Hierarchical Evidence-Driven Reasoning for Long Document Understanding,2026-07,cs.CV,https://arxiv.org/abs/2607.04625,https://arxiv.org/pdf/2607.04625
+rag,2607.05456,Prompt-to-Paper Agentic AI System for Bioinformatics,2026-07,cs.AI,https://arxiv.org/abs/2607.05456,https://arxiv.org/pdf/2607.05456
+rag,2607.04436,A Retrieval-Augmented Framework for Detecting and Resolving Pragmatic Ambiguities in Natural Language Requirements,2026-07,cs.SE,https://arxiv.org/abs/2607.04436,https://arxiv.org/pdf/2607.04436
+rag,2607.04391,Memory-Orchestrated Semantic System (MOSS) An Auditable Agentic Memory Architecture,2026-07,cs.CL,https://arxiv.org/abs/2607.04391,https://arxiv.org/pdf/2607.04391
+rag,2607.04281,Risk-Constrained Freshness-Aware Semantic Caching for Open-Web Retrieval-Augmented LLMs,2026-07,cs.CL,https://arxiv.org/abs/2607.04281,https://arxiv.org/pdf/2607.04281
+rag,2607.04223,Detecting Hallucinations in Retrieval-Augmented Generation through Grounding-Aware Sensitivity by Perturbation (GASP),2026-07,cs.CL,https://arxiv.org/abs/2607.04223,https://arxiv.org/pdf/2607.04223
+rag,2607.04008,Candidate-Constrained Retrieval-Augmented Generation for LongEval-RAG System Design and Empirical Analysis,2026-07,cs.CL,https://arxiv.org/abs/2607.04008,https://arxiv.org/pdf/2607.04008
+rag,2607.03929,"Probe, Don t Prompt A Hidden-State Probe for Metadata Filtering in Multi-Meta-RAG",2026-07,cs.CL,https://arxiv.org/abs/2607.03929,https://arxiv.org/pdf/2607.03929
+agent,2607.07702,From Noisy Traces to Root Causes Structural Trajectory Analysis and Causal Extraction for Agent Optimization,2026-07,cs.CL,https://arxiv.org/abs/2607.07702,https://arxiv.org/pdf/2607.07702
+agent,2607.07626,Future Confidence Distillation in Large Language Models,2026-07,cs.CL,https://arxiv.org/abs/2607.07626,https://arxiv.org/pdf/2607.07626
+agent,2607.07548,"Think Big, Search Small Where Capacity Matters in Hierarchical Search Agents",2026-07,cs.CL,https://arxiv.org/abs/2607.07548,https://arxiv.org/pdf/2607.07548
+agent,2607.07521,Creativity from Friction Human-AI Interaction for Exploratory Structural Design,2026-07,cs.HC,https://arxiv.org/abs/2607.07521,https://arxiv.org/pdf/2607.07521
+agent,2607.07474,Beyond Attack-Success Rate Action-Graded Severity Scale for Tool-Using AI Agents,2026-07,cs.CR,https://arxiv.org/abs/2607.07474,https://arxiv.org/pdf/2607.07474
+agent,2607.07467,SpaCellAgent A Self-Evolving LLM-Based Multi-Agent Framework for Trajectory Analysis,2026-07,cs.AI,https://arxiv.org/abs/2607.07467,https://arxiv.org/pdf/2607.07467
+agent,2607.07379,Physics-Audited Agentic Discovery in Scientific Machine Learning,2026-07,cs.AI,https://arxiv.org/abs/2607.07379,https://arxiv.org/pdf/2607.07379
+agent,2607.07321,From Atomic Actions to Standard Operating Procedures Iterative Tool Optimization for Self-Evolving LLM Agents,2026-07,cs.AI,https://arxiv.org/abs/2607.07321,https://arxiv.org/pdf/2607.07321
+agent,2607.07178,Entropy Pacing Policy Optimization for Multi-Task Agentic Reinforcement Learning,2026-07,cs.LG,https://arxiv.org/abs/2607.07178,https://arxiv.org/pdf/2607.07178
+agent,2607.07103,A knowledge-augmented dataset of high-risk driving scenarios with LLM annotations for autonomous driving,2026-07,cs.LG,https://arxiv.org/abs/2607.07103,https://arxiv.org/pdf/2607.07103
+agent,2607.07097,Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety,2026-07,cs.AI,https://arxiv.org/abs/2607.07097,https://arxiv.org/pdf/2607.07097
+agent,2607.07021,Learning social norms enhances compatibility in dynamic human-AI coordination,2026-07,cs.AI,https://arxiv.org/abs/2607.07021,https://arxiv.org/pdf/2607.07021
+agent,2607.06964,End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent,2026-07,cs.RO,https://arxiv.org/abs/2607.06964,https://arxiv.org/pdf/2607.06964
+agent,2607.06875,Video2Reaction Mapping Video to Audience Reaction Distribution in the Wild,2026-07,cs.CV,https://arxiv.org/abs/2607.06875,https://arxiv.org/pdf/2607.06875
+agent,2607.06854,A Gold-Standard Study of What Makes a Lightweight Game-Playing Agent Strong,2026-07,cs.LG,https://arxiv.org/abs/2607.06854,https://arxiv.org/pdf/2607.06854
+agent,2607.06764,Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1,2026-07,cs.AI,https://arxiv.org/abs/2607.06764,https://arxiv.org/pdf/2607.06764
+agent,2607.06757,LLM-powered reasoning in agent-based modeling,2026-07,cs.AI,https://arxiv.org/abs/2607.06757,https://arxiv.org/pdf/2607.06757
+agent,2607.06713,Reliable and Developer-Aligned Evaluation of Agents for Software Engineering,2026-07,cs.SE,https://arxiv.org/abs/2607.06713,https://arxiv.org/pdf/2607.06713
+agent,2607.06522,Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment,2026-07,cs.AI,https://arxiv.org/abs/2607.06522,https://arxiv.org/pdf/2607.06522
+agent,2607.06503,Doomed from the Start Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade,2026-07,cs.AI,https://arxiv.org/abs/2607.06503,https://arxiv.org/pdf/2607.06503
+reasoning,2607.07708,"Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",2026-07,cs.CL,https://arxiv.org/abs/2607.07708,https://arxiv.org/pdf/2607.07708
+reasoning,2607.07646,RL Post-Training Builds Compositional Reasoning Strategies,2026-07,cs.AI,https://arxiv.org/abs/2607.07646,https://arxiv.org/pdf/2607.07646
+reasoning,2607.07508,Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning,2026-07,cs.LG,https://arxiv.org/abs/2607.07508,https://arxiv.org/pdf/2607.07508
+reasoning,2607.07507,HIVE Understanding Post-Hallucination Reasoning in Vision Language Models,2026-07,cs.CV,https://arxiv.org/abs/2607.07507,https://arxiv.org/pdf/2607.07507
+reasoning,2607.07395,When Prompts Ignore Structure Graph-Based Attribute Reasoning for Calibrated VLMs,2026-07,cs.CV,https://arxiv.org/abs/2607.07395,https://arxiv.org/pdf/2607.07395
+reasoning,2607.07386,Sparse Delta Memory Scaling the State of Linear RNNs through Sparsity,2026-07,cs.LG,https://arxiv.org/abs/2607.07386,https://arxiv.org/pdf/2607.07386
+reasoning,2607.07321,From Atomic Actions to Standard Operating Procedures Iterative Tool Optimization for Self-Evolving LLM Agents,2026-07,cs.AI,https://arxiv.org/abs/2607.07321,https://arxiv.org/pdf/2607.07321
+reasoning,2607.07316,"Mechanistic Interpretability for Neural Networks Circuits, Sparse Features and Symbolic Reasoning",2026-07,cs.LG,https://arxiv.org/abs/2607.07316,https://arxiv.org/pdf/2607.07316
+reasoning,2607.07251,Evaluation of Multilingual Ability to Use Spatial Deictic Expressions in Vision-Language Models,2026-07,cs.CL,https://arxiv.org/abs/2607.07251,https://arxiv.org/pdf/2607.07251
+reasoning,2607.07117,Tree-of-Thoughts Reasoning for Text-to-Image In-Context Learning,2026-07,cs.CV,https://arxiv.org/abs/2607.07117,https://arxiv.org/pdf/2607.07117
+reasoning,2607.07103,A knowledge-augmented dataset of high-risk driving scenarios with LLM annotations for autonomous driving,2026-07,cs.LG,https://arxiv.org/abs/2607.07103,https://arxiv.org/pdf/2607.07103
+reasoning,2607.07066,Multiplication Beyond Groups Stratified Fourier Mechanisms in Transformer Circuits,2026-07,cs.LG,https://arxiv.org/abs/2607.07066,https://arxiv.org/pdf/2607.07066
+reasoning,2607.07026,Constrained Decoding for Diffusion Language Models via Efficient Inference over Finite Automata,2026-07,cs.LG,https://arxiv.org/abs/2607.07026,https://arxiv.org/pdf/2607.07026
+reasoning,2607.06987,UP Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma,2026-07,cs.LG,https://arxiv.org/abs/2607.06987,https://arxiv.org/pdf/2607.06987
+reasoning,2607.06974,MILES Modular Instruction Memory with Learnable Selection for Self-Improving LLM Reasoning,2026-07,cs.CL,https://arxiv.org/abs/2607.06974,https://arxiv.org/pdf/2607.06974
+reasoning,2607.0694,Comprehensive Evaluation of Large Language Model Responses A Multi-Factor Scoring System,2026-07,cs.CL,https://arxiv.org/abs/2607.06940,https://arxiv.org/pdf/2607.06940
+reasoning,2607.06855,Geometric Self-Distillation for Reasoning Generalization,2026-07,cs.LG,https://arxiv.org/abs/2607.06855,https://arxiv.org/pdf/2607.06855
+reasoning,2607.06764,Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1,2026-07,cs.AI,https://arxiv.org/abs/2607.06764,https://arxiv.org/pdf/2607.06764
+reasoning,2607.06757,LLM-powered reasoning in agent-based modeling,2026-07,cs.AI,https://arxiv.org/abs/2607.06757,https://arxiv.org/pdf/2607.06757
+reasoning,2607.0672,When Does In-Context Search Help A Sampling-Complexity Theory of Reflection-Driven Reasoning,2026-07,cs.AI,https://arxiv.org/abs/2607.06720,https://arxiv.org/pdf/2607.06720
+alignment,2607.07673,MedPMC A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models,2026-07,cs.CV,https://arxiv.org/abs/2607.07673,https://arxiv.org/pdf/2607.07673
+alignment,2607.07669,DiaLLM An Investigation into the Robustness-Generation Gap in English Dialect Adaptation,2026-07,cs.CL,https://arxiv.org/abs/2607.07669,https://arxiv.org/pdf/2607.07669
+alignment,2607.07521,Creativity from Friction Human-AI Interaction for Exploratory Structural Design,2026-07,cs.HC,https://arxiv.org/abs/2607.07521,https://arxiv.org/pdf/2607.07521
+alignment,2607.07357,HumAIN Human-Aware Implicit Social Robot Navigation,2026-07,cs.RO,https://arxiv.org/abs/2607.07357,https://arxiv.org/pdf/2607.07357
+alignment,2607.07219,"Vision Foundation Models in Radiology A Scoping Review of Data, Methodology, Evaluation and Clinical Translation",2026-07,cs.CV,https://arxiv.org/abs/2607.07219,https://arxiv.org/pdf/2607.07219
+alignment,2607.07184,Predicting LLM Safety Before Release by Simulating Deployment,2026-07,cs.LG,https://arxiv.org/abs/2607.07184,https://arxiv.org/pdf/2607.07184
+alignment,2607.07021,Learning social norms enhances compatibility in dynamic human-AI coordination,2026-07,cs.AI,https://arxiv.org/abs/2607.07021,https://arxiv.org/pdf/2607.07021
+alignment,2607.06831,Gradient-Based Speech-to-Text Alignment for Any ASR Model From CTC to Speech LLMs,2026-07,cs.CL,https://arxiv.org/abs/2607.06831,https://arxiv.org/pdf/2607.06831
+alignment,2607.0654,Hierarchical Acoustic-Semantic Modeling Modality Separation and Semantic Coherence for Full-Duplex SLMs,2026-07,cs.CL,https://arxiv.org/abs/2607.06540,https://arxiv.org/pdf/2607.06540
+alignment,2607.06522,Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment,2026-07,cs.AI,https://arxiv.org/abs/2607.06522,https://arxiv.org/pdf/2607.06522
+alignment,2607.06481,Prompt-Adapter Context Routing for Parameter-Efficient Multi-Shot Long Video Extrapolation,2026-07,cs.CV,https://arxiv.org/abs/2607.06481,https://arxiv.org/pdf/2607.06481
+alignment,2607.06461,WordVoice Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS,2026-07,eess.AS,https://arxiv.org/abs/2607.06461,https://arxiv.org/pdf/2607.06461
+alignment,2607.06326,DT-Guard Intent-Driven Reasoning-Active Training for Reasoning-Free LLM Safety Guardrail,2026-07,cs.AI,https://arxiv.org/abs/2607.06326,https://arxiv.org/pdf/2607.06326
+alignment,2607.06269,From Application-Layer Simulation to Native Meta-Architecture Structural Tension as an Endogenous Driver for Heterogeneous AI Evolution,2026-07,cs.AI,https://arxiv.org/abs/2607.06269,https://arxiv.org/pdf/2607.06269
+alignment,2607.06196,"Pluralis v0.1 Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability",2026-07,cs.CL,https://arxiv.org/abs/2607.06196,https://arxiv.org/pdf/2607.06196
+alignment,2607.06626,Reward Valuation in Vision Language Models Causal Mechanisms Underlying Anhedonia,2026-07,cs.LG,https://arxiv.org/abs/2607.06626,https://arxiv.org/pdf/2607.06626
+alignment,2607.06163,X-FEMR A Token-level Explainable Approach for Electronic Health Records Foundation Models using Transformer-based Models,2026-07,cs.LG,https://arxiv.org/abs/2607.06163,https://arxiv.org/pdf/2607.06163
+alignment,2607.06623,LLM-Guided Task-Semantic Field Factorization for Industrial Process Forecasting,2026-07,cs.LG,https://arxiv.org/abs/2607.06623,https://arxiv.org/pdf/2607.06623
+alignment,2607.06001,Information Limits and Attractor Dynamics in Economies of Frontier LLM Agents A Pre-Registered Test,2026-07,cs.AI,https://arxiv.org/abs/2607.06001,https://arxiv.org/pdf/2607.06001
+alignment,2607.05985,Auto-DSM Under the Lens A Black-Box Evaluation Framework for LLM-Based DSM Generation,2026-07,cs.AI,https://arxiv.org/abs/2607.05985,https://arxiv.org/pdf/2607.05985
+safety,2607.07696,Breaking Database Lock-in Agentic Regeneration of High Performance Storage Readers for Database Bypass,2026-07,cs.DB,https://arxiv.org/abs/2607.07696,https://arxiv.org/pdf/2607.07696
+safety,2607.07527,A Unified Detection Framework for AI-Related Content and Artifacts,2026-07,stat.ML,https://arxiv.org/abs/2607.07527,https://arxiv.org/pdf/2607.07527
+safety,2607.07507,HIVE Understanding Post-Hallucination Reasoning in Vision Language Models,2026-07,cs.CV,https://arxiv.org/abs/2607.07507,https://arxiv.org/pdf/2607.07507
+safety,2607.07474,Beyond Attack-Success Rate Action-Graded Severity Scale for Tool-Using AI Agents,2026-07,cs.CR,https://arxiv.org/abs/2607.07474,https://arxiv.org/pdf/2607.07474
+safety,2607.07316,"Mechanistic Interpretability for Neural Networks Circuits, Sparse Features and Symbolic Reasoning",2026-07,cs.LG,https://arxiv.org/abs/2607.07316,https://arxiv.org/pdf/2607.07316
+safety,2607.07184,Predicting LLM Safety Before Release by Simulating Deployment,2026-07,cs.LG,https://arxiv.org/abs/2607.07184,https://arxiv.org/pdf/2607.07184
+safety,2607.07103,A knowledge-augmented dataset of high-risk driving scenarios with LLM annotations for autonomous driving,2026-07,cs.LG,https://arxiv.org/abs/2607.07103,https://arxiv.org/pdf/2607.07103
+safety,2607.07097,Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety,2026-07,cs.AI,https://arxiv.org/abs/2607.07097,https://arxiv.org/pdf/2607.07097
+safety,2607.07047,Riemannian Geometry for Pre-trained Language Model Embeddings,2026-07,cs.CL,https://arxiv.org/abs/2607.07047,https://arxiv.org/pdf/2607.07047
+safety,2607.06963,"Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies",2026-07,cs.CR,https://arxiv.org/abs/2607.06963,https://arxiv.org/pdf/2607.06963
+safety,2607.06748,SmartHomeSecure Automated Detection and Repair of Smart Home Configuration Errors Using Large Language Models,2026-07,cs.SE,https://arxiv.org/abs/2607.06748,https://arxiv.org/pdf/2607.06748
+safety,2607.06641,Healthier LLMs Retrieval-Augmented Generation for Public Health Question Answering,2026-07,cs.CL,https://arxiv.org/abs/2607.06641,https://arxiv.org/pdf/2607.06641
+safety,2607.06326,DT-Guard Intent-Driven Reasoning-Active Training for Reasoning-Free LLM Safety Guardrail,2026-07,cs.AI,https://arxiv.org/abs/2607.06326,https://arxiv.org/pdf/2607.06326
+safety,2607.06196,"Pluralis v0.1 Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability",2026-07,cs.CL,https://arxiv.org/abs/2607.06196,https://arxiv.org/pdf/2607.06196
+safety,2607.06163,X-FEMR A Token-level Explainable Approach for Electronic Health Records Foundation Models using Transformer-based Models,2026-07,cs.LG,https://arxiv.org/abs/2607.06163,https://arxiv.org/pdf/2607.06163
+safety,2607.06127,Measuring the practice of shared-decision making (OPTION12) An Investigation into Open-sourced Smaller LLMs (OS-sLLMs) for Better Privacy and Sustainability,2026-07,cs.CL,https://arxiv.org/abs/2607.06127,https://arxiv.org/pdf/2607.06127
+safety,2607.05985,Auto-DSM Under the Lens A Black-Box Evaluation Framework for LLM-Based DSM Generation,2026-07,cs.AI,https://arxiv.org/abs/2607.05985,https://arxiv.org/pdf/2607.05985
+safety,2607.05978,Propose and Attend Training-free MLLM Grounding Confidence via Multi-Token Localized Attention,2026-07,cs.CV,https://arxiv.org/abs/2607.05978,https://arxiv.org/pdf/2607.05978
+safety,2607.05956,Integrating knowledge graphs and multilingual scholarly corpora for domain-adaptive LLMs in SSH,2026-07,cs.AI,https://arxiv.org/abs/2607.05956,https://arxiv.org/pdf/2607.05956
+safety,2607.05936,Mitigating Errors in LLM-Generated Web API Invocations via Retrieval-Augmented Generation and Constrained Decoding,2026-07,cs.SE,https://arxiv.org/abs/2607.05936,https://arxiv.org/pdf/2607.05936
+quantization,2607.07494,GIFT Geometry-Informed Low-precision Gradient Communication for LLM Pretraining,2026-07,cs.DC,https://arxiv.org/abs/2607.07494,https://arxiv.org/pdf/2607.07494
+quantization,2607.06523,DepthWeave-KV Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression,2026-07,cs.AI,https://arxiv.org/abs/2607.06523,https://arxiv.org/pdf/2607.06523
+quantization,2607.06009,Multi-Channel Spread-Spectrum Code Watermarking,2026-07,cs.CR,https://arxiv.org/abs/2607.06009,https://arxiv.org/pdf/2607.06009
+quantization,2607.05902,From Textural Counterpoint to Feature Encoding A Multi-Dimensional Machine Representation Study of Haydn s The Lark Integrating Electroacoustic Analysis,2026-07,cs.SD,https://arxiv.org/abs/2607.05902,https://arxiv.org/pdf/2607.05902
+quantization,2607.06601,"TriRoute Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation",2026-07,cs.LG,https://arxiv.org/abs/2607.06601,https://arxiv.org/pdf/2607.06601
+quantization,2607.05196,Unified Audio Intelligence Without Regressing on Text Intelligence,2026-07,cs.CL,https://arxiv.org/abs/2607.05196,https://arxiv.org/pdf/2607.05196
+quantization,2607.05475,Is Your NPU Ready for LLMs Dissecting the Hidden Efficiency Bottlenecks in Mobile LLM Inference,2026-07,cs.AR,https://arxiv.org/abs/2607.05475,https://arxiv.org/pdf/2607.05475
+quantization,2607.0464,Wrong Before Right Late Rescue and Interface Failure in Aligned Language Models,2026-07,cs.CL,https://arxiv.org/abs/2607.04640,https://arxiv.org/pdf/2607.04640
+quantization,2607.04422,"Full-Stack FP4 Stable LLM Pretraining with Quantized Projections, Optimizers, and Attention",2026-07,cs.LG,https://arxiv.org/abs/2607.04422,https://arxiv.org/pdf/2607.04422
+quantization,2607.04302,HiFA4 Training-Free 4-bit FlashAttention on Ascend HIF4 NPUs for LLM Inference,2026-07,cs.LG,https://arxiv.org/abs/2607.04302,https://arxiv.org/pdf/2607.04302
+quantization,2607.03876,"AdaptiveSD A Stability-Aware, Runtime-Adaptive Speculative Decoding Framework with Multi-Policy Orchestration for CPU-Constrained LLM Inference",2026-07,cs.LG,https://arxiv.org/abs/2607.03876,https://arxiv.org/pdf/2607.03876
+quantization,2607.03803,CineMobile On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation,2026-07,cs.CV,https://arxiv.org/abs/2607.03803,https://arxiv.org/pdf/2607.03803
+quantization,2607.03652,ELiTeFormer An Efficient Transformer for FPGAs,2026-07,cs.AR,https://arxiv.org/abs/2607.03652,https://arxiv.org/pdf/2607.03652
+quantization,2607.02893,Variable Bit-width Quantization Learning Per-Group Precision for Bigger-but-Smaller Language Models,2026-07,cs.LG,https://arxiv.org/abs/2607.02893,https://arxiv.org/pdf/2607.02893
+quantization,2607.02461,OrbitQuant Data-Agnostic Quantization for Image and Video Diffusion Transformers,2026-07,cs.CV,https://arxiv.org/abs/2607.02461,https://arxiv.org/pdf/2607.02461
+lora,2607.07494,GIFT Geometry-Informed Low-precision Gradient Communication for LLM Pretraining,2026-07,cs.DC,https://arxiv.org/abs/2607.07494,https://arxiv.org/pdf/2607.07494
+lora,2607.07388,TF-Engram A Train-Free Engram with SSD-Backed Memory for Large Language Models,2026-07,cs.CL,https://arxiv.org/abs/2607.07388,https://arxiv.org/pdf/2607.07388
+lora,2607.07066,Multiplication Beyond Groups Stratified Fourier Mechanisms in Transformer Circuits,2026-07,cs.LG,https://arxiv.org/abs/2607.07066,https://arxiv.org/pdf/2607.07066
+lora,2607.06918,LoCA Spatially-Aware Low-Rank Convolutional Adaptation of Vision Foundation Models,2026-07,cs.CV,https://arxiv.org/abs/2607.06918,https://arxiv.org/pdf/2607.06918
+lora,2607.06882,GemNav Discrete-Token Visual Robot Navigation using a Multimodal Large Language Model,2026-07,cs.RO,https://arxiv.org/abs/2607.06882,https://arxiv.org/pdf/2607.06882
+lora,2607.06763,Trees from Marginals Autoregressive drafting with factorized priors,2026-07,cs.LG,https://arxiv.org/abs/2607.06763,https://arxiv.org/pdf/2607.06763
+lora,2607.06523,DepthWeave-KV Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression,2026-07,cs.AI,https://arxiv.org/abs/2607.06523,https://arxiv.org/pdf/2607.06523
+lora,2607.06481,Prompt-Adapter Context Routing for Parameter-Efficient Multi-Shot Long Video Extrapolation,2026-07,cs.CV,https://arxiv.org/abs/2607.06481,https://arxiv.org/pdf/2607.06481
+lora,2607.05937,Is Domain Adaptation Always Helpful A Frozen-Backbone Study of Cross-Domain Sentiment Transfer,2026-07,cs.CL,https://arxiv.org/abs/2607.05937,https://arxiv.org/pdf/2607.05937
+lora,2607.05872,No Subspace to Track Non-Identifiability and Optimizer State in Low-Rank Training,2026-07,cs.LG,https://arxiv.org/abs/2607.05872,https://arxiv.org/pdf/2607.05872
+lora,2607.05114,Localized LoRA-MoE Block-wise Low-Rank Experts With Adaptive Routing,2026-07,cs.LG,https://arxiv.org/abs/2607.05114,https://arxiv.org/pdf/2607.05114
+lora,2607.0464,Wrong Before Right Late Rescue and Interface Failure in Aligned Language Models,2026-07,cs.CL,https://arxiv.org/abs/2607.04640,https://arxiv.org/pdf/2607.04640
+lora,2607.04619,CARD Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning,2026-07,cs.SD,https://arxiv.org/abs/2607.04619,https://arxiv.org/pdf/2607.04619
+lora,2607.05458,Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning,2026-07,cs.LG,https://arxiv.org/abs/2607.05458,https://arxiv.org/pdf/2607.05458
+lora,2607.0451,"Transplanting, inverting, and preventing a misalignment persona method-conditional emergent misalignment in Qwen2.5",2026-07,cs.CL,https://arxiv.org/abs/2607.04510,https://arxiv.org/pdf/2607.04510
+lora,2607.04469,Don t Commit Alone Joint Token Commitment in Diffusion Large Language Models,2026-07,cs.CL,https://arxiv.org/abs/2607.04469,https://arxiv.org/pdf/2607.04469
+lora,2607.04429,evalci A Python Library for Statistically Rigorous Comparison of Language Model Evaluations,2026-07,cs.CL,https://arxiv.org/abs/2607.04429,https://arxiv.org/pdf/2607.04429
+lora,2607.04422,"Full-Stack FP4 Stable LLM Pretraining with Quantized Projections, Optimizers, and Attention",2026-07,cs.LG,https://arxiv.org/abs/2607.04422,https://arxiv.org/pdf/2607.04422
+lora,2607.0414,DELTA-TTS Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech,2026-07,eess.AS,https://arxiv.org/abs/2607.04140,https://arxiv.org/pdf/2607.04140
+lora,2607.03886,Enhancement of E-commerce Sponsored Search Relevancy with LLM,2026-07,cs.IR,https://arxiv.org/abs/2607.03886,https://arxiv.org/pdf/2607.03886
+multimodal,2607.07708,"Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",2026-07,cs.CL,https://arxiv.org/abs/2607.07708,https://arxiv.org/pdf/2607.07708
+multimodal,2607.07673,MedPMC A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models,2026-07,cs.CV,https://arxiv.org/abs/2607.07673,https://arxiv.org/pdf/2607.07673
+multimodal,2607.07521,Creativity from Friction Human-AI Interaction for Exploratory Structural Design,2026-07,cs.HC,https://arxiv.org/abs/2607.07521,https://arxiv.org/pdf/2607.07521
+multimodal,2607.07507,HIVE Understanding Post-Hallucination Reasoning in Vision Language Models,2026-07,cs.CV,https://arxiv.org/abs/2607.07507,https://arxiv.org/pdf/2607.07507
+multimodal,2607.07401,Heterogeneity-Adaptive Diffusion Schrodinger Bridge for PET-Guided Whole-Body MRI Translation,2026-07,cs.CV,https://arxiv.org/abs/2607.07401,https://arxiv.org/pdf/2607.07401
+multimodal,2607.07395,When Prompts Ignore Structure Graph-Based Attribute Reasoning for Calibrated VLMs,2026-07,cs.CV,https://arxiv.org/abs/2607.07395,https://arxiv.org/pdf/2607.07395
+multimodal,2607.07382,Generalist Vision-Language Models for Fast Radio Burst detection a zero-shot benchmark against a specialized detector,2026-07,cs.LG,https://arxiv.org/abs/2607.07382,https://arxiv.org/pdf/2607.07382
+multimodal,2607.07375,On Adversarial Vulnerability of Vision-Language Models through the Lens of Intermediate Spectral Subspaces,2026-07,cs.LG,https://arxiv.org/abs/2607.07375,https://arxiv.org/pdf/2607.07375
+multimodal,2607.07357,HumAIN Human-Aware Implicit Social Robot Navigation,2026-07,cs.RO,https://arxiv.org/abs/2607.07357,https://arxiv.org/pdf/2607.07357
+multimodal,2607.07251,Evaluation of Multilingual Ability to Use Spatial Deictic Expressions in Vision-Language Models,2026-07,cs.CL,https://arxiv.org/abs/2607.07251,https://arxiv.org/pdf/2607.07251
+multimodal,2607.07189,Does AI Understand Imaging A Systematic Benchmark of Agentic AI for Computational Imaging Tasks,2026-07,cs.AI,https://arxiv.org/abs/2607.07189,https://arxiv.org/pdf/2607.07189
+multimodal,2607.07179,Comparative Study of Domain-adapted VLMs for General Document Visual Question Answering,2026-07,cs.CV,https://arxiv.org/abs/2607.07179,https://arxiv.org/pdf/2607.07179
+multimodal,2607.07117,Tree-of-Thoughts Reasoning for Text-to-Image In-Context Learning,2026-07,cs.CV,https://arxiv.org/abs/2607.07117,https://arxiv.org/pdf/2607.07117
+multimodal,2607.07033,AnchorPrune Relevance-Anchored Contextual Expansion for Visual Token Pruning,2026-07,cs.CV,https://arxiv.org/abs/2607.07033,https://arxiv.org/pdf/2607.07033
+multimodal,2607.07027,Latent graph encoding of multimodal neuroimaging features with generative AI architectures,2026-07,cs.LG,https://arxiv.org/abs/2607.07027,https://arxiv.org/pdf/2607.07027
+multimodal,2607.06987,UP Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma,2026-07,cs.LG,https://arxiv.org/abs/2607.06987,https://arxiv.org/pdf/2607.06987
+multimodal,2607.06964,End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent,2026-07,cs.RO,https://arxiv.org/abs/2607.06964,https://arxiv.org/pdf/2607.06964
+multimodal,2607.06882,GemNav Discrete-Token Visual Robot Navigation using a Multimodal Large Language Model,2026-07,cs.RO,https://arxiv.org/abs/2607.06882,https://arxiv.org/pdf/2607.06882
+multimodal,2607.06875,Video2Reaction Mapping Video to Audience Reaction Distribution in the Wild,2026-07,cs.CV,https://arxiv.org/abs/2607.06875,https://arxiv.org/pdf/2607.06875
+multimodal,2607.06839,LEMUR 2 Unlocking Neural Network Diversity for AI,2026-07,cs.LG,https://arxiv.org/abs/2607.06839,https://arxiv.org/pdf/2607.06839
+benchmark,2607.07708,"Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",2026-07,cs.CL,https://arxiv.org/abs/2607.07708,https://arxiv.org/pdf/2607.07708
+benchmark,2607.07696,Breaking Database Lock-in Agentic Regeneration of High Performance Storage Readers for Database Bypass,2026-07,cs.DB,https://arxiv.org/abs/2607.07696,https://arxiv.org/pdf/2607.07696
+benchmark,2607.07673,MedPMC A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models,2026-07,cs.CV,https://arxiv.org/abs/2607.07673,https://arxiv.org/pdf/2607.07673
+benchmark,2607.07669,DiaLLM An Investigation into the Robustness-Generation Gap in English Dialect Adaptation,2026-07,cs.CL,https://arxiv.org/abs/2607.07669,https://arxiv.org/pdf/2607.07669
+benchmark,2607.07573,Multi-Class vs. Multi-Label BERT for CVE-to-CWE Mapping How Taxonomy Structure Shapes the Errors,2026-07,cs.LG,https://arxiv.org/abs/2607.07573,https://arxiv.org/pdf/2607.07573
+benchmark,2607.07548,"Think Big, Search Small Where Capacity Matters in Hierarchical Search Agents",2026-07,cs.CL,https://arxiv.org/abs/2607.07548,https://arxiv.org/pdf/2607.07548
+benchmark,2607.07527,A Unified Detection Framework for AI-Related Content and Artifacts,2026-07,stat.ML,https://arxiv.org/abs/2607.07527,https://arxiv.org/pdf/2607.07527
+benchmark,2607.07508,Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning,2026-07,cs.LG,https://arxiv.org/abs/2607.07508,https://arxiv.org/pdf/2607.07508
+benchmark,2607.07507,HIVE Understanding Post-Hallucination Reasoning in Vision Language Models,2026-07,cs.CV,https://arxiv.org/abs/2607.07507,https://arxiv.org/pdf/2607.07507
+benchmark,2607.07474,Beyond Attack-Success Rate Action-Graded Severity Scale for Tool-Using AI Agents,2026-07,cs.CR,https://arxiv.org/abs/2607.07474,https://arxiv.org/pdf/2607.07474
+benchmark,2607.07469,SynthAVE Scalable Synthetic Labeling for E-Commerce with LLM-Arena Validation,2026-07,cs.CL,https://arxiv.org/abs/2607.07469,https://arxiv.org/pdf/2607.07469
+benchmark,2607.07467,SpaCellAgent A Self-Evolving LLM-Based Multi-Agent Framework for Trajectory Analysis,2026-07,cs.AI,https://arxiv.org/abs/2607.07467,https://arxiv.org/pdf/2607.07467
+benchmark,2607.07408,Transformer-based segmentation of prosodic boundaries in Brazilian Portuguese,2026-07,cs.CL,https://arxiv.org/abs/2607.07408,https://arxiv.org/pdf/2607.07408
+benchmark,2607.07395,When Prompts Ignore Structure Graph-Based Attribute Reasoning for Calibrated VLMs,2026-07,cs.CV,https://arxiv.org/abs/2607.07395,https://arxiv.org/pdf/2607.07395
+benchmark,2607.07388,TF-Engram A Train-Free Engram with SSD-Backed Memory for Large Language Models,2026-07,cs.CL,https://arxiv.org/abs/2607.07388,https://arxiv.org/pdf/2607.07388
+benchmark,2607.07382,Generalist Vision-Language Models for Fast Radio Burst detection a zero-shot benchmark against a specialized detector,2026-07,cs.LG,https://arxiv.org/abs/2607.07382,https://arxiv.org/pdf/2607.07382
+benchmark,2607.07321,From Atomic Actions to Standard Operating Procedures Iterative Tool Optimization for Self-Evolving LLM Agents,2026-07,cs.AI,https://arxiv.org/abs/2607.07321,https://arxiv.org/pdf/2607.07321
+benchmark,2607.07289,Bayesian Optimization of Genetic Algorithm Hyperparameters in a Multi-Fidelity Framework for Efficient Lattice Material Design,2026-07,cond-mat.mtrl-sci,https://arxiv.org/abs/2607.07289,https://arxiv.org/pdf/2607.07289
+benchmark,2607.07277,Understanding Interpretation Difficulty in Harmful Online Communication Insights from Cybercrime Communities,2026-07,cs.CL,https://arxiv.org/abs/2607.07277,https://arxiv.org/pdf/2607.07277
+benchmark,2607.07251,Evaluation of Multilingual Ability to Use Spatial Deictic Expressions in Vision-Language Models,2026-07,cs.CL,https://arxiv.org/abs/2607.07251,https://arxiv.org/pdf/2607.07251
+hallucination,2607.07527,A Unified Detection Framework for AI-Related Content and Artifacts,2026-07,stat.ML,https://arxiv.org/abs/2607.07527,https://arxiv.org/pdf/2607.07527
+hallucination,2607.07507,HIVE Understanding Post-Hallucination Reasoning in Vision Language Models,2026-07,cs.CV,https://arxiv.org/abs/2607.07507,https://arxiv.org/pdf/2607.07507
+hallucination,2607.06641,Healthier LLMs Retrieval-Augmented Generation for Public Health Question Answering,2026-07,cs.CL,https://arxiv.org/abs/2607.06641,https://arxiv.org/pdf/2607.06641
+hallucination,2607.0616,LongCrafter Towards Diverse Long-Context Understanding via Evidence-Graph-Guided Instruction Synthesis,2026-07,cs.CL,https://arxiv.org/abs/2607.06160,https://arxiv.org/pdf/2607.06160
+hallucination,2607.06127,Measuring the practice of shared-decision making (OPTION12) An Investigation into Open-sourced Smaller LLMs (OS-sLLMs) for Better Privacy and Sustainability,2026-07,cs.CL,https://arxiv.org/abs/2607.06127,https://arxiv.org/pdf/2607.06127
+hallucination,2607.05985,Auto-DSM Under the Lens A Black-Box Evaluation Framework for LLM-Based DSM Generation,2026-07,cs.AI,https://arxiv.org/abs/2607.05985,https://arxiv.org/pdf/2607.05985
+hallucination,2607.05978,Propose and Attend Training-free MLLM Grounding Confidence via Multi-Token Localized Attention,2026-07,cs.CV,https://arxiv.org/abs/2607.05978,https://arxiv.org/pdf/2607.05978
+hallucination,2607.05956,Integrating knowledge graphs and multilingual scholarly corpora for domain-adaptive LLMs in SSH,2026-07,cs.AI,https://arxiv.org/abs/2607.05956,https://arxiv.org/pdf/2607.05956
+hallucination,2607.05936,Mitigating Errors in LLM-Generated Web API Invocations via Retrieval-Augmented Generation and Constrained Decoding,2026-07,cs.SE,https://arxiv.org/abs/2607.05936,https://arxiv.org/pdf/2607.05936
+hallucination,2607.05861,Mitigating Factual Hallucination in Large Reasoning Models via Mixed-Mode Advantage Regularization,2026-07,cs.CL,https://arxiv.org/abs/2607.05861,https://arxiv.org/pdf/2607.05861
+hallucination,2607.05798,Segmentation before Answering Pixel Grounding for MLLM Visual Reasoning,2026-07,cs.CV,https://arxiv.org/abs/2607.05798,https://arxiv.org/pdf/2607.05798
+hallucination,2607.05638,EvalLoop A Methodology for Evaluation-Driven Iterative Improvement of Business AI Systems,2026-07,cs.SE,https://arxiv.org/abs/2607.05638,https://arxiv.org/pdf/2607.05638
+hallucination,2607.05355,Faithfulness to Refusal A Causal Audit of Neuron Selectors,2026-07,cs.CL,https://arxiv.org/abs/2607.05355,https://arxiv.org/pdf/2607.05355
+hallucination,2607.05199,"Reason, Reward, Refine Step-Level Errors Corrections with Structured Feedback for Physics Reasoning in Small Language Models",2026-07,cs.AI,https://arxiv.org/abs/2607.05199,https://arxiv.org/pdf/2607.05199
+hallucination,2607.05069,MIRAGE Defending Long-Form RAG Against Misinformation Pollution,2026-07,cs.CL,https://arxiv.org/abs/2607.05069,https://arxiv.org/pdf/2607.05069
+hallucination,2607.04907,Medi-Gemma A Hybrid Clinical Decision Support System Integrating Deterministic EMR Analytics and Retrieval-Augmented Generation,2026-07,cs.AI,https://arxiv.org/abs/2607.04907,https://arxiv.org/pdf/2607.04907
+hallucination,2607.05456,Prompt-to-Paper Agentic AI System for Bioinformatics,2026-07,cs.AI,https://arxiv.org/abs/2607.05456,https://arxiv.org/pdf/2607.05456
+hallucination,2607.0429,Agentic-V2X Small Language Model Agents for Deadline-Aware V2X Scheduling in 5G 6G Networks,2026-07,cs.NI,https://arxiv.org/abs/2607.04290,https://arxiv.org/pdf/2607.04290
+hallucination,2607.0424,Biological Motifs for Agentic Control,2026-07,cs.AI,https://arxiv.org/abs/2607.04240,https://arxiv.org/pdf/2607.04240
+hallucination,2607.04223,Detecting Hallucinations in Retrieval-Augmented Generation through Grounding-Aware Sensitivity by Perturbation (GASP),2026-07,cs.CL,https://arxiv.org/abs/2607.04223,https://arxiv.org/pdf/2607.04223

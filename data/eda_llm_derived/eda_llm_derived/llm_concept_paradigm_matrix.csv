@@ -1,0 +1,1514 @@
+﻿concept_name,concept_type,primary_paradigm,paper_count
+reinforcement learning,method,Reasoning,5
+large language model,model,Reasoning,4
+transformer,model,Reasoning,4
+large language models,model,Reasoning,4
+multimodal,task,Multimodal,3
+macro-f1,metric,Benchmark/Evaluation,3
+language model,model,Benchmark/Evaluation,3
+large language models,model,Theory/Methodology,3
+large language models,model,Benchmark/Evaluation,3
+large language model,model,Benchmark/Evaluation,3
+retrieval-augmented generation,method,RAG/Retrieval,3
+policy optimization,method,Alignment/Safety,2
+policy gradient,method,Reasoning,2
+self-distillation,method,Reasoning,2
+alignment,other,Alignment/Safety,2
+knowledge distillation,method,Reasoning,2
+large language model,model,Agent/Tool Use,2
+hidden states,model,Reasoning,2
+llm,model,Agent/Tool Use,2
+large language models,model,Alignment/Safety,2
+prompt engineering,method,Benchmark/Evaluation,2
+evaluation,other,Benchmark/Evaluation,2
+multimodal,task,Benchmark/Evaluation,2
+fine-tuning,method,Theory/Methodology,2
+retrieval-augmented generation,method,Reasoning,2
+hallucination,risk,Reasoning,2
+retrieval-augmented generation,method,Agent/Tool Use,2
+vision-language model,model,Reasoning,2
+post-rl teacher,model,Reasoning,1
+post hallucination reasoning (phr,task,Reasoning,1
+position-interpolation-based length generalization,method,Theory/Methodology,1
+position estimation,metric,Theory/Methodology,1
+position embedding,theory,Reasoning,1
+port-based cad assembly library,method,Reasoning,1
+price anchoring,method,Reasoning,1
+primitive skills,task,Reasoning,1
+principled-vs-statistical distinction,other,Theory/Methodology,1
+privacy,application,Benchmark/Evaluation,1
+population profile,method,Benchmark/Evaluation,1
+population misalignment,risk,Benchmark/Evaluation,1
+polyworkbench,other,Benchmark/Evaluation,1
+privacy classifier,tool,Application,1
+polysemanticity,risk,Theory/Methodology,1
+post-hoc score,metric,Multimodal,1
+predictability,theory,Alignment/Safety,1
+predicate-gated state transitions,method,Alignment/Safety,1
+pre-solution confidence,metric,Reasoning,1
+preference optimization,method,Reasoning,1
+pretrained audio teacher,model,Efficiency/Optimization,1
+pre-generation signals,method,Reasoning,1
+pragmatic quality,metric,Reasoning,1
+pragmatic framing,risk,Alignment/Safety,1
+pragmatic ambiguity,task,RAG/Retrieval,1
+private intent,task,Alignment/Safety,1
+pretrained score network,model,Reasoning,1
+power-calibrated,theory,Theory/Methodology,1
+power status,application,Theory/Methodology,1
+power analysis,theory,Benchmark/Evaluation,1
+potential-based reward shaping (pbrs,theory,Alignment/Safety,1
+posterior belief,theory,Agent/Tool Use,1
+post-training acceleration,method,Efficiency/Optimization,1
+pretraining curriculum,theory,Theory/Methodology,1
+post-training,application,Agent/Tool Use,1
+post-solution confidence,metric,Reasoning,1
+powerbench,tool,Efficiency/Optimization,1
+pet-guided noise modulation module,tool,Reasoning,1
+perturbation discrimination score (pds,metric,Benchmark/Evaluation,1
+personal ai agents,application,Alignment/Safety,1
+persistent homology,theory,Application,1
+perplexity degradation,metric,Efficiency/Optimization,1
+perplexity,metric,Efficiency/Optimization,1
+perplexity,metric,Benchmark/Evaluation,1
+performance-relevant diff hunks,task,Theory/Methodology,1
+perceptual stages,task,Efficiency/Optimization,1
+percentile-aware layerwise sparsity,method,Efficiency/Optimization,1
+privacy-utility orthogonality,theory,Application,1
+pedagogical rubric,theory,Benchmark/Evaluation,1
+pattern recognition,theory,Theory/Methodology,1
+pattern matching,task,Reasoning,1
+pattern discovery,task,Agent/Tool Use,1
+pathwise feature transport,method,Reasoning,1
+path-dependent tension resolution,theory,Theory/Methodology,1
+path planning,task,Reasoning,1
+pass 2,metric,Agent/Tool Use,1
+partial observability,task,Reasoning,1
+part segmentation,task,Reasoning,1
+parametric component factories,application,Reasoning,1
+per-axis normalization,method,Efficiency/Optimization,1
+polynomial approximations,method,Efficiency/Optimization,1
+pollution protocol,dataset,Alignment/Safety,1
+political orientation,application,Theory/Methodology,1
+policy optimization target,theory,Reasoning,1
+policy loss,metric,Alignment/Safety,1
+policy gradients,theory,Reasoning,1
+policy distillation,method,Reasoning,1
+polarity-contradiction detection,method,Benchmark/Evaluation,1
+poisson arrival process,model,Agent/Tool Use,1
+point-cloud manifold,model,Theory/Methodology,1
+phase-based freeze schedule,method,Alignment/Safety,1
+podcast feed,dataset,Dataset/Benchmark,1
+planning compilation,method,Agent/Tool Use,1
+planning,other,Alignment/Safety,1
+planner behavior,other,Alignment/Safety,1
+plan-like internal representation,theory,Theory/Methodology,1
+pixel-level segmentation mask,tool,Reasoning,1
+physics-guided machine learning,theory,Reasoning,1
+physics-audited agentic sciml,method,Agent/Tool Use,1
+physics requirements,theory,Agent/Tool Use,1
+physical plausibility,other,Reasoning,1
+physical laws,application,Reasoning,1
+point cloud evolution,task,Reasoning,1
+refusal,application,Reasoning,1
+reflective orchestrator,method,Agent/Tool Use,1
+reference-free,model,Reasoning,1
+reed-solomon code,method,Theory/Methodology,1
+redundant meta-training compute,method,Efficiency/Optimization,1
+redsm5,dataset,Benchmark/Evaluation,1
+recursive prompt bank,model,Multimodal,1
+recurring workflows,task,Agent/Tool Use,1
+recurrent soft-flow,method,Reasoning,1
+reconstruction-aware,method,Application,1
+prompt category,task,Benchmark/Evaluation,1
+reasoning-free inference,other,Alignment/Safety,1
+reasoning-active training,other,Alignment/Safety,1
+reasoning traces,task,Alignment/Safety,1
+reasoning guard,other,Alignment/Safety,1
+reasoning dynamics,metric,Reasoning,1
+realistic coding contexts,task,Benchmark/Evaluation,1
+real-world end-to-end working demands,task,Benchmark/Evaluation,1
+readability,metric,Benchmark/Evaluation,1
+ray and wave optics,task,Benchmark/Evaluation,1
+rational inattention,theory,Alignment/Safety,1
+recommendation generation,application,Benchmark/Evaluation,1
+requirement disambiguation,task,RAG/Retrieval,1
+reproducing kernel hilbert space,model,Theory/Methodology,1
+reproducibility,metric,Efficiency/Optimization,1
+representation sharing,metric,Alignment/Safety,1
+repository enrichment,method,Benchmark/Evaluation,1
+repeated games,other,Alignment/Safety,1
+repeated execution protocol,method,Benchmark/Evaluation,1
+renyi entropy,metric,Theory/Methodology,1
+relevance anchor,model,Efficiency/Optimization,1
+rejection sampling,theory,Alignment/Safety,1
+refusal behavior,other,Alignment/Safety,1
+reinforcement learning from verifiable rewards (rlvr,method,Reasoning,1
+reinforcement learning,theory,Reasoning,1
+reinforcement learning,method,Agent/Tool Use,1
+reinforcement learning,application,Agent/Tool Use,1
+reinforcement fine-tuning,method,Alignment/Safety,1
+regulation-aware ai,theory,Alignment/Safety,1
+regression model,method,Reasoning,1
+region of interest,task,Reasoning,1
+region context embeddings,task,Reasoning,1
+regime-dependent failure,risk,Alignment/Safety,1
+regex-based constraint,tool,Reasoning,1
+rejection fine-tuning,method,Reasoning,1
+prototypical contrastive learning,method,Theory/Methodology,1
+protocolmanager,tool,RAG/Retrieval,1
+prosodic segmentation,task,Reasoning,1
+proprioceptive vehicle localization,task,Reasoning,1
+proposal trees,task,Reasoning,1
+proof-mechanism,task,Reasoning,1
+prompt-optimized parameter shaking,method,Alignment/Safety,1
+prompt robustness,theory,Benchmark/Evaluation,1
+prompt optimization,method,Theory/Methodology,1
+prompt construction,risk,Reasoning,1
+rate-of-spread estimation,metric,Reasoning,1
+parameter-efficient fine-tuning (peft,method,Efficiency/Optimization,1
+projective techniques,task,Theory/Methodology,1
+program synthesis,task,Agent/Tool Use,1
+program evolution,task,Reasoning,1
+program analysis,tool,Agent/Tool Use,1
+production traffic,metric,Benchmark/Evaluation,1
+process model generation,task,Reasoning,1
+probability capacity (cap,theory,Reasoning,1
+privileged information,risk,Reasoning,1
+privileged context,method,Alignment/Safety,1
+prompt complexity,theory,Theory/Methodology,1
+rank-r subspace,task,Efficiency/Optimization,1
+rank-1 orthogonal projections,method,Efficiency/Optimization,1
+random sampling map,method,Theory/Methodology,1
+random neural network,model,Theory/Methodology,1
+random forest,method,Reasoning,1
+qwen,model,Efficiency/Optimization,1
+question-type-specific inference,method,Reasoning,1
+query-key projections,task,Efficiency/Optimization,1
+quantitative data extraction,method,Theory/Methodology,1
+quantisation,method,Efficiency/Optimization,1
+proxy score,metric,Theory/Methodology,1
+quality scorer,metric,Agent/Tool Use,1
+quality rubric,metric,Benchmark/Evaluation,1
+quadrotor,application,Reasoning,1
+pure reasoning,other,Reasoning,1
+pullback metrics,method,Theory/Methodology,1
+public announcement,task,Alignment/Safety,1
+pubhealthbench,dataset,RAG/Retrieval,1
+psychometric battery,method,Reasoning,1
+pseudo frames,dataset,Reasoning,1
+pruning,method,Efficiency/Optimization,1
+pruning,application,Reasoning,1
+quality-filtered trajectory distillation,method,Agent/Tool Use,1
+multi-agent architecture,model,Agent/Tool Use,1
+motion latents,other,Reasoning,1
+moral decisiveness,theory,Reasoning,1
+monotonic improvement,theory,Theory/Methodology,1
+monoid extension,theory,Reasoning,1
+monocular depth estimation,method,Reasoning,1
+moe llm,model,Multimodal,1
+moe,model,Efficiency/Optimization,1
+modular instruction memory,model,Reasoning,1
+model-relative text compression,theory,Theory/Methodology,1
+optimizer state,task,Efficiency/Optimization,1
+modality interference,risk,Reasoning,1
+mobilenetv2,model,Application,1
+mobile llm inference,task,Efficiency/Optimization,1
+mmlu,other,Efficiency/Optimization,1
+mmd,method,Alignment/Safety,1
+ml-based model selection,method,Efficiency/Optimization,1
+mixture-of-models,model,Efficiency/Optimization,1
+mixture of beta distribution,model,Theory/Methodology,1
+mixed-mode rollout,method,Alignment/Safety,1
+misalignment,risk,Benchmark/Evaluation,1
+minority class,task,Benchmark/Evaluation,1
+model failure modes,risk,Benchmark/Evaluation,1
+multi-scale transformer,model,Efficiency/Optimization,1
+multi-resolution,method,Reasoning,1
+multi-model blending,method,Reasoning,1
+multi-modality machine unlearning,theory,Alignment/Safety,1
+multi-modal representation,other,Benchmark/Evaluation,1
+multi-modal input,other,Reasoning,1
+multi-llm arena,tool,Benchmark/Evaluation,1
+multi-label span classification,task,Benchmark/Evaluation,1
+multi-label formulation,model,Benchmark/Evaluation,1
+multi-hop qa,dataset,Agent/Tool Use,1
+multi-agent coordination,application,Alignment/Safety,1
+multi-fidelity framework,theory,Efficiency/Optimization,1
+multi-dimensional reward shaping,method,Agent/Tool Use,1
+multi-dimensional annotation,metric,Benchmark/Evaluation,1
+multi-class formulation,model,Benchmark/Evaluation,1
+multi-channel spread-spectrum watermarking,method,Theory/Methodology,1
+multi-buyer markets,application,Reasoning,1
+multi-bit watermarking,method,Alignment/Safety,1
+multi-agent systems,theory,Agent/Tool Use,1
+multi-agent pipeline,method,Multimodal,1
+multi-agent mathematical reasoning,theory,Agent/Tool Use,1
+multi-agent llm safety,application,Alignment/Safety,1
+multi-gpu,tool,Efficiency/Optimization,1
+mamba,model,Reasoning,1
+majority voting,method,Theory/Methodology,1
+majority voting,method,Benchmark/Evaluation,1
+mahalanobis distance scores,metric,Theory/Methodology,1
+machine-checkable,tool,Agent/Tool Use,1
+machine translation,tool,Reasoning,1
+machine representation reconstruction,method,Theory/Methodology,1
+lyapunov function,theory,Efficiency/Optimization,1
+low-rank temporal adapters,model,Multimodal,1
+low-rank peft,method,Alignment/Safety,1
+minimum covariance determinant (mcd,method,Theory/Methodology,1
+low-rank adaptation (lora,method,Efficiency/Optimization,1
+low-precision gradient communication,method,Efficiency/Optimization,1
+low-latency path,model,Efficiency/Optimization,1
+low-capacity evaluation channel,model,Alignment/Safety,1
+lora fine-tune,method,Alignment/Safety,1
+lora adapters,model,Reasoning,1
+lora adapters,model,Efficiency/Optimization,1
+lora,model,Efficiency/Optimization,1
+long-term memory,model,Alignment/Safety,1
+long-horizon reasoning,other,Alignment/Safety,1
+long-horizon,task,Efficiency/Optimization,1
+low-rank adaptation (lora,method,Reasoning,1
+minimax-regret,metric,Agent/Tool Use,1
+meta-learning,theory,Efficiency/Optimization,1
+mentalroberta,model,Benchmark/Evaluation,1
+memory-guided generation,method,RAG/Retrieval,1
+memory poisoning,risk,Alignment/Safety,1
+memorization window,metric,Efficiency/Optimization,1
+medical figure classification,task,Multimodal,1
+mechanistic interpretability,theory,Theory/Methodology,1
+measurement validity,other,Alignment/Safety,1
+mean-field residual-scaling law,theory,Benchmark/Evaluation,1
+manipulation policies,application,Reasoning,1
+matthews correlation coefficient (mcc,metric,Benchmark/Evaluation,1
+mathematical reasoning,task,Benchmark/Evaluation,1
+mass-shell constraint,theory,Theory/Methodology,1
+mass-conserving fuel transport,metric,Reasoning,1
+masked sequence,task,Reasoning,1
+masked language model,model,Reasoning,1
+mask-conditioned,method,Efficiency/Optimization,1
+market discovery,task,Reasoning,1
+market coupling,task,Benchmark/Evaluation,1
+marker-gated coordination pass,method,Reasoning,1
+manual labeling,method,Dataset/Benchmark,1
+mean-field posterior,model,Efficiency/Optimization,1
+on-policy distillation,method,Agent/Tool Use,1
+on-policy,method,Reasoning,1
+olfaction,application,Multimodal,1
+offloading and quantization strategies,method,Efficiency/Optimization,1
+offline reinforcement learning,method,Agent/Tool Use,1
+offline recurrent loop,method,Theory/Methodology,1
+offline construction,method,Efficiency/Optimization,1
+off-policy training,task,Alignment/Safety,1
+observer option12,tool,Theory/Methodology,1
+object detection,task,Reasoning,1
+multi-seed study,method,Theory/Methodology,1
+nucleus accumbens,model,Alignment/Safety,1
+novelty profile,metric,Efficiency/Optimization,1
+novelty claim,metric,Theory/Methodology,1
+normal-inverse-gamma distribution,metric,Reasoning,1
+nonlinear effects,theory,Efficiency/Optimization,1
+nli,theory,Alignment/Safety,1
+neuron-level interventions,method,Efficiency/Optimization,1
+neuron selectors,model,Reasoning,1
+neural network modifications,task,Reasoning,1
+neural fictitious self-play,method,Agent/Tool Use,1
+ndcg,metric,Theory/Methodology,1
+nurc-sp dataset,dataset,Reasoning,1
+pangolintokenizer,other,Application,1
+pandasqueryengine,tool,RAG/Retrieval,1
+paired significance tests,metric,Benchmark/Evaluation,1
+output cardinality,metric,Theory/Methodology,1
+outcome reward,metric,Alignment/Safety,1
+ordinary least squares fit,method,Theory/Methodology,1
+oracle,model,Reasoning,1
+research ideation,task,Theory/Methodology,1
+optimization context,task,Agent/Tool Use,1
+optimal transport divergence,theory,Theory/Methodology,1
+on-policy distillation,method,Theory/Methodology,1
+operational reframing,risk,Alignment/Safety,1
+operating point,metric,Theory/Methodology,1
+openapi specification,dataset,Reasoning,1
+open-source smaller language models (os-sllms,model,Theory/Methodology,1
+open-source llms,tool,Multimodal,1
+open-source detectors,application,Benchmark/Evaluation,1
+open web search,method,Benchmark/Evaluation,1
+open problems,task,Agent/Tool Use,1
+ontology-based synonym matching,method,Benchmark/Evaluation,1
+one-dimensional transformer autoencoder,model,Efficiency/Optimization,1
+on-policy token,model,Alignment/Safety,1
+optimal policy,other,Agent/Tool Use,1
+multimodal large language model (mllm,model,Reasoning,1
+multimodal interaction,other,Alignment/Safety,1
+multimodal generative framework,model,Multimodal,1
+multimodal generation,task,Multimodal,1
+multimodal entropy structure,theory,Theory/Methodology,1
+multimodal alignment,task,Agent/Tool Use,1
+multimodal,other,Agent/Tool Use,1
+multimodal,application,Multimodal,1
+multilingual transcripts,dataset,Reasoning,1
+multilingual long-horizon llm agents,application,Benchmark/Evaluation,1
+naturalistic online setting,application,Benchmark/Evaluation,1
+multilingual ability,application,Multimodal,1
+multilingual,task,Benchmark/Evaluation,1
+multifactor scoring system,theory,Benchmark/Evaluation,1
+multidimensional protocol,method,Benchmark/Evaluation,1
+multicultural,task,Benchmark/Evaluation,1
+multi-view context,task,Reasoning,1
+multi-turn interaction,task,Alignment/Safety,1
+multi-token localized attention (mtla,method,Multimodal,1
+multi-task reinforcement learning,task,Alignment/Safety,1
+multi-step derivation,risk,Reasoning,1
+multi-stage reasoning,method,Reasoning,1
+multilingual access,tool,Alignment/Safety,1
+natural-language justification,method,Benchmark/Evaluation,1
+natural-language i/o,task,Alignment/Safety,1
+natural-language datasets,dataset,Theory/Methodology,1
+natural-gradient update,method,Reasoning,1
+natural world,application,Reasoning,1
+natural language specification,application,Agent/Tool Use,1
+natural language prover,model,Agent/Tool Use,1
+natural language processing (nlp,task,Theory/Methodology,1
+natural language processing,tool,Theory/Methodology,1
+natural language processing,task,Theory/Methodology,1
+multimodal large language models,model,Reasoning,1
+native structural reasoning,method,Reasoning,1
+nas,theory,Multimodal,1
+narrative generation,application,Agent/Tool Use,1
+mutual transformer,model,Reasoning,1
+mutation taxonomy,theory,Theory/Methodology,1
+mupe-diversidades dataset,dataset,Reasoning,1
+multiple-comparison correction,theory,Benchmark/Evaluation,1
+multimodal scientific foundation model,model,Reasoning,1
+multimodal retrieval,method,RAG/Retrieval,1
+multimodal representation,model,Theory/Methodology,1
+multimodal pattern,metric,Reasoning,1
+natural language explanation,application,Agent/Tool Use,1
+token-level clipping,method,Reasoning,1
+token-centric dual-view learning,method,Reasoning,1
+token-adaptive cache compression,method,Efficiency/Optimization,1
+token log probability,metric,Alignment/Safety,1
+timestep schedules,task,Reasoning,1
+time-series forecasting,task,Reasoning,1
+time-conditioned velocity field,model,Reasoning,1
+time-agnostic propagation,method,Efficiency/Optimization,1
+time series classification,task,Efficiency/Optimization,1
+throughput,metric,Reasoning,1
+resource-constrained embedded device,application,Efficiency/Optimization,1
+threshold check,metric,Benchmark/Evaluation,1
+threat score,metric,Reasoning,1
+thinking residual,theory,Alignment/Safety,1
+thinking models,model,Alignment/Safety,1
+thermal-airflow perturbation,other,Reasoning,1
+textual dependency graph,model,Agent/Tool Use,1
+text-to-video diffusion transformer,model,Multimodal,1
+text-to-sql,task,Benchmark/Evaluation,1
+text-to-cad,task,Reasoning,1
+text summarization,task,Theory/Methodology,1
+test suite,metric,Reasoning,1
+throughput,metric,Efficiency/Optimization,1
+trajectory-aware benchmarks,other,Benchmark/Evaluation,1
+trajectory planning,task,Reasoning,1
+training-set coverage,metric,Theory/Methodology,1
+training-free,method,Multimodal,1
+training epochs,task,Efficiency/Optimization,1
+tracking,task,Reasoning,1
+trace analysis,method,Reasoning,1
+tpc-h benchmark,other,Efficiency/Optimization,1
+topological continuity,theory,Theory/Methodology,1
+topic-conditional layer normalization,method,Theory/Methodology,1
+topic models,model,Theory/Methodology,1
+token-level explanation,method,Theory/Methodology,1
+top-k marginals,metric,Reasoning,1
+toolset,tool,Agent/Tool Use,1
+toolfailbench,other,Benchmark/Evaluation,1
+tool-use failures,task,Benchmark/Evaluation,1
+tool-augmented agent,model,Agent/Tool Use,1
+tool use,application,Alignment/Safety,1
+tool resampling,method,Benchmark/Evaluation,1
+tool discovery,task,Benchmark/Evaluation,1
+tool composition,task,Benchmark/Evaluation,1
+tool call,task,Agent/Tool Use,1
+token-level signals,task,Agent/Tool Use,1
+top-term analyses,other,Theory/Methodology,1
+synthetic cohort,dataset,Reasoning,1
+syntactic quality,metric,Reasoning,1
+syntactic attacks,risk,Theory/Methodology,1
+synchronized trajectory,task,Dataset/Benchmark,1
+synaptic rule,method,Reasoning,1
+symplectic learning,theory,Reasoning,1
+symmetric positive definite (spd) manifold,theory,Theory/Methodology,1
+symmetric noise objective,theory,Theory/Methodology,1
+symbolic bootstraps,metric,Efficiency/Optimization,1
+symbolic attribute graph,model,Reasoning,1
+test oracles,task,Theory/Methodology,1
+svm classifier,method,Reasoning,1
+surrogate models,model,Agent/Tool Use,1
+surrogate modeling,method,Efficiency/Optimization,1
+surrogate model,model,Theory/Methodology,1
+surplus extraction,task,Reasoning,1
+supervised training,method,Multimodal,1
+supervised fine-tuning,method,Theory/Methodology,1
+supervised fine-tuning,method,Reasoning,1
+supervised fine-tuning,application,Agent/Tool Use,1
+superquadric primitive,model,Reasoning,1
+superposition,risk,Theory/Methodology,1
+sycophancy,other,Alignment/Safety,1
+test effectiveness,metric,Reasoning,1
+tensor program,theory,Theory/Methodology,1
+temporal encoder,model,Reasoning,1
+temporal drift,metric,Efficiency/Optimization,1
+temporal discourse reasoning,task,Theory/Methodology,1
+temporal convolution module,model,Reasoning,1
+temporal analysis,method,Benchmark/Evaluation,1
+template accuracy,metric,Reasoning,1
+telegram posts,application,Theory/Methodology,1
+teacher-student model,model,Efficiency/Optimization,1
+teacher-student framework,method,Reasoning,1
+synthetic consumer data,dataset,Theory/Methodology,1
+task-rubric rewards,metric,Agent/Tool Use,1
+task-relevant computations,task,Efficiency/Optimization,1
+task-oriented scenarios,dataset,Agent/Tool Use,1
+task constraints,risk,Alignment/Safety,1
+tabular classifier,tool,Reasoning,1
+table qa,task,Benchmark/Evaluation,1
+table insight,task,Benchmark/Evaluation,1
+systems development life cycle (sdlc,theory,Theory/Methodology,1
+synthetic labeling,task,Benchmark/Evaluation,1
+synthetic fog generation,task,Reasoning,1
+synthetic content analysis,task,Benchmark/Evaluation,1
+task-semantic field factorization,method,Reasoning,1
+value alignment,theory,Alignment/Safety,1
+utility-aligned canonical decomposition,method,Reasoning,1
+utility classifier,tool,Application,1
+upstream metric,metric,Benchmark/Evaluation,1
+unigram-lm,method,Theory/Methodology,1
+unified multimodal model,model,Multimodal,1
+acoustic modulation,method,Benchmark/Evaluation,1
+aligned models,model,Alignment/Safety,1
+algebraic structure,task,Reasoning,1
+ai-native sql,task,Benchmark/Evaluation,1
+transaction history,dataset,Reasoning,1
+agentic ai,model,Benchmark/Evaluation,1
+agent-based verification,method,Reasoning,1
+agent-based pipeline,method,Benchmark/Evaluation,1
+agent-based modeling,model,Agent/Tool Use,1
+agent-assisted recommendation,application,Agent/Tool Use,1
+agent-as-user-simulator,application,Agent/Tool Use,1
+agent-as-recommender,application,Agent/Tool Use,1
+agent optimization,application,Agent/Tool Use,1
+agent attention mechanism,model,Reasoning,1
+agent,tool,Agent/Tool Use,1
+adversarial vulnerability,risk,Reasoning,1
+agentic framework,tool,Benchmark/Evaluation,1
+visual question answering,task,Reasoning,1
+visual imagination,task,Theory/Methodology,1
+visual alignment reward,other,Alignment/Safety,1
+vision-language models,model,Reasoning,1
+vision-language models,model,Multimodal,1
+vision-language models,model,Benchmark/Evaluation,1
+vision-language model,model,Multimodal,1
+vision-language model,model,Benchmark/Evaluation,1
+vision-language model,model,Alignment/Safety,1
+vision-language,application,Multimodal,1
+vision foundation models,model,Dataset/Benchmark,1
+variable naming conventions,method,Theory/Methodology,1
+video diffusion models,model,Efficiency/Optimization,1
+vex vr,application,Benchmark/Evaluation,1
+verification-first workflow,method,Agent/Tool Use,1
+verification-first execution framework,method,Alignment/Safety,1
+verification,task,Agent/Tool Use,1
+verifiable rewards,metric,Reasoning,1
+vendorbench-100,other,Benchmark/Evaluation,1
+vector field,model,Theory/Methodology,1
+variational source condition,theory,Theory/Methodology,1
+variational autoencoder,model,Multimodal,1
+accuracy transition,task,Theory/Methodology,1
+video2reaction,dataset,Multimodal,1
+truncated reasoning auc evaluation (trace,method,Reasoning,1
+tri-mode language model,model,Reasoning,1
+tree-verification,method,Reasoning,1
+tree-structured rollout,method,Reasoning,1
+tree-of-thoughts (tot,method,Reasoning,1
+transformer-based vision-language models,model,Reasoning,1
+transformer-based topic modeling,method,Benchmark/Evaluation,1
+transformer-based models,model,Theory/Methodology,1
+transformer-based model,model,Theory/Methodology,1
+transformer-based model,model,Reasoning,1
+transformer-based model,model,Efficiency/Optimization,1
+adversarial strategy,method,Alignment/Safety,1
+transformer encoder,model,Benchmark/Evaluation,1
+transformer decoder,model,Multimodal,1
+transformer circuit analysis,method,Theory/Methodology,1
+transformer attention heads,model,Alignment/Safety,1
+transformer attention,model,Efficiency/Optimization,1
+transformer architecture,model,Efficiency/Optimization,1
+transformer,model,Theory/Methodology,1
+transformer,model,Multimodal,1
+transformer,model,Efficiency/Optimization,1
+transformer,model,Benchmark/Evaluation,1
+transfer learning,theory,Reasoning,1
+transformer-based architectures,model,Dataset/Benchmark,1
+adversarial attack,other,Reasoning,1
+advantage-weighted separation,method,Reasoning,1
+advantage-weighted regression,method,Agent/Tool Use,1
+advantage-weighted ranking loss,method,Reasoning,1
+advantage-weighted compactness,method,Reasoning,1
+advantage regularization,method,Alignment/Safety,1
+advantage awareness,theory,Alignment/Safety,1
+accuracy,metric,Alignment/Safety,1
+adapter gates,model,Multimodal,1
+adapter composition schedule,method,Multimodal,1
+activations,model,Alignment/Safety,1
+trust region policy distillation,method,Theory/Methodology,1
+activation overflow,risk,Efficiency/Optimization,1
+activation magnitude,metric,Efficiency/Optimization,1
+activation dispersion,metric,Reasoning,1
+uncertainty-driven selective refinement,method,Reasoning,1
+uncertainty quantification,method,Reasoning,1
+uncertainty quantification,method,Alignment/Safety,1
+unbounded positive asymmetric optimization (up,method,Reasoning,1
+ucr archive,dataset,Efficiency/Optimization,1
+uav imagery,dataset,Application,1
+u-net,model,Reasoning,1
+typing,task,Agent/Tool Use,1
+activation steering,method,Alignment/Safety,1
+self-supervised pretraining,method,Dataset/Benchmark,1
+self-supervised learning,theory,Benchmark/Evaluation,1
+self-supervised learning,method,Benchmark/Evaluation,1
+self-supervised encoder,model,Theory/Methodology,1
+self-speculation decoding,task,Reasoning,1
+self-similarity,theory,Theory/Methodology,1
+self-review,method,Reasoning,1
+self-reported diagnosis,task,Benchmark/Evaluation,1
+self-play,task,Reasoning,1
+self-play,method,Agent/Tool Use,1
+super-resolution,task,Efficiency/Optimization,1
+self-distillation,method,Alignment/Safety,1
+self-attention mechanisms,model,Efficiency/Optimization,1
+selective disclosure,method,Alignment/Safety,1
+segmentation,task,Dataset/Benchmark,1
+security metrics evaluation,metric,Agent/Tool Use,1
+security governance,theory,Alignment/Safety,1
+section-aware relevance scoring,method,Agent/Tool Use,1
+search-routing,task,Reasoning,1
+seamless interaction corpus,dataset,Benchmark/Evaluation,1
+scl,method,Alignment/Safety,1
+sci error taxonomy,theory,Benchmark/Evaluation,1
+self-evolution module,model,Agent/Tool Use,1
+shared decision making (sdm,task,Theory/Methodology,1
+sharding,method,Efficiency/Optimization,1
+shap explainability,method,Reasoning,1
+shannon entropy,metric,Theory/Methodology,1
+sha-256 hash-chained audit log,metric,Alignment/Safety,1
+sft,method,Alignment/Safety,1
+severity phenotyping,task,Reasoning,1
+sequence length,metric,Efficiency/Optimization,1
+sentiment and emotion classification,method,Benchmark/Evaluation,1
+sentiment analysis,task,Alignment/Safety,1
+sentiment analysis,application,Theory/Methodology,1
+self-supervised transformer,model,Benchmark/Evaluation,1
+semi-autoregressive architecture,model,Efficiency/Optimization,1
+semantically equivalent code patterns,method,Theory/Methodology,1
+semantic stages,task,Efficiency/Optimization,1
+semantic segmentation,method,Application,1
+semantic quality,metric,Reasoning,1
+semantic homogenization,theory,Theory/Methodology,1
+semantic distortion,risk,Theory/Methodology,1
+semantic coverage,metric,Reasoning,1
+semantic corruption,risk,Alignment/Safety,1
+semantic annotation,task,Dataset/Benchmark,1
+semantic alignment channel,tool,Reasoning,1
+sentence transformer,model,Theory/Methodology,1
+rl benchmark,other,Reasoning,1
+rl (reinforcement learning,other,Agent/Tool Use,1
+risk-controlled selective answering,method,Alignment/Safety,1
+risk score,metric,Reasoning,1
+riemannian mean pooling,method,Theory/Methodology,1
+reward-swap,method,Alignment/Safety,1
+reward valuation,task,Alignment/Safety,1
+reward signal stationarity,theory,Alignment/Safety,1
+reward shaping,method,Agent/Tool Use,1
+reward hacking,risk,Reasoning,1
+reward hacking,risk,Agent/Tool Use,1
+scene-conditioned negative prompts,method,Reasoning,1
+reversibility,risk,Theory/Methodology,1
+retrosynthesis accuracy,metric,Reasoning,1
+retrosynthesis,task,Benchmark/Evaluation,1
+retrieval,task,Multimodal,1
+retrieval,method,Benchmark/Evaluation,1
+restoration quality,metric,Reasoning,1
+response latency,metric,Benchmark/Evaluation,1
+long-form qa benchmarks,other,Alignment/Safety,1
+resource creation,method,Theory/Methodology,1
+residual variance,metric,Theory/Methodology,1
+residual streams,model,Reasoning,1
+reward function design,method,Reasoning,1
+scene descriptors,task,Multimodal,1
+scene classification,task,Reasoning,1
+scalable framework,theory,Agent/Tool Use,1
+scalable bayesian inference,method,Theory/Methodology,1
+scaffold,application,Benchmark/Evaluation,1
+sampling,method,Theory/Methodology,1
+sample efficiency,metric,Reasoning,1
+safetyverifier,tool,RAG/Retrieval,1
+safety guardrails,tool,Agent/Tool Use,1
+safety,other,Alignment/Safety,1
+runbugrun dataset,dataset,Alignment/Safety,1
+rl gym,tool,Agent/Tool Use,1
+rule discovery,task,Benchmark/Evaluation,1
+routing,method,Efficiency/Optimization,1
+rotational sweep videos,dataset,Reasoning,1
+rotary position embeddings (rope,model,Theory/Methodology,1
+rollout-guided progressive hard-case optimization,other,Alignment/Safety,1
+rollout policy optimization,method,Reasoning,1
+role-based policy,theory,Alignment/Safety,1
+role-aware encoding,method,Theory/Methodology,1
+role factorization,method,Agent/Tool Use,1
+roc-auc,metric,Benchmark/Evaluation,1
+robustness,risk,Benchmark/Evaluation,1
+rule-following behavior,application,Theory/Methodology,1
+step-level reward,method,Reasoning,1
+steering vectors,method,Theory/Methodology,1
+steering vectors,method,Alignment/Safety,1
+steering vector,other,Alignment/Safety,1
+statistical prevalence,metric,Theory/Methodology,1
+statistical inverse learning,theory,Theory/Methodology,1
+station observation,dataset,Reasoning,1
+state-management complexity,metric,Benchmark/Evaluation,1
+state-coherent screenshot set,dataset,Benchmark/Evaluation,1
+state memory capacity,metric,Efficiency/Optimization,1
+short image histories,other,Reasoning,1
+standard operating procedures (sop,task,Agent/Tool Use,1
+stance detection,task,Theory/Methodology,1
+stability measures,metric,Alignment/Safety,1
+square-free modular multiplication,task,Reasoning,1
+spike detection,task,Reasoning,1
+speech-to-text alignment,task,Alignment/Safety,1
+speech recognition,task,Multimodal,1
+speech intelligence,metric,Reasoning,1
+speculative decoding,method,Efficiency/Optimization,1
+spectral preprocessing,method,Efficiency/Optimization,1
+spectral entropy,metric,Reasoning,1
+star rating,metric,Theory/Methodology,1
+subword vocabulary,task,Theory/Methodology,1
+subspace non-identifiability,risk,Efficiency/Optimization,1
+sub-instructions,model,Reasoning,1
+sub-goal embeddings,model,Reasoning,1
+structured token-level communication,method,Reasoning,1
+structured safety labels,other,Alignment/Safety,1
+structured radio frequency interference,task,Benchmark/Evaluation,1
+structured newton layer parallelism,method,Efficiency/Optimization,1
+structured iteration workflow,method,Benchmark/Evaluation,1
+structured feedback,tool,Reasoning,1
+structured canonical lift,method,Reasoning,1
+stiefel layer,model,Efficiency/Optimization,1
+structural tension,theory,Theory/Methodology,1
+structural metrics,metric,Alignment/Safety,1
+structural grading,method,Benchmark/Evaluation,1
+structural and functional mri,dataset,Multimodal,1
+stratified train-validation split,method,Benchmark/Evaluation,1
+strategic bargaining,task,Reasoning,1
+stop-gradient operator,method,Reasoning,1
+stochastic token steering (sts,method,Efficiency/Optimization,1
+stochastic model-discovery operator,model,Reasoning,1
+stochastic block steering (sbs,method,Efficiency/Optimization,1
+stochastic block models,task,Theory/Methodology,1
+structure-aware vocabulary,model,Reasoning,1
+softmax,tool,Theory/Methodology,1
+softmax,other,Efficiency/Optimization,1
+soft-label prediction,method,Multimodal,1
+soft sensing,application,Reasoning,1
+sociolinguistic characteristics,task,Theory/Methodology,1
+social norms,theory,Alignment/Safety,1
+social media,application,Multimodal,1
+snowball citation expansion,method,Agent/Tool Use,1
+smooth euler characteristic transform (sect,method,Application,1
+smell encoder,model,Multimodal,1
+smart home configuration,application,Agent/Tool Use,1
+spectral decomposition,method,Reasoning,1
+sketching,method,Theory/Methodology,1
+singular vectors,method,Reasoning,1
+singular value decomposition (svd,method,Efficiency/Optimization,1
+single-view,theory,Agent/Tool Use,1
+single-rollout sampling,method,Reasoning,1
+single-cell perturbation,task,Benchmark/Evaluation,1
+signal-processing features,task,Reasoning,1
+signal reconstruction,method,Benchmark/Evaluation,1
+shot-role prompt tokens,tool,Multimodal,1
+shot-local story-global tuning objective,metric,Multimodal,1
+shortest generating prompt,method,Theory/Methodology,1
+small language model,model,Efficiency/Optimization,1
+spectral control,theory,Efficiency/Optimization,1
+spectral attention,method,Theory/Methodology,1
+specification-derived authority,theory,Theory/Methodology,1
+specification grounding,theory,Reasoning,1
+speaker-separated dialogue speech,task,Dataset/Benchmark,1
+spatiotemporal neural models,model,Reasoning,1
+spatiotemporal manifold sampling,method,Reasoning,1
+spatiotemporal analysis,task,Agent/Tool Use,1
+spatio-temporal encoder,model,Reasoning,1
+spatio-temporal embedding,task,Benchmark/Evaluation,1
+spatial vision perception,application,Efficiency/Optimization,1
+source of authority,theory,Theory/Methodology,1
+spatial geometry,other,Reasoning,1
+spatial gaussian blending,method,Efficiency/Optimization,1
+spatial deictic expressions,task,Multimodal,1
+spatial bases,model,Efficiency/Optimization,1
+sparse autoencoders (saes,tool,Theory/Methodology,1
+sparse autoencoders (saes,model,Efficiency/Optimization,1
+sparse addressing,method,Efficiency/Optimization,1
+span-level uncertainty estimation,task,Theory/Methodology,1
+span-annotated corpus,dataset,Theory/Methodology,1
+source-guided candidate-generation,method,Reasoning,1
+source trustworthiness,risk,Benchmark/Evaluation,1
+spatial understanding,other,Reasoning,1
+cross-document claim graph,model,Alignment/Safety,1
+cross-depth residual factorization,method,Efficiency/Optimization,1
+cross-cultural comparison,other,Theory/Methodology,1
+cross-center validation,other,Dataset/Benchmark,1
+cross-attention,method,Reasoning,1
+creative process,application,Alignment/Safety,1
+coverage,metric,Benchmark/Evaluation,1
+covariance matrix estimation,method,Theory/Methodology,1
+coupling-aware balancing loss,method,Efficiency/Optimization,1
+counterfactual supervision,method,Reasoning,1
+logic-based datasets,dataset,Agent/Tool Use,1
+cosine similarity,metric,Alignment/Safety,1
+corpus,dataset,Benchmark/Evaluation,1
+coreset selection,method,Efficiency/Optimization,1
+cooperative multi-agent reinforcement learning (marl,task,Alignment/Safety,1
+convolutional kernels,model,Efficiency/Optimization,1
+convnext,model,Application,1
+conversational role attribution,task,Theory/Methodology,1
+controlled synthetic completions,task,Theory/Methodology,1
+controlled dialogue prompts,task,Benchmark/Evaluation,1
+control-variate adjustment,method,Theory/Methodology,1
+contrastive vision-encoder training,method,Benchmark/Evaluation,1
+cost-aware objective,metric,Agent/Tool Use,1
+cybersecurity,application,Benchmark/Evaluation,1
+cwe attribution,task,Alignment/Safety,1
+custom operators,method,Efficiency/Optimization,1
+curvature,metric,Theory/Methodology,1
+curriculum learning,method,Agent/Tool Use,1
+curator review,tool,Benchmark/Evaluation,1
+curation,task,Agent/Tool Use,1
+curated corpus,dataset,Benchmark/Evaluation,1
+cultural variation,risk,Theory/Methodology,1
+cultural heritage preservation,theory,Theory/Methodology,1
+cross-domain evaluation,other,Multimodal,1
+crossmodal retrieval,task,Multimodal,1
+cross-validation,method,Benchmark/Evaluation,1
+cross-temporal generalization,task,Efficiency/Optimization,1
+cross-task transfer,theory,Multimodal,1
+cross-source exact-match check,metric,Reasoning,1
+cross-scanner validation,other,Dataset/Benchmark,1
+cross-page reasoning,method,RAG/Retrieval,1
+cross-modal transformer,model,Reasoning,1
+cross-frequency coupling,task,Reasoning,1
+cross-episode memory,method,Reasoning,1
+cross-entropy training,other,Reasoning,1
+cultural alignment,theory,Benchmark/Evaluation,1
+cone machinery,task,Theory/Methodology,1
+conditional total correlation,theory,Reasoning,1
+conditional dialect group invariance (cdgi,theory,Alignment/Safety,1
+conditional dependencies,theory,Reasoning,1
+condition encoding,task,Reasoning,1
+conciseness,metric,Benchmark/Evaluation,1
+conceptual structure,theory,Theory/Methodology,1
+concept representation,task,Theory/Methodology,1
+computational sensing,task,Benchmark/Evaluation,1
+computational imaging,task,Benchmark/Evaluation,1
+contrastive ranking objectives,method,Theory/Methodology,1
+compression,task,Theory/Methodology,1
+compositional reasoning,task,Reasoning,1
+composite quality score (q,metric,Alignment/Safety,1
+completion-style datasets,dataset,Theory/Methodology,1
+completeness,metric,RAG/Retrieval,1
+competitive-ratio,metric,Agent/Tool Use,1
+common weakness enumeration (cwe,task,Benchmark/Evaluation,1
+common vulnerabilities and exposures (cve,task,Benchmark/Evaluation,1
+commercially available starting materials,metric,Benchmark/Evaluation,1
+commercial apis,application,Benchmark/Evaluation,1
+coherence,metric,Benchmark/Evaluation,1
+compression failure,risk,Alignment/Safety,1
+continuous-query,method,RAG/Retrieval,1
+continuous-integration,tool,Benchmark/Evaluation,1
+continued pre-training,method,Reasoning,1
+continuation probability,model,Benchmark/Evaluation,1
+continual pretraining,method,Alignment/Safety,1
+contextual transformation,task,Theory/Methodology,1
+contextual expansion,method,Efficiency/Optimization,1
+context-rich reviser,method,Agent/Tool Use,1
+context-parallel,method,Efficiency/Optimization,1
+contamination-awareness,other,Benchmark/Evaluation,1
+contact-rich quadruped,application,Reasoning,1
+confidence interval,method,Alignment/Safety,1
+constraint-aware reinforcement learning,theory,Alignment/Safety,1
+constrained exploration,task,Alignment/Safety,1
+constrained decoding,task,Efficiency/Optimization,1
+constrained decoding,method,Reasoning,1
+conspiratorial actors,task,Theory/Methodology,1
+consolidation,task,Reasoning,1
+consensus-based defense,other,Alignment/Safety,1
+confusion matrix,metric,Benchmark/Evaluation,1
+conformal prediction,theory,Benchmark/Evaluation,1
+confidence-scheduled verification,method,Efficiency/Optimization,1
+confidence intervals,metric,Benchmark/Evaluation,1
+constraint-guided llm generation,method,Agent/Tool Use,1
+downstream evaluation,metric,Efficiency/Optimization,1
+doob h-transform,theory,Reasoning,1
+domain-specific foundation models,model,Benchmark/Evaluation,1
+domain knowledge base,dataset,RAG/Retrieval,1
+domain knowledge,risk,Reasoning,1
+domain adaptation,task,Alignment/Safety,1
+domain adaptation,method,Theory/Methodology,1
+domain adaptation,method,Benchmark/Evaluation,1
+domain adaptation,method,Alignment/Safety,1
+document visual question answering,task,Multimodal,1
+damped resonators,model,Efficiency/Optimization,1
+diversity and concentration metrics,metric,Theory/Methodology,1
+diversity,metric,Theory/Methodology,1
+distributional sensitivity,risk,Reasoning,1
+distribution shift,risk,Multimodal,1
+distributed sparse interventions,method,Efficiency/Optimization,1
+distillation,method,Multimodal,1
+distillation,method,Efficiency/Optimization,1
+dissipative systems,task,Reasoning,1
+displacement structure,metric,Theory/Methodology,1
+disentangled representation,model,Theory/Methodology,1
+discrete token vocabulary,task,Reasoning,1
+diversity regularizer,method,Reasoning,1
+elastic modulus,metric,Efficiency/Optimization,1
+eigenvalue clipping,method,Efficiency/Optimization,1
+effort-based decision-making,task,Alignment/Safety,1
+efficient inference,method,Efficiency/Optimization,1
+effective rank,metric,Theory/Methodology,1
+effective dimension,metric,Theory/Methodology,1
+eeg,application,Benchmark/Evaluation,1
+editing for safety,application,Reasoning,1
+edge cases,risk,Reasoning,1
+ecg reconstruction,task,Efficiency/Optimization,1
+ecg anonymization,application,Application,1
+downstream metric,metric,Benchmark/Evaluation,1
+dynamic-programming pass,method,Alignment/Safety,1
+dynamic voltage frequency scaling,tool,Efficiency/Optimization,1
+dynamic tool-orchestration engine,tool,Agent/Tool Use,1
+dynamic structural sparsification,method,Efficiency/Optimization,1
+dynamic preferences,method,Reasoning,1
+dynamic interaction,task,Alignment/Safety,1
+dynamic evolution,method,Agent/Tool Use,1
+dynamic clipping,method,Alignment/Safety,1
+dual-stage guidance mechanism,method,Reasoning,1
+dual-llm intersection pipeline,method,Theory/Methodology,1
+drift,risk,Reasoning,1
+early-exit guided predictive prefetching,method,Efficiency/Optimization,1
+depth router,tool,Efficiency/Optimization,1
+deployment simulation,method,Benchmark/Evaluation,1
+deployment pipeline,method,Multimodal,1
+dense process reward,metric,Alignment/Safety,1
+denoising,task,Reasoning,1
+delta-style networks,model,Efficiency/Optimization,1
+delegation,task,Agent/Tool Use,1
+defended-claims gate,tool,Alignment/Safety,1
+deepfake image detection,task,Benchmark/Evaluation,1
+decoupled progressive expert supervision,method,Efficiency/Optimization,1
+discrete motion latent codes,model,Reasoning,1
+de novo structure elucidation,method,Theory/Methodology,1
+dataset type,task,Benchmark/Evaluation,1
+dataset,dataset,Dataset/Benchmark,1
+datamanager,tool,RAG/Retrieval,1
+database storage decoding,task,Efficiency/Optimization,1
+data storage and processing,task,Alignment/Safety,1
+data reuse,method,Efficiency/Optimization,1
+data lock-in,risk,Efficiency/Optimization,1
+data extraction,task,Theory/Methodology,1
+data curation,task,Agent/Tool Use,1
+dann,method,Alignment/Safety,1
+decision protocols,method,Agent/Tool Use,1
+discrete autoregressive generation,theory,Benchmark/Evaluation,1
+direct preference optimization (dpo,method,Reasoning,1
+direct on-policy distillation,method,Reasoning,1
+dimensional metric grouping,method,Benchmark/Evaluation,1
+digital twin,application,Reasoning,1
+digital humanities,application,Alignment/Safety,1
+digital cardiac assessment,application,Efficiency/Optimization,1
+diffusion samplers,model,Reasoning,1
+diffusion model,model,Reasoning,1
+diffusion model,model,Multimodal,1
+differentiable graph reasoning,other,Reasoning,1
+depth-free,theory,Agent/Tool Use,1
+difference-in-differences,method,Alignment/Safety,1
+dialectal robustness,metric,Alignment/Safety,1
+dialect bias,risk,Alignment/Safety,1
+diagnostic evaluation,method,Benchmark/Evaluation,1
+devsecops,application,Benchmark/Evaluation,1
+deviation,metric,Alignment/Safety,1
+detr-style span decoder,model,Theory/Methodology,1
+deterministic mate transformations,method,Reasoning,1
+detection robustness,metric,Reasoning,1
+detection power,metric,Theory/Methodology,1
+design structure matrices (dsms,task,Alignment/Safety,1
+differentiable asr model,model,Alignment/Safety,1
+attention mechanisms,model,Theory/Methodology,1
+attention,theory,Benchmark/Evaluation,1
+attack path identification,task,Agent/Tool Use,1
+atomic actions,task,Agent/Tool Use,1
+atmospheric scattering model,model,Reasoning,1
+asynchronous reinforcement learning,method,Reasoning,1
+ast-based code mutation,method,Multimodal,1
+association metric,metric,Benchmark/Evaluation,1
+asr robustness,metric,Benchmark/Evaluation,1
+aspect-based sentiment analysis,task,Dataset/Benchmark,1
+cognitive states,task,Theory/Methodology,1
+area under the receiver operating characteristic curve (auc,metric,Reasoning,1
+architectural inductive biases,theory,Efficiency/Optimization,1
+approval-framed delegation,other,Alignment/Safety,1
+apache arrow buffers,metric,Efficiency/Optimization,1
+antisemitic events,task,Benchmark/Evaluation,1
+anti-pattern detection,tool,Benchmark/Evaluation,1
+answer-driven reasoning,risk,Reasoning,1
+answer generation,task,Agent/Tool Use,1
+anov,method,Reasoning,1
+annotation guidelines,theory,Theory/Methodology,1
+anhedonia,risk,Alignment/Safety,1
+argument-level policy,theory,Alignment/Safety,1
+b-rep geometric evidence,method,Reasoning,1
+axiomatic assembly specification,theory,Reasoning,1
+awareness functionals,tool,Theory/Methodology,1
+autoregressive decoding,task,Reasoning,1
+autoregressive decoding,method,Alignment/Safety,1
+autonomy framework,theory,Agent/Tool Use,1
+autonomous exploration,method,Agent/Tool Use,1
+autonomous coding agent,tool,Agent/Tool Use,1
+automatic speech recognition (asr,tool,Reasoning,1
+automatic speech recognition,task,Benchmark/Evaluation,1
+attention-based detectors,tool,Multimodal,1
+autoformalization,task,Benchmark/Evaluation,1
+auto-fix,method,Agent/Tool Use,1
+authorization gateway,tool,Alignment/Safety,1
+auditable engineering cascade,application,Benchmark/Evaluation,1
+auditability,risk,Theory/Methodology,1
+audio-text llm,model,Multimodal,1
+audio understanding,metric,Multimodal,1
+auc,metric,Application,1
+attribution scores,metric,Reasoning,1
+attention-output probes,metric,Efficiency/Optimization,1
+attention-limited measurement process,theory,Alignment/Safety,1
+automated evaluation,tool,Reasoning,1
+wavelet scattering transform,method,Reasoning,1
+watermarking,method,Alignment/Safety,1
+watermarking,application,Theory/Methodology,1
+wasserstein distance,metric,Theory/Methodology,1
+vulnerability detection,task,Alignment/Safety,1
+activation,tool,Theory/Methodology,1
+voxcpm2,other,Application,1
+visual-token representations,model,Reasoning,1
+visual-question-answering,task,Benchmark/Evaluation,1
+visual-action alignment reward,other,Alignment/Safety,1
+anatomical validation,other,Dataset/Benchmark,1
+visual reasoning,task,Reasoning,1
+visual reasoning,method,Reasoning,1
+acceptance rate,metric,Reasoning,1
+ablated models,model,Alignment/Safety,1
+1d u-net,model,Application,1
+1-regularization,method,Theory/Methodology,1
+zero-shot vision-language models (llms,model,Benchmark/Evaluation,1
+adolescent substance use discourse,task,Benchmark/Evaluation,1
+visual question-answering,application,Multimodal,1
+voxel features,model,Reasoning,1
+alignment,method,Alignment/Safety,1
+visual token pruning,task,Efficiency/Optimization,1
+analytical workflow,application,Agent/Tool Use,1
+analytical jacobian,method,Theory/Methodology,1
+alignment criterion,metric,Alignment/Safety,1
+alignment amplification,theory,Alignment/Safety,1
+alignment,theory,RAG/Retrieval,1
+accuracy,metric,Benchmark/Evaluation,1
+zero-shot nli,method,Benchmark/Evaluation,1
+zero-shot learning,method,Theory/Methodology,1
+zero-shot evaluation,other,Multimodal,1
+zero-shot attack,other,Reasoning,1
+zero-shot,theory,Benchmark/Evaluation,1
+weak models,model,Benchmark/Evaluation,1
+yolov5,model,Application,1
+xor synergy control,tool,Benchmark/Evaluation,1
+worst-case protection,risk,Agent/Tool Use,1
+working memory,model,Theory/Methodology,1
+word-level control,task,Benchmark/Evaluation,1
+word error rate,metric,Benchmark/Evaluation,1
+white-box attack,method,Reasoning,1
+whisper,model,Reasoning,1
+wer,metric,Application,1
+weight decay,method,Theory/Methodology,1
+weak-to-strong generalization,task,Reasoning,1
+zero-day detection,task,Benchmark/Evaluation,1
+classification,task,Dataset/Benchmark,1
+classical morphology,theory,Theory/Methodology,1
+clarity,metric,RAG/Retrieval,1
+cider 0.5iou,metric,Reasoning,1
+ci/cd workflow,task,Benchmark/Evaluation,1
+chi-square law,theory,Theory/Methodology,1
+chemical plausibility,metric,Benchmark/Evaluation,1
+character-level language modeling,application,Efficiency/Optimization,1
+channel adaptation,method,Efficiency/Optimization,1
+change detection,task,Reasoning,1
+backend-specific energy attribution,metric,Efficiency/Optimization,1
+chain-of-thought,task,Reasoning,1
+chain-of-thought,other,Alignment/Safety,1
+cer,metric,Application,1
+centroid,model,Efficiency/Optimization,1
+cell-wise,task,Efficiency/Optimization,1
+causal mechanism,theory,Alignment/Safety,1
+causal localization,method,Agent/Tool Use,1
+causal functions,model,Efficiency/Optimization,1
+capacity allocation,method,Agent/Tool Use,1
+candidate diversity mechanism,theory,Theory/Methodology,1
+camera-centric action,task,Agent/Tool Use,1
+chamfer distance,metric,Reasoning,1
+cognitive bias,risk,Reasoning,1
+coding agents,other,Reasoning,1
+code parsing,metric,Reasoning,1
+code generation,task,Reasoning,1
+code generation,task,Multimodal,1
+coarse-to-fine retrieval,method,Reasoning,1
+coalition value,metric,Benchmark/Evaluation,1
+clustered standard errors,metric,Benchmark/Evaluation,1
+cloze-style masked language modeling,method,Theory/Methodology,1
+closed-loop simulator,tool,Dataset/Benchmark,1
+closed-loop program synthesis,method,Reasoning,1
+classification metrics,metric,Alignment/Safety,1
+clip,method,Reasoning,1
+clinicalragengine,tool,RAG/Retrieval,1
+clinicalorchestrator,tool,RAG/Retrieval,1
+clinical validation,application,Multimodal,1
+clinical research,application,Theory/Methodology,1
+clinical consultations,dataset,Theory/Methodology,1
+clinical alignment metric,metric,Theory/Methodology,1
+click-centric refinement,method,Reasoning,1
+clean tool-use rate,metric,Benchmark/Evaluation,1
+classifier-free guidance (cfg,task,Reasoning,1
+classifier discrimination score (cds,metric,Benchmark/Evaluation,1
+closed-loop feedback,method,Agent/Tool Use,1
+bibliographic discovery,task,Alignment/Safety,1
+bias correction,task,Efficiency/Optimization,1
+bias,risk,Benchmark/Evaluation,1
+beta nll regression,method,Theory/Methodology,1
+best-arm identification,task,Theory/Methodology,1
+benchmark,theory,Benchmark/Evaluation,1
+benchmark,other,Reasoning,1
+benchmark,other,Multimodal,1
+benchmark,other,Benchmark/Evaluation,1
+benchmark,metric,Multimodal,1
+calibration-free online error tracking,method,Efficiency/Optimization,1
+belief updating,theory,Theory/Methodology,1
+behavioral profile,task,Reasoning,1
+behavioral control,task,Efficiency/Optimization,1
+behavior leverage imbalance,theory,Agent/Tool Use,1
+bccd dataset,dataset,Application,1
+bayesian optimization,method,Efficiency/Optimization,1
+bayesian ceiling,metric,Reasoning,1
+barrier-conditioning,method,Reasoning,1
+barbet,other,Application,1
+band-gap regimes,task,Reasoning,1
+balanced accuracy,metric,Reasoning,1
+benchmark,metric,Alignment/Safety,1
+calibration-free,theory,Agent/Tool Use,1
+calibration,task,Benchmark/Evaluation,1
+calibrated gate,tool,Alignment/Safety,1
+cad generation,application,Reasoning,1
+byte-pair encoding (bpe,method,Theory/Methodology,1
+brain age,metric,Benchmark/Evaluation,1
+bradley--terry log-odds,model,Alignment/Safety,1
+boundary-aware span representations,model,Benchmark/Evaluation,1
+boundary-aware hard negative mining,method,Reasoning,1
+bound-token mechanism,method,Benchmark/Evaluation,1
+bootstrapping,method,Benchmark/Evaluation,1
+bidirectional causal control,method,Alignment/Safety,1
+block-wise,task,Efficiency/Optimization,1
+block-diffusion language model,model,Theory/Methodology,1
+block-based programming,task,Benchmark/Evaluation,1
+blind obedience,risk,Alignment/Safety,1
+black-box evaluation,method,Alignment/Safety,1
+bistability,risk,Benchmark/Evaluation,1
+biopsy acquisition,application,Reasoning,1
+biological systems,application,Reasoning,1
+biodiversity imagery,dataset,Application,1
+binomial generalized estimating equation,method,Benchmark/Evaluation,1
+binary verdict,task,Reasoning,1
+blockage detection,application,Reasoning,1
+infinite-width limit,theory,Theory/Methodology,1
+inference-time plasticity,method,Theory/Methodology,1
+inference procedure,method,Reasoning,1
+inference compute,metric,Alignment/Safety,1
+inertial navigation system,tool,Reasoning,1
+inductive biases,theory,Efficiency/Optimization,1
+inductive bias,risk,Reasoning,1
+induction heads,model,Theory/Methodology,1
+incomplete ecg records,application,Efficiency/Optimization,1
+inception module,model,Efficiency/Optimization,1
+electroacoustic quantitative measurement,method,Theory/Methodology,1
+importance-weighted novelty,metric,Efficiency/Optimization,1
+importance sampling (is,method,Reasoning,1
+importance sampling,method,Alignment/Safety,1
+imbalance,risk,Benchmark/Evaluation,1
+image-text pairs,dataset,Multimodal,1
+image synthesis,application,Reasoning,1
+image signal processing,task,Benchmark/Evaluation,1
+image restoration,task,Reasoning,1
+image classification,task,Efficiency/Optimization,1
+hyperbolic representation,model,Theory/Methodology,1
+hybrid reward,metric,Agent/Tool Use,1
+in-context learning,task,Theory/Methodology,1
+interpretability,application,Reasoning,1
+interpersonal stance,metric,Benchmark/Evaluation,1
+internal state validation,method,Agent/Tool Use,1
+internal language modeling,theory,Benchmark/Evaluation,1
+intermediate-state informativeness,task,Reasoning,1
+intermediate representations,other,Reasoning,1
+interactive dashboard,application,Multimodal,1
+interaction inference,task,Benchmark/Evaluation,1
+inter-view interaction,task,Reasoning,1
+intentrouter,tool,RAG/Retrieval,1
+information gain,metric,Reasoning,1
+instruction-tuned model,model,Benchmark/Evaluation,1
+instruction-tuned language models,model,Efficiency/Optimization,1
+instruction-response pairs,task,Benchmark/Evaluation,1
+instruction-pose aware router,tool,Reasoning,1
+instruction-following failures,risk,Theory/Methodology,1
+instance-level data augmentation,method,Reasoning,1
+innovative solutions,application,Reasoning,1
+information-theoretic capacity region,theory,Benchmark/Evaluation,1
+information set monte carlo search,method,Agent/Tool Use,1
+information matching,task,Reasoning,1
+information governance,theory,Alignment/Safety,1
+intent-driven dataset,dataset,Alignment/Safety,1
+hierarchical multi-scale architecture,model,Reasoning,1
+hierarchical modeling,method,Multimodal,1
+hidden-anchor audit,method,Reasoning,1
+hidden states,model,Theory/Methodology,1
+hidden state,task,Efficiency/Optimization,1
+hidden representations,model,Reasoning,1
+hidden activations,model,Alignment/Safety,1
+heteroscedastic identification,theory,Theory/Methodology,1
+heterogeneous relaxation,method,Efficiency/Optimization,1
+heterogeneous graph,model,Benchmark/Evaluation,1
+hybrid retrieval,method,RAG/Retrieval,1
+hermeneutic reasoning,theory,Theory/Methodology,1
+hellinger loss,metric,Reasoning,1
+heaviside gate,theory,Alignment/Safety,1
+headline generation,task,Reasoning,1
+heading-anchor,method,Alignment/Safety,1
+hateful event detection,task,Benchmark/Evaluation,1
+hate,risk,Reasoning,1
+harness mdp,theory,Agent/Tool Use,1
+harness maturity score,metric,Agent/Tool Use,1
+harness architecture,theory,Agent/Tool Use,1
+hardening strategy generation,task,Agent/Tool Use,1
+heterogeneity-adaptive diffusion schrodinger bridge,method,Reasoning,1
+hybrid model,model,Application,1
+hybrid framework,method,Benchmark/Evaluation,1
+human-aware representation,other,Reasoning,1
+human-aligned behavior,other,Benchmark/Evaluation,1
+human-ai coordination,application,Alignment/Safety,1
+human-ai co-creation,method,Alignment/Safety,1
+human validation,method,Benchmark/Evaluation,1
+human judgment,metric,Multimodal,1
+human interpretation,application,Reasoning,1
+human decision-making,task,Agent/Tool Use,1
+hotel review,dataset,Theory/Methodology,1
+hierarchical parameter separation,method,Reasoning,1
+homology-controlled gene ontology prediction,task,Reasoning,1
+hmac-sha256 signature,metric,Alignment/Safety,1
+hmac-authenticated qr receipt,metric,Alignment/Safety,1
+high-resolution rgb imagery,dataset,Application,1
+high-loss completions,dataset,Theory/Methodology,1
+high-fidelity,metric,Multimodal,1
+hierarchy-relaxed evaluation,method,Benchmark/Evaluation,1
+hierarchical vocabulary routing,method,Alignment/Safety,1
+hierarchical task taxonomy,theory,Benchmark/Evaluation,1
+hierarchical search,task,Agent/Tool Use,1
+hierarchical question decomposition,method,RAG/Retrieval,1
+homoscedastic uncertainty weighting,theory,Multimodal,1
+literature synthesis,task,Alignment/Safety,1
+literature search,tool,Theory/Methodology,1
+linguistic measures,metric,Theory/Methodology,1
+linguistic diversity,task,Theory/Methodology,1
+linearization,method,Efficiency/Optimization,1
+linear probes,method,Alignment/Safety,1
+linear decoding,method,Theory/Methodology,1
+linear attention,method,Theory/Methodology,1
+limited memory language models,model,RAG/Retrieval,1
+lifelong user modeling,task,Agent/Tool Use,1
+interpretable ai,application,Theory/Methodology,1
+legal and ethical compliance,risk,Alignment/Safety,1
+leave one subject out cross-validation,method,Reasoning,1
+learned optimizer,model,Efficiency/Optimization,1
+learnable spectrum,model,Efficiency/Optimization,1
+learnable selection,method,Reasoning,1
+layernorm,tool,Theory/Methodology,1
+latent-prediction objective,method,Benchmark/Evaluation,1
+latent programming horizon,theory,Reasoning,1
+latent persona direction,model,Alignment/Safety,1
+latent graph encoding,method,Multimodal,1
+latent generation,task,Efficiency/Optimization,1
+legal professional privilege,risk,Alignment/Safety,1
+long-context understanding,task,Benchmark/Evaluation,1
+logit-based,method,Theory/Methodology,1
+logistic regression probe,tool,Reasoning,1
+logistic regression,model,Application,1
+logical irrelevant factors,theory,Reasoning,1
+logical complexity,theory,Reasoning,1
+variable semantics,theory,Reasoning,1
+log-ratio,metric,Reasoning,1
+localization signals,other,Reasoning,1
+localization,task,Alignment/Safety,1
+local preservation,theory,Theory/Methodology,1
+llama,model,Efficiency/Optimization,1
+local hierarchical algebraic regions,model,Reasoning,1
+local heads,model,Alignment/Safety,1
+local context,metric,Reasoning,1
+load-aware verification,method,Efficiency/Optimization,1
+llm-based semantic assessment,method,Benchmark/Evaluation,1
+llm-assisted code synthesis,method,Efficiency/Optimization,1
+llm-as-a-judge,tool,Theory/Methodology,1
+llm-as-a-judge,model,Benchmark/Evaluation,1
+llm,model,Benchmark/Evaluation,1
+llama-600m,dataset,Efficiency/Optimization,1
+llama-300m,dataset,Efficiency/Optimization,1
+local large language model,model,Theory/Methodology,1
+knowledge base,dataset,RAG/Retrieval,1
+kl regularization,method,Reasoning,1
+kl divergence,metric,Multimodal,1
+keyword filter,other,Alignment/Safety,1
+keyed pseudo-random permutation,method,Theory/Methodology,1
+kappa statistic,metric,Reasoning,1
+judgement-of-learning (jol,task,Reasoning,1
+joint token commitment,method,Reasoning,1
+joint estimation,method,Theory/Methodology,1
+joint ar-diffusion objective,metric,Reasoning,1
+latent field,model,Efficiency/Optimization,1
+jaccard overlap,metric,Theory/Methodology,1
+iterative tool optimization,method,Agent/Tool Use,1
+iterative repair,method,Alignment/Safety,1
+iterative refinement,method,Reasoning,1
+iou 0.95 positive labeling,method,Benchmark/Evaluation,1
+iou,metric,Application,1
+inverse reconstruction,task,Benchmark/Evaluation,1
+inverse participation ratio,metric,Reasoning,1
+invalid inputs,risk,Reasoning,1
+intrinsic noise,risk,Reasoning,1
+interpretation difficulty,task,Reasoning,1
+jensen-shannon divergence,metric,Agent/Tool Use,1
+latent compositional pattern,task,Reasoning,1
+large-language-model,model,Benchmark/Evaluation,1
+large language models (llms,model,Alignment/Safety,1
+large language models (llm,model,Reasoning,1
+large language models,model,Agent/Tool Use,1
+large language model (llm,tool,Multimodal,1
+large language model (llm,model,Reasoning,1
+large language model,model,Dataset/Benchmark,1
+language-guided latent decomposition,method,Multimodal,1
+language resource,risk,Benchmark/Evaluation,1
+language models,model,Theory/Methodology,1
+knowledge base manager,model,Agent/Tool Use,1
+language and dialect consistency,metric,Benchmark/Evaluation,1
+lagrangian budget constraint,method,Efficiency/Optimization,1
+label smoothing,method,Benchmark/Evaluation,1
+l1-penalized logistic regression,method,Benchmark/Evaluation,1
+kolmogorov complexity,theory,Theory/Methodology,1
+knowledge-intensive domains,task,Agent/Tool Use,1
+knowledge-augmented dataset,dataset,Dataset/Benchmark,1
+knowledge retrieval,task,Reasoning,1
+knowledge graph,task,Agent/Tool Use,1
+knowledge graph,model,Benchmark/Evaluation,1
+knowledge distillation,method,Efficiency/Optimization,1
+language models,model,Reasoning,1
+factual reliability,task,Reasoning,1
+factual precision,metric,RAG/Retrieval,1
+factual hallucination,risk,Alignment/Safety,1
+factual consistency,metric,RAG/Retrieval,1
+factual consistency,metric,Benchmark/Evaluation,1
+factorized draft models,model,Reasoning,1
+f1 score,metric,Reasoning,1
+f1 score,metric,Application,1
+extraction,task,Agent/Tool Use,1
+external-memory latency,risk,Efficiency/Optimization,1
+hard-negative sampling,method,Benchmark/Evaluation,1
+external corpus,dataset,Efficiency/Optimization,1
+extended conversational context,dataset,Reasoning,1
+exponential moving average (ema,method,Alignment/Safety,1
+explorer-definer pipeline,method,Agent/Tool Use,1
+exploratory data analysis,method,Benchmark/Evaluation,1
+expert-annotated datasets,dataset,Benchmark/Evaluation,1
+expert system,model,Agent/Tool Use,1
+experimental design,method,Reasoning,1
+expected calibration error (ece,metric,Reasoning,1
+execution,task,Agent/Tool Use,1
+executable web application,application,Benchmark/Evaluation,1
+external knowledge,model,Reasoning,1
+fine-tuning,method,Alignment/Safety,1
+fine-grained diagnostic annotations,dataset,Benchmark/Evaluation,1
+fine-grained access control,application,Alignment/Safety,1
+final action,task,Alignment/Safety,1
+filled pause,task,Theory/Methodology,1
+field-resolution tradeoff,theory,Theory/Methodology,1
+fidelity,metric,Theory/Methodology,1
+few-step distillation,method,Efficiency/Optimization,1
+few-shot learning,other,Multimodal,1
+few-shot knowledge distillation,task,Efficiency/Optimization,1
+feeling-of-knowing (fok,task,Reasoning,1
+failure mode,risk,Theory/Methodology,1
+federated learning,application,Benchmark/Evaluation,1
+feddualatt,method,Alignment/Safety,1
+fedavg,method,Alignment/Safety,1
+feature space,other,Reasoning,1
+fast radio burst,task,Benchmark/Evaluation,1
+false positive rate,risk,Application,1
+faithfulness,metric,RAG/Retrieval,1
+failure-driven,theory,Agent/Tool Use,1
+failure pattern mining,method,Agent/Tool Use,1
+failure modes,task,Reasoning,1
+failure mode classification,method,Benchmark/Evaluation,1
+feedback-based refinement,method,Agent/Tool Use,1
+energy-based model (ebm,model,Reasoning,1
+energy waste,risk,Efficiency/Optimization,1
+endpoint representation,model,Reasoning,1
+endogenous loss function,theory,Theory/Methodology,1
+end-to-end workflows,application,Agent/Tool Use,1
+end-to-end training,method,Efficiency/Optimization,1
+encoder-decoder,model,Benchmark/Evaluation,1
+empirically derived cultural taxonomy,theory,Benchmark/Evaluation,1
+empirical risk minimization,method,Theory/Methodology,1
+empirical annotator distribution,task,Multimodal,1
+executable verification,method,Benchmark/Evaluation,1
+emotion distribution,task,Multimodal,1
+emergent misalignment,task,Alignment/Safety,1
+embodied experience,application,Theory/Methodology,1
+embedding techniques,method,Theory/Methodology,1
+embedding models,model,RAG/Retrieval,1
+embedding model,metric,Theory/Methodology,1
+embedding,model,Benchmark/Evaluation,1
+elemental and compound phases,task,Reasoning,1
+electronic-nose signals,metric,Multimodal,1
+electronic medical records,application,Theory/Methodology,1
+electronic healthcare records (ehr,application,Reasoning,1
+emotional naturalness,metric,Benchmark/Evaluation,1
+executable reasoning-action trajectory,task,Agent/Tool Use,1
+executable patch validation,task,Alignment/Safety,1
+evidence-grounded pipeline,method,Benchmark/Evaluation,1
+event-based timestamps,method,Theory/Methodology,1
+evaluative pipeline,method,Multimodal,1
+evaluation methodologies,other,Agent/Tool Use,1
+evaluation framework,theory,Benchmark/Evaluation,1
+evaluation framework,other,Benchmark/Evaluation,1
+evaluation budgets,metric,Reasoning,1
+error-state extended kalman filter,model,Reasoning,1
+error rate,metric,Alignment/Safety,1
+entailment,task,Theory/Methodology,1
+error amplification,metric,Efficiency/Optimization,1
+error accumulation,metric,Efficiency/Optimization,1
+ergodic theory,theory,Theory/Methodology,1
+equitable performance,metric,Theory/Methodology,1
+epistemic entropy,metric,Alignment/Safety,1
+episodic memory,model,Theory/Methodology,1
+episode failure,risk,Alignment/Safety,1
+epidemic modeling,task,Agent/Tool Use,1
+entropy pacing,method,Alignment/Safety,1
+entity familiarity,task,Reasoning,1
+entity extraction,method,Benchmark/Evaluation,1
+error detection,task,Agent/Tool Use,1
+gradient-based alignment,method,Alignment/Safety,1
+gradient warfare,risk,Efficiency/Optimization,1
+gradient variance,metric,Theory/Methodology,1
+gradient projection,method,Efficiency/Optimization,1
+gpu--dram--ssd hierarchy,model,Efficiency/Optimization,1
+gpt-5 series,model,Benchmark/Evaluation,1
+global heads,model,Alignment/Safety,1
+global dependency modeling,task,Reasoning,1
+global convergence,theory,Theory/Methodology,1
+ghost errors,risk,Alignment/Safety,1
+fine-tuning,method,Benchmark/Evaluation,1
+geometry-aware transformation,method,Efficiency/Optimization,1
+geometry-aware spatiotemporal graph,model,Reasoning,1
+geometric grounding,task,Agent/Tool Use,1
+geometric deep learning,method,Theory/Methodology,1
+geometric causal models,model,Theory/Methodology,1
+genetic improvement,application,Theory/Methodology,1
+genetic and reinforcement-learning evolution,method,Multimodal,1
+genetic algorithm,model,Efficiency/Optimization,1
+generative pipeline,method,Multimodal,1
+generative image model,model,Reasoning,1
+generative ai,model,Benchmark/Evaluation,1
+geometry-inductive mixture-of-experts,model,Reasoning,1
+hand-eye matrix,model,Agent/Tool Use,1
+hallucination penalties,risk,Agent/Tool Use,1
+hallucination inference and verification engine (hive,tool,Reasoning,1
+hallucination,risk,Theory/Methodology,1
+hallucination,risk,Multimodal,1
+hallucinated chain-of-thought,risk,Alignment/Safety,1
+grpcompviarep (gcr,theory,Reasoning,1
+group theory,theory,Theory/Methodology,1
+ground-truth matrices,metric,Alignment/Safety,1
+ground truth injection module,tool,RAG/Retrieval,1
+grokking,theory,Theory/Methodology,1
+gradient-boosted tree classifier,tool,Reasoning,1
+gridded observation,dataset,Reasoning,1
+grid-based dominance scoring,method,Application,1
+grb-sympnet,model,Reasoning,1
+graphical user interface,tool,Benchmark/Evaluation,1
+graph-theoretic representation,theory,Theory/Methodology,1
+graph theory,theory,Reasoning,1
+graph reasoning,other,Reasoning,1
+graph property functionals,tool,Theory/Methodology,1
+graph propagation module,model,Reasoning,1
+graph convolutional attention,method,Theory/Methodology,1
+graph attention network (gat,model,Reasoning,1
+groking,task,Theory/Methodology,1
+framing susceptibility,theory,Reasoning,1
+fractal architecture,model,Multimodal,1
+fr chet mean,method,Theory/Methodology,1
+fp8,metric,Efficiency/Optimization,1
+fourier transform,tool,Reasoning,1
+fourier mechanisms,method,Reasoning,1
+foundation models,model,Theory/Methodology,1
+foundation models,model,Reasoning,1
+forward pass,metric,Reasoning,1
+formatting attacks,risk,Theory/Methodology,1
+generative adversarial network,model,Multimodal,1
+formal language prover,model,Agent/Tool Use,1
+forged amplifying rationale memory attack,other,Alignment/Safety,1
+forensic reconstruction,task,Alignment/Safety,1
+fluency,metric,Efficiency/Optimization,1
+flow sparsity regularization,other,Reasoning,1
+fixed-point arithmetic,application,Efficiency/Optimization,1
+fisher-rao distance,metric,Reasoning,1
+finite-horizon,task,Agent/Tool Use,1
+finite automaton,theory,Efficiency/Optimization,1
+fine-tuning,task,Efficiency/Optimization,1
+fine-tuning,method,Multimodal,1
+formal verification,theory,Reasoning,1
+generation,task,Alignment/Safety,1
+generalized-ridge sympnet,model,Reasoning,1
+generalized estimating equations,method,Theory/Methodology,1
+generalization,theory,Theory/Methodology,1
+gaussian process,model,Theory/Methodology,1
+gated mlp,model,Multimodal,1
+gated linear rnn,model,Efficiency/Optimization,1
+gated accumulation,method,Efficiency/Optimization,1
+gamma band,metric,Reasoning,1
+game-playing agent,application,Agent/Tool Use,1
+fuzzy cognitive map,task,Theory/Methodology,1
+frequency-domain mixing,theory,Efficiency/Optimization,1
+fusion tokens,model,Reasoning,1
+functional correctness,metric,Benchmark/Evaluation,1
+functional connectivity,task,Multimodal,1
+function class,task,Theory/Methodology,1
+fully homomorphic encryption,theory,Efficiency/Optimization,1
+fully convolutional network,model,Efficiency/Optimization,1
+full-duplex spoken dialogue model,model,Dataset/Benchmark,1
+full-duplex slms,application,Reasoning,1
+fuel density prediction,task,Reasoning,1
+frozen backbone,model,Alignment/Safety,1
+frequency-matching principle,theory,Theory/Methodology,1
+future confidence distillation,method,Reasoning,1

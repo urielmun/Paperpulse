@@ -1,0 +1,8 @@
+﻿month,category_combo,combo_size,paper_count,month_total,ratio
+2026-07,cs.AI,1,157,500,31.4
+2026-07,cs.LG,1,94,500,18.8
+2026-07,cs.AI + cs.LG,2,76,500,15.2
+2026-07,cs.CL,1,69,500,13.8
+2026-07,cs.AI + cs.CL,2,53,500,10.6
+2026-07,cs.AI + cs.CL + cs.LG,3,30,500,6.0
+2026-07,cs.CL + cs.LG,2,21,500,4.2

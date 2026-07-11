@@ -1,0 +1,71 @@
+﻿primary_category,primary_paradigm,paper_count,category_total,ratio_by_category
+cond-mat.mtrl-sci,Efficiency/Optimization,1,1,100.0
+cs.AI,Alignment/Safety,13,44,29.55
+cs.AI,Reasoning,10,44,22.73
+cs.AI,Agent/Tool Use,9,44,20.45
+cs.AI,Benchmark/Evaluation,5,44,11.36
+cs.AI,Theory/Methodology,4,44,9.09
+cs.AI,Efficiency/Optimization,2,44,4.55
+cs.AI,RAG/Retrieval,1,44,2.27
+cs.AR,Efficiency/Optimization,1,1,100.0
+cs.CL,Reasoning,21,80,26.25
+cs.CL,Benchmark/Evaluation,18,80,22.5
+cs.CL,Theory/Methodology,16,80,20.0
+cs.CL,Alignment/Safety,11,80,13.75
+cs.CL,Agent/Tool Use,4,80,5.0
+cs.CL,Efficiency/Optimization,3,80,3.75
+cs.CL,Multimodal,3,80,3.75
+cs.CL,Dataset/Benchmark,2,80,2.5
+cs.CL,RAG/Retrieval,2,80,2.5
+cs.CR,Alignment/Safety,6,11,54.55
+cs.CR,Agent/Tool Use,2,11,18.18
+cs.CR,Application,1,11,9.09
+cs.CR,Benchmark/Evaluation,1,11,9.09
+cs.CR,Theory/Methodology,1,11,9.09
+cs.CV,Reasoning,15,36,41.67
+cs.CV,Multimodal,7,36,19.44
+cs.CV,Efficiency/Optimization,5,36,13.89
+cs.CV,Agent/Tool Use,2,36,5.56
+cs.CV,Application,2,36,5.56
+cs.CV,Benchmark/Evaluation,2,36,5.56
+cs.CV,Dataset/Benchmark,1,36,2.78
+cs.CV,RAG/Retrieval,1,36,2.78
+cs.CV,Theory/Methodology,1,36,2.78
+cs.CY,Alignment/Safety,1,3,33.33
+cs.CY,Benchmark/Evaluation,1,3,33.33
+cs.CY,Theory/Methodology,1,3,33.33
+cs.DB,Efficiency/Optimization,1,1,100.0
+cs.DC,Efficiency/Optimization,1,1,100.0
+cs.HC,Alignment/Safety,1,2,50.0
+cs.HC,Theory/Methodology,1,2,50.0
+cs.IR,Agent/Tool Use,1,1,100.0
+cs.LG,Reasoning,20,69,28.99
+cs.LG,Efficiency/Optimization,18,69,26.09
+cs.LG,Theory/Methodology,11,69,15.94
+cs.LG,Benchmark/Evaluation,8,69,11.59
+cs.LG,Alignment/Safety,6,69,8.7
+cs.LG,Agent/Tool Use,2,69,2.9
+cs.LG,Multimodal,2,69,2.9
+cs.LG,Application,1,69,1.45
+cs.LG,Dataset/Benchmark,1,69,1.45
+cs.MA,Agent/Tool Use,1,1,100.0
+cs.NE,Theory/Methodology,1,1,100.0
+cs.PF,Efficiency/Optimization,1,1,100.0
+cs.RO,Reasoning,5,5,100.0
+cs.SD,Application,1,3,33.33
+cs.SD,Efficiency/Optimization,1,3,33.33
+cs.SD,Theory/Methodology,1,3,33.33
+cs.SE,Benchmark/Evaluation,4,13,30.77
+cs.SE,Alignment/Safety,2,13,15.38
+cs.SE,Reasoning,2,13,15.38
+cs.SE,Theory/Methodology,2,13,15.38
+cs.SE,Agent/Tool Use,1,13,7.69
+cs.SE,Multimodal,1,13,7.69
+cs.SE,RAG/Retrieval,1,13,7.69
+econ.TH,Agent/Tool Use,1,1,100.0
+eess.AS,Benchmark/Evaluation,1,1,100.0
+eess.SP,Benchmark/Evaluation,1,2,50.0
+eess.SP,Reasoning,1,2,50.0
+math.ST,Theory/Methodology,1,1,100.0
+stat.ME,Reasoning,1,1,100.0
+stat.ML,Theory/Methodology,4,4,100.0

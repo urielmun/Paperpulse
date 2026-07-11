@@ -1,0 +1,11 @@
+﻿curation_keyword,paper_count,first_month,latest_month,top_category,latest_month_paper_count
+benchmark,288,2026-07,2026-07,cs.CL,288
+reasoning,118,2026-07,2026-07,cs.AI,118
+multimodal,96,2026-07,2026-07,cs.CV,96
+agent,95,2026-07,2026-07,cs.AI,95
+safety,70,2026-07,2026-07,cs.AI,70
+alignment,59,2026-07,2026-07,cs.CL,59
+hallucination,31,2026-07,2026-07,cs.CL,31
+rag,28,2026-07,2026-07,cs.CL,28
+lora,25,2026-07,2026-07,cs.LG,25
+quantization,15,2026-07,2026-07,cs.LG,15

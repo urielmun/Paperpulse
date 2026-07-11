@@ -1,0 +1,11 @@
+﻿primary_paradigm,paper_count,mean,median,min,max
+Reasoning,75,0.8893,0.9,0.8,0.9
+Theory/Methodology,44,0.8909,0.9,0.8,0.9
+Benchmark/Evaluation,41,0.8951,0.9,0.8,1.0
+Alignment/Safety,40,0.895,0.9,0.8,1.0
+Efficiency/Optimization,34,0.8912,0.9,0.8,0.9
+Agent/Tool Use,23,0.9,0.9,0.9,0.9
+Multimodal,13,0.9077,0.9,0.9,1.0
+Application,5,0.9,0.9,0.9,0.9
+RAG/Retrieval,5,0.9,0.9,0.9,0.9
+Dataset/Benchmark,4,0.9,0.9,0.8,1.0

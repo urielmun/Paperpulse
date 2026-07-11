@@ -1,0 +1,1558 @@
+﻿canonical_arxiv_id,published_month,primary_category,concept_name,concept_type
+2607.07708,2026-07,cs.CL,native structural reasoning,method
+2607.07708,2026-07,cs.CL,multimodal scientific foundation model,model
+2607.07708,2026-07,cs.CL,homology-controlled gene ontology prediction,task
+2607.07708,2026-07,cs.CL,structure-aware vocabulary,model
+2607.07708,2026-07,cs.CL,retrosynthesis accuracy,metric
+2607.07708,2026-07,cs.CL,elemental and compound phases,task
+2607.07708,2026-07,cs.CL,band-gap regimes,task
+2607.07707,2026-07,cs.CL,limited memory language models,model
+2607.07707,2026-07,cs.CL,knowledge base,dataset
+2607.07707,2026-07,cs.CL,continuous-query,method
+2607.07707,2026-07,cs.CL,factual precision,metric
+2607.07706,2026-07,cs.LG,softmax,other
+2607.07706,2026-07,cs.LG,rank-1 orthogonal projections,method
+2607.07706,2026-07,cs.LG,delta-style networks,model
+2607.07706,2026-07,cs.LG,gated accumulation,method
+2607.07706,2026-07,cs.LG,linearization,method
+2607.07706,2026-07,cs.LG,llama,model
+2607.07706,2026-07,cs.LG,qwen,model
+2607.07706,2026-07,cs.LG,mmlu,other
+2607.07702,2026-07,cs.CL,failure pattern mining,method
+2607.07702,2026-07,cs.CL,causal localization,method
+2607.07702,2026-07,cs.CL,textual dependency graph,model
+2607.07702,2026-07,cs.CL,optimization context,task
+2607.07702,2026-07,cs.CL,agent optimization,application
+2607.07696,2026-07,cs.DB,llm-assisted code synthesis,method
+2607.07696,2026-07,cs.DB,database storage decoding,task
+2607.07696,2026-07,cs.DB,apache arrow buffers,metric
+2607.07696,2026-07,cs.DB,tpc-h benchmark,other
+2607.07696,2026-07,cs.DB,data lock-in,risk
+2607.0768,2026-07,math.ST,random sampling map,method
+2607.0768,2026-07,math.ST,generalization,theory
+2607.0768,2026-07,math.ST,sketching,method
+2607.0768,2026-07,math.ST,function class,task
+2607.0768,2026-07,math.ST,sampling,method
+2607.07678,2026-07,cs.LG,rotary position embeddings (rope,model
+2607.07678,2026-07,cs.LG,frequency-matching principle,theory
+2607.07678,2026-07,cs.LG,field-resolution tradeoff,theory
+2607.07678,2026-07,cs.LG,position-interpolation-based length generalization,method
+2607.07678,2026-07,cs.LG,self-similarity,theory
+2607.07673,2026-07,cs.CV,multimodal,task
+2607.07673,2026-07,cs.CV,high-fidelity,metric
+2607.07673,2026-07,cs.CV,clinical validation,application
+2607.07673,2026-07,cs.CV,image-text pairs,dataset
+2607.07673,2026-07,cs.CV,benchmark,metric
+2607.07673,2026-07,cs.CV,medical figure classification,task
+2607.07673,2026-07,cs.CV,visual question-answering,application
+2607.07673,2026-07,cs.CV,retrieval,task
+2607.0767,2026-07,cs.CL,activation dispersion,metric
+2607.0767,2026-07,cs.CL,inverse participation ratio,metric
+2607.0767,2026-07,cs.CL,spectral entropy,metric
+2607.0767,2026-07,cs.CL,entity familiarity,task
+2607.0767,2026-07,cs.CL,factual reliability,task
+2607.0767,2026-07,cs.CL,large language models,model
+2607.07669,2026-07,cs.CL,continual pretraining,method
+2607.07669,2026-07,cs.CL,sft,method
+2607.07669,2026-07,cs.CL,dialectal robustness,metric
+2607.07669,2026-07,cs.CL,generation,task
+2607.07669,2026-07,cs.CL,alignment,method
+2607.07669,2026-07,cs.CL,benchmark,metric
+2607.07646,2026-07,cs.AI,reinforcement learning,method
+2607.07646,2026-07,cs.AI,transformer,model
+2607.07646,2026-07,cs.AI,primitive skills,task
+2607.07646,2026-07,cs.AI,compositional reasoning,task
+2607.07646,2026-07,cs.AI,trace analysis,method
+2607.07646,2026-07,cs.AI,rejection fine-tuning,method
+2607.07626,2026-07,cs.CL,feeling-of-knowing (fok,task
+2607.07626,2026-07,cs.CL,judgement-of-learning (jol,task
+2607.07626,2026-07,cs.CL,future confidence distillation,method
+2607.07626,2026-07,cs.CL,hidden representations,model
+2607.07626,2026-07,cs.CL,post-solution confidence,metric
+2607.07626,2026-07,cs.CL,pre-solution confidence,metric
+2607.07573,2026-07,cs.LG,multi-class formulation,model
+2607.07573,2026-07,cs.LG,multi-label formulation,model
+2607.07573,2026-07,cs.LG,transformer encoder,model
+2607.07573,2026-07,cs.LG,common weakness enumeration (cwe,task
+2607.07573,2026-07,cs.LG,common vulnerabilities and exposures (cve,task
+2607.07573,2026-07,cs.LG,macro-f1,metric
+2607.07573,2026-07,cs.LG,hierarchy-relaxed evaluation,method
+2607.07573,2026-07,cs.LG,confusion matrix,metric
+2607.07557,2026-07,cs.CL,percentile-aware layerwise sparsity,method
+2607.07557,2026-07,cs.CL,activation magnitude,metric
+2607.07557,2026-07,cs.CL,pruning,method
+2607.07557,2026-07,cs.CL,transformer,model
+2607.07557,2026-07,cs.CL,perplexity,metric
+2607.07548,2026-07,cs.CL,hierarchical search,task
+2607.07548,2026-07,cs.CL,role factorization,method
+2607.07548,2026-07,cs.CL,capacity allocation,method
+2607.07548,2026-07,cs.CL,multi-hop qa,dataset
+2607.07548,2026-07,cs.CL,delegation,task
+2607.07548,2026-07,cs.CL,execution,task
+2607.07548,2026-07,cs.CL,answer generation,task
+2607.07548,2026-07,cs.CL,quality-filtered trajectory distillation,method
+2607.07527,2026-07,stat.ML,mahalanobis distance scores,metric
+2607.07527,2026-07,stat.ML,minimum covariance determinant (mcd,method
+2607.07527,2026-07,stat.ML,covariance matrix estimation,method
+2607.07527,2026-07,stat.ML,joint estimation,method
+2607.07521,2026-07,cs.HC,human-ai co-creation,method
+2607.07521,2026-07,cs.HC,vision-language model,model
+2607.07521,2026-07,cs.HC,constrained exploration,task
+2607.07521,2026-07,cs.HC,multimodal interaction,other
+2607.07521,2026-07,cs.HC,creative process,application
+2607.07508,2026-07,cs.LG,asynchronous reinforcement learning,method
+2607.07508,2026-07,cs.LG,single-rollout sampling,method
+2607.07508,2026-07,cs.LG,token-level clipping,method
+2607.07508,2026-07,cs.LG,rl benchmark,other
+2607.07507,2026-07,cs.CV,post hallucination reasoning (phr,task
+2607.07507,2026-07,cs.CV,hallucination inference and verification engine (hive,tool
+2607.07507,2026-07,cs.CV,multimodal pattern,metric
+2607.07507,2026-07,cs.CV,semantic coverage,metric
+2607.07507,2026-07,cs.CV,reasoning dynamics,metric
+2607.07494,2026-07,cs.DC,low-precision gradient communication,method
+2607.07494,2026-07,cs.DC,geometry-aware transformation,method
+2607.07494,2026-07,cs.DC,fp8,metric
+2607.07494,2026-07,cs.DC,llama-300m,dataset
+2607.07494,2026-07,cs.DC,llama-600m,dataset
+2607.07478,2026-07,cs.LG,spectral preprocessing,method
+2607.07478,2026-07,cs.LG,query-key projections,task
+2607.07478,2026-07,cs.LG,transformer attention,model
+2607.07478,2026-07,cs.LG,character-level language modeling,application
+2607.07478,2026-07,cs.LG,frequency-domain mixing,theory
+2607.07469,2026-07,cs.CL,synthetic labeling,task
+2607.07469,2026-07,cs.CL,majority voting,method
+2607.07469,2026-07,cs.CL,human validation,method
+2607.07469,2026-07,cs.CL,multi-llm arena,tool
+2607.07468,2026-07,stat.ML,1-regularization,method
+2607.07468,2026-07,stat.ML,empirical risk minimization,method
+2607.07468,2026-07,stat.ML,statistical inverse learning,theory
+2607.07468,2026-07,stat.ML,reproducing kernel hilbert space,model
+2607.07468,2026-07,stat.ML,variational source condition,theory
+2607.07468,2026-07,stat.ML,effective dimension,metric
+2607.07467,2026-07,cs.AI,multi-agent architecture,model
+2607.07467,2026-07,cs.AI,dynamic tool-orchestration engine,tool
+2607.07467,2026-07,cs.AI,self-evolution module,model
+2607.07467,2026-07,cs.AI,feedback-based refinement,method
+2607.07467,2026-07,cs.AI,natural language specification,application
+2607.07467,2026-07,cs.AI,analytical workflow,application
+2607.07467,2026-07,cs.AI,spatiotemporal analysis,task
+2607.07467,2026-07,cs.AI,narrative generation,application
+2607.07408,2026-07,cs.CL,prosodic segmentation,task
+2607.07408,2026-07,cs.CL,whisper,model
+2607.07408,2026-07,cs.CL,nurc-sp dataset,dataset
+2607.07408,2026-07,cs.CL,mupe-diversidades dataset,dataset
+2607.07408,2026-07,cs.CL,f1 score,metric
+2607.07401,2026-07,cs.CV,heterogeneity-adaptive diffusion schrodinger bridge,method
+2607.07401,2026-07,cs.CV,vision-language model,model
+2607.07401,2026-07,cs.CV,region context embeddings,task
+2607.07401,2026-07,cs.CV,dual-stage guidance mechanism,method
+2607.07401,2026-07,cs.CV,pet-guided noise modulation module,tool
+2607.07395,2026-07,cs.CV,graph attention network (gat,model
+2607.07395,2026-07,cs.CV,symbolic attribute graph,model
+2607.07395,2026-07,cs.CV,expected calibration error (ece,metric
+2607.07388,2026-07,cs.CL,offline construction,method
+2607.07388,2026-07,cs.CL,external corpus,dataset
+2607.07388,2026-07,cs.CL,gpu--dram--ssd hierarchy,model
+2607.07388,2026-07,cs.CL,early-exit guided predictive prefetching,method
+2607.07388,2026-07,cs.CL,external-memory latency,risk
+2607.07386,2026-07,cs.LG,sparse addressing,method
+2607.07386,2026-07,cs.LG,gated linear rnn,model
+2607.07386,2026-07,cs.LG,hidden state,task
+2607.07386,2026-07,cs.LG,state memory capacity,metric
+2607.07382,2026-07,cs.LG,vision-language model,model
+2607.07382,2026-07,cs.LG,fast radio burst,task
+2607.07382,2026-07,cs.LG,zero-shot,theory
+2607.07382,2026-07,cs.LG,structured radio frequency interference,task
+2607.07382,2026-07,cs.LG,natural-language justification,method
+2607.07379,2026-07,cs.AI,physics-audited agentic sciml,method
+2607.07379,2026-07,cs.AI,verification-first workflow,method
+2607.07379,2026-07,cs.AI,physics requirements,theory
+2607.07379,2026-07,cs.AI,machine-checkable,tool
+2607.07379,2026-07,cs.AI,surrogate models,model
+2607.07375,2026-07,cs.LG,spectral decomposition,method
+2607.07375,2026-07,cs.LG,singular vectors,method
+2607.07375,2026-07,cs.LG,transformer-based vision-language models,model
+2607.07375,2026-07,cs.LG,adversarial vulnerability,risk
+2607.07375,2026-07,cs.LG,white-box attack,method
+2607.07357,2026-07,cs.RO,knowledge distillation,method
+2607.07357,2026-07,cs.RO,transformer-based model,model
+2607.07357,2026-07,cs.RO,multi-modal input,other
+2607.07357,2026-07,cs.RO,human-aware representation,other
+2607.07357,2026-07,cs.RO,trajectory planning,task
+2607.07321,2026-07,cs.AI,standard operating procedures (sop,task
+2607.07321,2026-07,cs.AI,iterative tool optimization,method
+2607.07321,2026-07,cs.AI,atomic actions,task
+2607.07321,2026-07,cs.AI,recurring workflows,task
+2607.07321,2026-07,cs.AI,toolset,tool
+2607.07316,2026-07,cs.LG,mechanistic interpretability,theory
+2607.07316,2026-07,cs.LG,transformer circuit analysis,method
+2607.07316,2026-07,cs.LG,sparse autoencoders (saes,tool
+2607.07316,2026-07,cs.LG,attention mechanisms,model
+2607.07316,2026-07,cs.LG,induction heads,model
+2607.07316,2026-07,cs.LG,superposition,risk
+2607.07316,2026-07,cs.LG,polysemanticity,risk
+2607.07316,2026-07,cs.LG,steering vectors,method
+2607.07289,2026-07,cond-mat.mtrl-sci,bayesian optimization,method
+2607.07289,2026-07,cond-mat.mtrl-sci,surrogate modeling,method
+2607.07289,2026-07,cond-mat.mtrl-sci,genetic algorithm,model
+2607.07289,2026-07,cond-mat.mtrl-sci,multi-fidelity framework,theory
+2607.07289,2026-07,cond-mat.mtrl-sci,elastic modulus,metric
+2607.07277,2026-07,cs.CL,interpretation difficulty,task
+2607.07277,2026-07,cs.CL,local context,metric
+2607.07277,2026-07,cs.CL,external knowledge,model
+2607.07277,2026-07,cs.CL,extended conversational context,dataset
+2607.07277,2026-07,cs.CL,human interpretation,application
+2607.07277,2026-07,cs.CL,large language model,model
+2607.07267,2026-07,cs.CY,conceptual structure,theory
+2607.07267,2026-07,cs.CY,visual imagination,task
+2607.07267,2026-07,cs.CY,cultural variation,risk
+2607.07267,2026-07,cs.CY,embodied experience,application
+2607.07267,2026-07,cs.CY,multimodal representation,model
+2607.07267,2026-07,cs.CY,embedding model,metric
+2607.07267,2026-07,cs.CY,cross-cultural comparison,other
+2607.07251,2026-07,cs.CL,spatial deictic expressions,task
+2607.07251,2026-07,cs.CL,vision-language models,model
+2607.07251,2026-07,cs.CL,multilingual ability,application
+2607.07219,2026-07,cs.CV,vision foundation models,model
+2607.07219,2026-07,cs.CV,transformer-based architectures,model
+2607.07219,2026-07,cs.CV,self-supervised pretraining,method
+2607.07219,2026-07,cs.CV,segmentation,task
+2607.07219,2026-07,cs.CV,classification,task
+2607.07219,2026-07,cs.CV,cross-center validation,other
+2607.07219,2026-07,cs.CV,cross-scanner validation,other
+2607.07219,2026-07,cs.CV,anatomical validation,other
+2607.07189,2026-07,cs.AI,computational imaging,task
+2607.07189,2026-07,cs.AI,agentic ai,model
+2607.07189,2026-07,cs.AI,ray and wave optics,task
+2607.07189,2026-07,cs.AI,image signal processing,task
+2607.07189,2026-07,cs.AI,inverse reconstruction,task
+2607.07189,2026-07,cs.AI,computational sensing,task
+2607.07189,2026-07,cs.AI,calibration,task
+2607.07189,2026-07,cs.AI,vision-language models,model
+2607.07184,2026-07,cs.LG,deployment simulation,method
+2607.07184,2026-07,cs.LG,misalignment,risk
+2607.07184,2026-07,cs.LG,gpt-5 series,model
+2607.07184,2026-07,cs.LG,tool resampling,method
+2607.07184,2026-07,cs.LG,production traffic,metric
+2607.07179,2026-07,cs.CV,vision-language model,model
+2607.07179,2026-07,cs.CV,document visual question answering,task
+2607.07179,2026-07,cs.CV,zero-shot evaluation,other
+2607.07179,2026-07,cs.CV,few-shot learning,other
+2607.07179,2026-07,cs.CV,cross-domain evaluation,other
+2607.07178,2026-07,cs.LG,multi-task reinforcement learning,task
+2607.07178,2026-07,cs.LG,policy optimization,method
+2607.07178,2026-07,cs.LG,entropy pacing,method
+2607.07178,2026-07,cs.LG,dynamic clipping,method
+2607.07128,2026-07,cs.LG,distributed sparse interventions,method
+2607.07128,2026-07,cs.LG,neuron-level interventions,method
+2607.07128,2026-07,cs.LG,nonlinear effects,theory
+2607.07128,2026-07,cs.LG,task-relevant computations,task
+2607.07128,2026-07,cs.LG,instruction-tuned language models,model
+2607.07117,2026-07,cs.CV,tree-of-thoughts (tot,method
+2607.07117,2026-07,cs.CV,multi-stage reasoning,method
+2607.07117,2026-07,cs.CV,prompt construction,risk
+2607.07117,2026-07,cs.CV,image synthesis,application
+2607.07117,2026-07,cs.CV,latent compositional pattern,task
+2607.07103,2026-07,cs.LG,knowledge-augmented dataset,dataset
+2607.07103,2026-07,cs.LG,large language model,model
+2607.07103,2026-07,cs.LG,synchronized trajectory,task
+2607.07103,2026-07,cs.LG,semantic annotation,task
+2607.07103,2026-07,cs.LG,closed-loop simulator,tool
+2607.07097,2026-07,cs.AI,operational reframing,risk
+2607.07097,2026-07,cs.AI,planner behavior,other
+2607.07097,2026-07,cs.AI,approval-framed delegation,other
+2607.07097,2026-07,cs.AI,multi-agent llm safety,application
+2607.07066,2026-07,cs.LG,monoid extension,theory
+2607.07066,2026-07,cs.LG,grpcompviarep (gcr,theory
+2607.07066,2026-07,cs.LG,local hierarchical algebraic regions,model
+2607.07066,2026-07,cs.LG,fourier mechanisms,method
+2607.07066,2026-07,cs.LG,square-free modular multiplication,task
+2607.0705,2026-07,cs.CL,on-policy distillation,method
+2607.0705,2026-07,cs.CL,tool call,task
+2607.0705,2026-07,cs.CL,jensen-shannon divergence,metric
+2607.0705,2026-07,cs.CL,token-level signals,task
+2607.0705,2026-07,cs.CL,behavior leverage imbalance,theory
+2607.07047,2026-07,cs.CL,riemannian mean pooling,method
+2607.07047,2026-07,cs.CL,fr chet mean,method
+2607.07047,2026-07,cs.CL,symmetric positive definite (spd) manifold,theory
+2607.07047,2026-07,cs.CL,pullback metrics,method
+2607.07047,2026-07,cs.CL,analytical jacobian,method
+2607.07033,2026-07,cs.CV,visual token pruning,task
+2607.07033,2026-07,cs.CV,relevance anchor,model
+2607.07033,2026-07,cs.CV,contextual expansion,method
+2607.07033,2026-07,cs.CV,novelty profile,metric
+2607.07033,2026-07,cs.CV,importance-weighted novelty,metric
+2607.07027,2026-07,cs.LG,multimodal generative framework,model
+2607.07027,2026-07,cs.LG,latent graph encoding,method
+2607.07027,2026-07,cs.LG,functional connectivity,task
+2607.07027,2026-07,cs.LG,variational autoencoder,model
+2607.07027,2026-07,cs.LG,transformer,model
+2607.07027,2026-07,cs.LG,generative adversarial network,model
+2607.07027,2026-07,cs.LG,diffusion model,model
+2607.07027,2026-07,cs.LG,structural and functional mri,dataset
+2607.07026,2026-07,cs.LG,finite automaton,theory
+2607.07026,2026-07,cs.LG,constrained decoding,task
+2607.07026,2026-07,cs.LG,mean-field posterior,model
+2607.07026,2026-07,cs.LG,efficient inference,method
+2607.07026,2026-07,cs.LG,sequence length,metric
+2607.07021,2026-07,cs.AI,social norms,theory
+2607.07021,2026-07,cs.AI,human-ai coordination,application
+2607.07021,2026-07,cs.AI,dynamic interaction,task
+2607.07021,2026-07,cs.AI,value alignment,theory
+2607.07021,2026-07,cs.AI,advantage awareness,theory
+2607.07021,2026-07,cs.AI,predictability,theory
+2607.07003,2026-07,cs.LG,sycophancy,other
+2607.07003,2026-07,cs.LG,linear probes,method
+2607.07003,2026-07,cs.LG,steering vectors,method
+2607.07003,2026-07,cs.LG,activations,model
+2607.07003,2026-07,cs.LG,representation sharing,metric
+2607.06999,2026-07,cs.LG,physics-guided machine learning,theory
+2607.06999,2026-07,cs.LG,spatiotemporal neural models,model
+2607.06999,2026-07,cs.LG,fuel density prediction,task
+2607.06999,2026-07,cs.LG,mass-conserving fuel transport,metric
+2607.06999,2026-07,cs.LG,rate-of-spread estimation,metric
+2607.06993,2026-07,cs.AI,retrieval-augmented generation,method
+2607.06993,2026-07,cs.AI,behavioral profile,task
+2607.06993,2026-07,cs.AI,continued pre-training,method
+2607.06993,2026-07,cs.AI,reinforcement learning,method
+2607.06993,2026-07,cs.AI,verifiable rewards,metric
+2607.06993,2026-07,cs.AI,transaction history,dataset
+2607.06993,2026-07,cs.AI,digital twin,application
+2607.06987,2026-07,cs.LG,probability capacity (cap,theory
+2607.06987,2026-07,cs.LG,unbounded positive asymmetric optimization (up,method
+2607.06987,2026-07,cs.LG,importance sampling (is,method
+2607.06987,2026-07,cs.LG,stop-gradient operator,method
+2607.06987,2026-07,cs.LG,clip,method
+2607.06974,2026-07,cs.CL,modular instruction memory,model
+2607.06974,2026-07,cs.CL,learnable selection,method
+2607.06974,2026-07,cs.CL,coarse-to-fine retrieval,method
+2607.06974,2026-07,cs.CL,sub-goal embeddings,model
+2607.06974,2026-07,cs.CL,sub-instructions,model
+2607.06963,2026-07,cs.CR,large language models,model
+2607.06963,2026-07,cs.CR,generative ai,model
+2607.06963,2026-07,cs.CR,cybersecurity,application
+2607.06963,2026-07,cs.CR,privacy,application
+2607.06963,2026-07,cs.CR,zero-day detection,task
+2607.06963,2026-07,cs.CR,devsecops,application
+2607.06963,2026-07,cs.CR,federated learning,application
+2607.06963,2026-07,cs.CR,synthetic content analysis,task
+2607.0694,2026-07,cs.CL,multifactor scoring system,theory
+2607.0694,2026-07,cs.CL,accuracy,metric
+2607.0694,2026-07,cs.CL,conciseness,metric
+2607.0694,2026-07,cs.CL,factual consistency,metric
+2607.0694,2026-07,cs.CL,readability,metric
+2607.0694,2026-07,cs.CL,coherence,metric
+2607.0694,2026-07,cs.CL,graphical user interface,tool
+2607.06924,2026-07,cs.LG,doob h-transform,theory
+2607.06924,2026-07,cs.LG,synaptic rule,method
+2607.06924,2026-07,cs.LG,intrinsic noise,risk
+2607.06924,2026-07,cs.LG,consolidation,task
+2607.06924,2026-07,cs.LG,barrier-conditioning,method
+2607.06919,2026-07,cs.CV,multi-view context,task
+2607.06919,2026-07,cs.CV,transformer,model
+2607.06919,2026-07,cs.CV,rotational sweep videos,dataset
+2607.06919,2026-07,cs.CV,biopsy acquisition,application
+2607.06919,2026-07,cs.CV,risk score,metric
+2607.06918,2026-07,cs.CV,low-rank adaptation (lora,method
+2607.06918,2026-07,cs.CV,parameter-efficient fine-tuning (peft,method
+2607.06918,2026-07,cs.CV,singular value decomposition (svd,method
+2607.06918,2026-07,cs.CV,spatial bases,model
+2607.06918,2026-07,cs.CV,channel adaptation,method
+2607.06918,2026-07,cs.CV,convolutional kernels,model
+2607.06882,2026-07,cs.RO,low-rank adaptation (lora,method
+2607.06882,2026-07,cs.RO,multimodal large language model (mllm,model
+2607.06882,2026-07,cs.RO,discrete token vocabulary,task
+2607.06882,2026-07,cs.RO,cross-entropy training,other
+2607.06882,2026-07,cs.RO,short image histories,other
+2607.06879,2026-07,cs.LG,best-arm identification,task
+2607.06879,2026-07,cs.LG,proxy score,metric
+2607.06879,2026-07,cs.LG,heteroscedastic identification,theory
+2607.06879,2026-07,cs.LG,control-variate adjustment,method
+2607.06879,2026-07,cs.LG,residual variance,metric
+2607.06879,2026-07,cs.LG,ordinary least squares fit,method
+2607.06879,2026-07,cs.LG,chi-square law,theory
+2607.06875,2026-07,cs.CV,multimodal,task
+2607.06875,2026-07,cs.CV,video2reaction,dataset
+2607.06875,2026-07,cs.CV,emotion distribution,task
+2607.06875,2026-07,cs.CV,social media,application
+2607.06875,2026-07,cs.CV,multi-agent pipeline,method
+2607.06875,2026-07,cs.CV,open-source llms,tool
+2607.06855,2026-07,cs.LG,self-distillation,method
+2607.06855,2026-07,cs.LG,hellinger loss,metric
+2607.06855,2026-07,cs.LG,fisher-rao distance,metric
+2607.06855,2026-07,cs.LG,natural-gradient update,method
+2607.06855,2026-07,cs.LG,drift,risk
+2607.06854,2026-07,cs.LG,reinforcement learning,method
+2607.06854,2026-07,cs.LG,game-playing agent,application
+2607.06854,2026-07,cs.LG,curriculum learning,method
+2607.06854,2026-07,cs.LG,expert system,model
+2607.06854,2026-07,cs.LG,reward shaping,method
+2607.06854,2026-07,cs.LG,self-play,method
+2607.06854,2026-07,cs.LG,information set monte carlo search,method
+2607.06854,2026-07,cs.LG,neural fictitious self-play,method
+2607.06845,2026-07,cs.CL,activation steering,method
+2607.06845,2026-07,cs.CL,dialect bias,risk
+2607.06845,2026-07,cs.CL,conditional dialect group invariance (cdgi,theory
+2607.06839,2026-07,cs.LG,nas,theory
+2607.06839,2026-07,cs.LG,generative pipeline,method
+2607.06839,2026-07,cs.LG,evaluative pipeline,method
+2607.06839,2026-07,cs.LG,deployment pipeline,method
+2607.06839,2026-07,cs.LG,ast-based code mutation,method
+2607.06839,2026-07,cs.LG,genetic and reinforcement-learning evolution,method
+2607.06839,2026-07,cs.LG,fractal architecture,model
+2607.06839,2026-07,cs.LG,large language model (llm,tool
+2607.06831,2026-07,cs.CL,gradient-based alignment,method
+2607.06831,2026-07,cs.CL,speech-to-text alignment,task
+2607.06831,2026-07,cs.CL,differentiable asr model,model
+2607.06831,2026-07,cs.CL,dynamic-programming pass,method
+2607.06831,2026-07,cs.CL,token log probability,metric
+2607.06824,2026-07,cs.RO,symplectic learning,theory
+2607.06824,2026-07,cs.RO,structured canonical lift,method
+2607.06824,2026-07,cs.RO,generalized-ridge sympnet,model
+2607.06824,2026-07,cs.RO,grb-sympnet,model
+2607.06824,2026-07,cs.RO,dissipative systems,task
+2607.06824,2026-07,cs.RO,quadrotor,application
+2607.06824,2026-07,cs.RO,contact-rich quadruped,application
+2607.06818,2026-07,cs.CL,reinforcement learning,theory
+2607.06818,2026-07,cs.CL,policy gradient,method
+2607.06818,2026-07,cs.CL,masked language model,model
+2607.06818,2026-07,cs.CL,transformer,model
+2607.06818,2026-07,cs.CL,headline generation,task
+2607.06802,2026-07,eess.SP,large-language-model,model
+2607.06802,2026-07,eess.SP,corpus,dataset
+2607.06802,2026-07,eess.SP,rule discovery,task
+2607.06802,2026-07,eess.SP,auditable engineering cascade,application
+2607.06802,2026-07,eess.SP,threshold check,metric
+2607.06802,2026-07,eess.SP,curator review,tool
+2607.06802,2026-07,eess.SP,continuous-integration,tool
+2607.06796,2026-07,cs.LG,knowledge distillation,method
+2607.06796,2026-07,cs.LG,time series classification,task
+2607.06796,2026-07,cs.LG,fully convolutional network,model
+2607.06796,2026-07,cs.LG,inception module,model
+2607.06796,2026-07,cs.LG,transformer-based model,model
+2607.06796,2026-07,cs.LG,ucr archive,dataset
+2607.06772,2026-07,cs.LG,meta-learning,theory
+2607.06772,2026-07,cs.LG,learned optimizer,model
+2607.06772,2026-07,cs.LG,long-horizon,task
+2607.06772,2026-07,cs.LG,redundant meta-training compute,method
+2607.06772,2026-07,cs.LG,decoupled progressive expert supervision,method
+2607.06764,2026-07,cs.AI,explorer-definer pipeline,method
+2607.06764,2026-07,cs.AI,reflective orchestrator,method
+2607.06764,2026-07,cs.AI,pattern discovery,task
+2607.06764,2026-07,cs.AI,program synthesis,task
+2607.06764,2026-07,cs.AI,autonomous exploration,method
+2607.06764,2026-07,cs.AI,pass 2,metric
+2607.06763,2026-07,cs.LG,factorized draft models,model
+2607.06763,2026-07,cs.LG,proposal trees,task
+2607.06763,2026-07,cs.LG,top-k marginals,metric
+2607.06763,2026-07,cs.LG,conditional dependencies,theory
+2607.06763,2026-07,cs.LG,tree-verification,method
+2607.06757,2026-07,cs.AI,agent-based modeling,model
+2607.06757,2026-07,cs.AI,large language model,model
+2607.06757,2026-07,cs.AI,epidemic modeling,task
+2607.06757,2026-07,cs.AI,human decision-making,task
+2607.06757,2026-07,cs.AI,scalable framework,theory
+2607.06748,2026-07,cs.SE,program analysis,tool
+2607.06748,2026-07,cs.SE,constraint-guided llm generation,method
+2607.06748,2026-07,cs.SE,smart home configuration,application
+2607.06748,2026-07,cs.SE,error detection,task
+2607.06748,2026-07,cs.SE,auto-fix,method
+2607.06748,2026-07,cs.SE,llm,model
+2607.06713,2026-07,cs.SE,contamination-awareness,other
+2607.06713,2026-07,cs.SE,trajectory-aware benchmarks,other
+2607.06713,2026-07,cs.SE,realistic coding contexts,task
+2607.06713,2026-07,cs.SE,human-aligned behavior,other
+2607.06713,2026-07,cs.SE,model failure modes,risk
+2607.06546,2026-07,cs.LG,spectral attention,method
+2607.06546,2026-07,cs.LG,graph convolutional attention,method
+2607.06546,2026-07,cs.LG,linear attention,method
+2607.06546,2026-07,cs.LG,stochastic block models,task
+2607.06546,2026-07,cs.LG,softmax,tool
+2607.06544,2026-07,cs.AI,cultural heritage preservation,theory
+2607.06544,2026-07,cs.AI,natural language processing,task
+2607.06544,2026-07,cs.AI,foundation models,model
+2607.06544,2026-07,cs.AI,hermeneutic reasoning,theory
+2607.06544,2026-07,cs.AI,linguistic diversity,task
+2607.06544,2026-07,cs.AI,resource creation,method
+2607.06544,2026-07,cs.AI,sociolinguistic characteristics,task
+2607.06544,2026-07,cs.AI,equitable performance,metric
+2607.0654,2026-07,cs.CL,modality interference,risk
+2607.0654,2026-07,cs.CL,hierarchical parameter separation,method
+2607.0654,2026-07,cs.CL,semantic alignment channel,tool
+2607.0654,2026-07,cs.CL,full-duplex slms,application
+2607.0654,2026-07,cs.CL,speech intelligence,metric
+2607.06653,2026-07,cs.LG,feddualatt,method
+2607.06653,2026-07,cs.LG,fedavg,method
+2607.06653,2026-07,cs.LG,global heads,model
+2607.06653,2026-07,cs.LG,local heads,model
+2607.06653,2026-07,cs.LG,transformer attention heads,model
+2607.06527,2026-07,cs.CL,recurrent soft-flow,method
+2607.06527,2026-07,cs.CL,large language model,model
+2607.06527,2026-07,cs.CL,graph reasoning,other
+2607.06527,2026-07,cs.CL,flow sparsity regularization,other
+2607.06527,2026-07,cs.CL,differentiable graph reasoning,other
+2607.06523,2026-07,cs.AI,token-adaptive cache compression,method
+2607.06523,2026-07,cs.AI,cross-depth residual factorization,method
+2607.06523,2026-07,cs.AI,depth router,tool
+2607.06523,2026-07,cs.AI,attention-output probes,metric
+2607.06523,2026-07,cs.AI,calibration-free online error tracking,method
+2607.06522,2026-07,cs.AI,visual alignment reward,other
+2607.06522,2026-07,cs.AI,visual-action alignment reward,other
+2607.06522,2026-07,cs.AI,hallucinated chain-of-thought,risk
+2607.06522,2026-07,cs.AI,alignment,other
+2607.06503,2026-07,cs.AI,hidden activations,model
+2607.06503,2026-07,cs.AI,calibrated gate,tool
+2607.06503,2026-07,cs.AI,episode failure,risk
+2607.06503,2026-07,cs.AI,inference compute,metric
+2607.06485,2026-07,cs.CV,adversarial attack,other
+2607.06485,2026-07,cs.CV,thermal-airflow perturbation,other
+2607.06485,2026-07,cs.CV,zero-shot attack,other
+2607.06485,2026-07,cs.CV,scene classification,task
+2607.06485,2026-07,cs.CV,physical plausibility,other
+2607.06482,2026-07,cs.CL,llm,model
+2607.06482,2026-07,cs.CL,table qa,task
+2607.06482,2026-07,cs.CL,table insight,task
+2607.06482,2026-07,cs.CL,exploratory data analysis,method
+2607.06482,2026-07,cs.CL,agentic framework,tool
+2607.06481,2026-07,cs.CV,text-to-video diffusion transformer,model
+2607.06481,2026-07,cs.CV,low-rank temporal adapters,model
+2607.06481,2026-07,cs.CV,shot-role prompt tokens,tool
+2607.06481,2026-07,cs.CV,recursive prompt bank,model
+2607.06481,2026-07,cs.CV,adapter gates,model
+2607.06481,2026-07,cs.CV,shot-local story-global tuning objective,metric
+2607.06481,2026-07,cs.CV,adapter composition schedule,method
+2607.06649,2026-07,cs.CR,prompt-optimized parameter shaking,method
+2607.06649,2026-07,cs.CR,multi-modality machine unlearning,theory
+2607.06649,2026-07,cs.CR,adversarial strategy,method
+2607.06461,2026-07,eess.AS,word-level control,task
+2607.06461,2026-07,eess.AS,multi-dimensional annotation,metric
+2607.06461,2026-07,eess.AS,bound-token mechanism,method
+2607.06461,2026-07,eess.AS,discrete autoregressive generation,theory
+2607.06461,2026-07,eess.AS,acoustic modulation,method
+2607.06452,2026-07,cs.CL,large language model,model
+2607.06452,2026-07,cs.CL,inference procedure,method
+2607.06452,2026-07,cs.CL,agent-based verification,method
+2607.06452,2026-07,cs.CL,question-type-specific inference,method
+2607.06445,2026-07,cs.CV,vision-language models,model
+2607.06445,2026-07,cs.CV,condition encoding,task
+2607.06445,2026-07,cs.CV,spatial understanding,other
+2607.06445,2026-07,cs.CV,intermediate representations,other
+2607.06445,2026-07,cs.CV,localization signals,other
+2607.06413,2026-07,stat.ME,experimental design,method
+2607.06413,2026-07,stat.ME,stochastic model-discovery operator,model
+2607.06413,2026-07,stat.ME,regression model,method
+2607.06413,2026-07,stat.ME,utility-aligned canonical decomposition,method
+2607.06402,2026-07,cs.CV,multimodal,application
+2607.06402,2026-07,cs.CV,vision-language,application
+2607.06402,2026-07,cs.CV,olfaction,application
+2607.06402,2026-07,cs.CV,language-guided latent decomposition,method
+2607.06402,2026-07,cs.CV,smell encoder,model
+2607.06402,2026-07,cs.CV,crossmodal retrieval,task
+2607.06402,2026-07,cs.CV,electronic-nose signals,metric
+2607.06402,2026-07,cs.CV,scene descriptors,task
+2607.06364,2026-07,cs.CL,domain adaptation,method
+2607.06364,2026-07,cs.CL,sentence transformer,model
+2607.06364,2026-07,cs.CL,fine-tuning,method
+2607.06364,2026-07,cs.CL,ndcg,metric
+2607.06364,2026-07,cs.CL,zero-shot learning,method
+2607.06641,2026-07,cs.CL,retrieval-augmented generation,method
+2607.06641,2026-07,cs.CL,pubhealthbench,dataset
+2607.06641,2026-07,cs.CL,hybrid retrieval,method
+2607.06641,2026-07,cs.CL,embedding models,model
+2607.06641,2026-07,cs.CL,faithfulness,metric
+2607.06641,2026-07,cs.CL,completeness,metric
+2607.06641,2026-07,cs.CL,clarity,metric
+2607.06641,2026-07,cs.CL,factual consistency,metric
+2607.06639,2026-07,cs.LG,groking,task
+2607.06639,2026-07,cs.LG,effective rank,metric
+2607.06639,2026-07,cs.LG,compression,task
+2607.06639,2026-07,cs.LG,accuracy transition,task
+2607.06639,2026-07,cs.LG,layernorm,tool
+2607.06326,2026-07,cs.AI,reasoning-active training,other
+2607.06326,2026-07,cs.AI,reasoning-free inference,other
+2607.06326,2026-07,cs.AI,intent-driven dataset,dataset
+2607.06326,2026-07,cs.AI,structured safety labels,other
+2607.06326,2026-07,cs.AI,rollout-guided progressive hard-case optimization,other
+2607.06309,2026-07,cs.CV,token-centric dual-view learning,method
+2607.06309,2026-07,cs.CV,cross-attention,method
+2607.06309,2026-07,cs.CV,fusion tokens,model
+2607.06309,2026-07,cs.CV,structured token-level communication,method
+2607.06309,2026-07,cs.CV,inter-view interaction,task
+2607.06636,2026-07,cs.SE,specification grounding,theory
+2607.06636,2026-07,cs.SE,test effectiveness,metric
+2607.06636,2026-07,cs.SE,large language models,model
+2607.06636,2026-07,cs.SE,code generation,task
+2607.06636,2026-07,cs.SE,edge cases,risk
+2607.06636,2026-07,cs.SE,invalid inputs,risk
+2607.06306,2026-07,cs.SE,executable web application,application
+2607.06306,2026-07,cs.SE,state-coherent screenshot set,dataset
+2607.06306,2026-07,cs.SE,interaction inference,task
+2607.06306,2026-07,cs.SE,functional correctness,metric
+2607.06306,2026-07,cs.SE,state-management complexity,metric
+2607.0629,2026-07,cs.LG,tensor program,theory
+2607.0629,2026-07,cs.LG,gaussian process,model
+2607.0629,2026-07,cs.LG,wasserstein distance,metric
+2607.0629,2026-07,cs.LG,random neural network,model
+2607.0629,2026-07,cs.LG,infinite-width limit,theory
+2607.06269,2026-07,cs.AI,structural tension,theory
+2607.06269,2026-07,cs.AI,offline recurrent loop,method
+2607.06269,2026-07,cs.AI,inference-time plasticity,method
+2607.06269,2026-07,cs.AI,endogenous loss function,theory
+2607.06269,2026-07,cs.AI,auditability,risk
+2607.06269,2026-07,cs.AI,reversibility,risk
+2607.06269,2026-07,cs.AI,topological continuity,theory
+2607.06269,2026-07,cs.AI,path-dependent tension resolution,theory
+2607.06254,2026-07,cs.CV,matthews correlation coefficient (mcc,metric
+2607.06254,2026-07,cs.CV,roc-auc,metric
+2607.06254,2026-07,cs.CV,vendorbench-100,other
+2607.06254,2026-07,cs.CV,deepfake image detection,task
+2607.06254,2026-07,cs.CV,commercial apis,application
+2607.06254,2026-07,cs.CV,zero-shot vision-language models (llms,model
+2607.06254,2026-07,cs.CV,open-source detectors,application
+2607.06631,2026-07,cs.CV,dynamic structural sparsification,method
+2607.06631,2026-07,cs.CV,few-step distillation,method
+2607.06631,2026-07,cs.CV,mixture-of-models,model
+2607.06631,2026-07,cs.CV,video diffusion models,model
+2607.06631,2026-07,cs.CV,post-training acceleration,method
+2607.06229,2026-07,cs.CL,text-to-sql,task
+2607.06229,2026-07,cs.CL,ai-native sql,task
+2607.06229,2026-07,cs.CL,benchmark,theory
+2607.06229,2026-07,cs.CL,agent-based pipeline,method
+2607.06229,2026-07,cs.CL,repeated execution protocol,method
+2607.06224,2026-07,cs.LG,heterogeneous graph,model
+2607.06224,2026-07,cs.LG,knowledge graph,model
+2607.06224,2026-07,cs.LG,domain-specific foundation models,model
+2607.06224,2026-07,cs.LG,self-supervised learning,theory
+2607.06224,2026-07,cs.LG,multi-modal representation,other
+2607.06223,2026-07,cs.AI,information gain,metric
+2607.06223,2026-07,cs.AI,rollout policy optimization,method
+2607.06223,2026-07,cs.AI,tree-structured rollout,method
+2607.06223,2026-07,cs.AI,intermediate-state informativeness,task
+2607.06223,2026-07,cs.AI,policy optimization target,theory
+2607.06196,2026-07,cs.CL,multimodal,task
+2607.06196,2026-07,cs.CL,multilingual,task
+2607.06196,2026-07,cs.CL,multicultural,task
+2607.06196,2026-07,cs.CL,cultural alignment,theory
+2607.06196,2026-07,cs.CL,llm-as-a-judge,model
+2607.06196,2026-07,cs.CL,empirically derived cultural taxonomy,theory
+2607.06629,2026-07,cs.LG,self-supervised learning,method
+2607.06629,2026-07,cs.LG,transformer,model
+2607.06629,2026-07,cs.LG,spatio-temporal embedding,task
+2607.06629,2026-07,cs.LG,eeg,application
+2607.06629,2026-07,cs.LG,brain age,metric
+2607.06629,2026-07,cs.LG,self-supervised transformer,model
+2607.06629,2026-07,cs.LG,latent-prediction objective,method
+2607.06629,2026-07,cs.LG,signal reconstruction,method
+2607.06175,2026-07,cs.CL,reinforcement learning,method
+2607.06175,2026-07,cs.CL,reward function design,method
+2607.06175,2026-07,cs.CL,large language models,model
+2607.06175,2026-07,cs.CL,process model generation,task
+2607.06175,2026-07,cs.CL,automated evaluation,tool
+2607.06175,2026-07,cs.CL,syntactic quality,metric
+2607.06175,2026-07,cs.CL,pragmatic quality,metric
+2607.06175,2026-07,cs.CL,semantic quality,metric
+2607.06626,2026-07,cs.LG,reward valuation,task
+2607.06626,2026-07,cs.LG,nucleus accumbens,model
+2607.06626,2026-07,cs.LG,anhedonia,risk
+2607.06626,2026-07,cs.LG,causal mechanism,theory
+2607.06626,2026-07,cs.LG,effort-based decision-making,task
+2607.06163,2026-07,cs.LG,transformer-based model,model
+2607.06163,2026-07,cs.LG,surrogate model,model
+2607.06163,2026-07,cs.LG,token-level explanation,method
+2607.06163,2026-07,cs.LG,clinical alignment metric,metric
+2607.06163,2026-07,cs.LG,interpretable ai,application
+2607.0616,2026-07,cs.CL,hierarchical task taxonomy,theory
+2607.0616,2026-07,cs.CL,evidence-grounded pipeline,method
+2607.0616,2026-07,cs.CL,long-context understanding,task
+2607.0616,2026-07,cs.CL,instruction-response pairs,task
+2607.0616,2026-07,cs.CL,fine-tuning,method
+2607.06145,2026-07,cs.CL,kolmogorov complexity,theory
+2607.06145,2026-07,cs.CL,prompt complexity,theory
+2607.06145,2026-07,cs.CL,shortest generating prompt,method
+2607.06145,2026-07,cs.CL,model-relative text compression,theory
+2607.06145,2026-07,cs.CL,prompt optimization,method
+2607.0614,2026-07,cs.CL,failure-driven,theory
+2607.0614,2026-07,cs.CL,dynamic evolution,method
+2607.0614,2026-07,cs.CL,data curation,task
+2607.0614,2026-07,cs.CL,post-training,application
+2607.0614,2026-07,cs.CL,supervised fine-tuning,application
+2607.0614,2026-07,cs.CL,reinforcement learning,application
+2607.0614,2026-07,cs.CL,cost-aware objective,metric
+2607.06623,2026-07,cs.LG,task-semantic field factorization,method
+2607.06623,2026-07,cs.LG,large language model,model
+2607.06623,2026-07,cs.LG,time-series forecasting,task
+2607.06623,2026-07,cs.LG,soft sensing,application
+2607.06623,2026-07,cs.LG,variable semantics,theory
+2607.06127,2026-07,cs.CL,shared decision making (sdm,task
+2607.06127,2026-07,cs.CL,observer option12,tool
+2607.06127,2026-07,cs.CL,open-source smaller language models (os-sllms,model
+2607.06127,2026-07,cs.CL,clinical consultations,dataset
+2607.06127,2026-07,cs.CL,hallucination,risk
+2607.06127,2026-07,cs.CL,instruction-following failures,risk
+2607.06127,2026-07,cs.CL,temporal discourse reasoning,task
+2607.06127,2026-07,cs.CL,conversational role attribution,task
+2607.06105,2026-07,cs.CV,semantic segmentation,method
+2607.06105,2026-07,cs.CV,convnext,model
+2607.06105,2026-07,cs.CV,grid-based dominance scoring,method
+2607.06105,2026-07,cs.CV,high-resolution rgb imagery,dataset
+2607.06105,2026-07,cs.CV,uav imagery,dataset
+2607.06105,2026-07,cs.CV,biodiversity imagery,dataset
+2607.06105,2026-07,cs.CV,iou,metric
+2607.06105,2026-07,cs.CV,f1 score,metric
+2607.06097,2026-07,cs.CV,pseudo frames,dataset
+2607.06097,2026-07,cs.CV,voxel features,model
+2607.06097,2026-07,cs.CV,teacher-student framework,method
+2607.06097,2026-07,cs.CV,instance-level data augmentation,method
+2607.06097,2026-07,cs.CV,cider 0.5iou,metric
+2607.06055,2026-07,cs.HC,graph-theoretic representation,theory
+2607.06055,2026-07,cs.HC,cognitive states,task
+2607.06055,2026-07,cs.HC,episodic memory,model
+2607.06055,2026-07,cs.HC,working memory,model
+2607.06055,2026-07,cs.HC,belief updating,theory
+2607.06055,2026-07,cs.HC,graph property functionals,tool
+2607.06055,2026-07,cs.HC,awareness functionals,tool
+2607.06055,2026-07,cs.HC,activation,tool
+2607.06054,2026-07,cs.SD,pangolintokenizer,other
+2607.06054,2026-07,cs.SD,barbet,other
+2607.06054,2026-07,cs.SD,voxcpm2,other
+2607.06054,2026-07,cs.SD,cer,metric
+2607.06054,2026-07,cs.SD,wer,metric
+2607.0662,2026-07,cs.CV,geometry-inductive mixture-of-experts,model
+2607.0662,2026-07,cs.CV,spatiotemporal manifold sampling,method
+2607.0662,2026-07,cs.CV,geometry-aware spatiotemporal graph,model
+2607.0662,2026-07,cs.CV,instruction-pose aware router,tool
+2607.06037,2026-07,cs.CR,privacy-utility orthogonality,theory
+2607.06037,2026-07,cs.CR,reconstruction-aware,method
+2607.06037,2026-07,cs.CR,ecg anonymization,application
+2607.06037,2026-07,cs.CR,1d u-net,model
+2607.06037,2026-07,cs.CR,privacy classifier,tool
+2607.06037,2026-07,cs.CR,utility classifier,tool
+2607.06009,2026-07,cs.CR,multi-channel spread-spectrum watermarking,method
+2607.06009,2026-07,cs.CR,variable naming conventions,method
+2607.06009,2026-07,cs.CR,semantically equivalent code patterns,method
+2607.06009,2026-07,cs.CR,keyed pseudo-random permutation,method
+2607.06009,2026-07,cs.CR,majority voting,method
+2607.06009,2026-07,cs.CR,reed-solomon code,method
+2607.06009,2026-07,cs.CR,formatting attacks,risk
+2607.06009,2026-07,cs.CR,syntactic attacks,risk
+2607.06008,2026-07,cs.AI,polyworkbench,other
+2607.06008,2026-07,cs.AI,multilingual long-horizon llm agents,application
+2607.06008,2026-07,cs.AI,hybrid framework,method
+2607.06008,2026-07,cs.AI,structural grading,method
+2607.06008,2026-07,cs.AI,executable verification,method
+2607.06008,2026-07,cs.AI,llm-based semantic assessment,method
+2607.06001,2026-07,cs.AI,information-theoretic capacity region,theory
+2607.06001,2026-07,cs.AI,mean-field residual-scaling law,theory
+2607.06001,2026-07,cs.AI,population misalignment,risk
+2607.06001,2026-07,cs.AI,market coupling,task
+2607.06001,2026-07,cs.AI,coalition value,metric
+2607.06001,2026-07,cs.AI,xor synergy control,tool
+2607.06001,2026-07,cs.AI,bistability,risk
+2607.05992,2026-07,cs.CL,benchmark,other
+2607.05992,2026-07,cs.CL,evaluation,other
+2607.05992,2026-07,cs.CL,language resource,risk
+2607.05992,2026-07,cs.CL,mathematical reasoning,task
+2607.05992,2026-07,cs.CL,large language model,model
+2607.05985,2026-07,cs.AI,black-box evaluation,method
+2607.05985,2026-07,cs.AI,large language models (llms,model
+2607.05985,2026-07,cs.AI,design structure matrices (dsms,task
+2607.05985,2026-07,cs.AI,ground-truth matrices,metric
+2607.05985,2026-07,cs.AI,structural metrics,metric
+2607.05985,2026-07,cs.AI,classification metrics,metric
+2607.05985,2026-07,cs.AI,stability measures,metric
+2607.05985,2026-07,cs.AI,composite quality score (q,metric
+2607.06614,2026-07,cs.LG,spatio-temporal encoder,model
+2607.06614,2026-07,cs.LG,graph propagation module,model
+2607.06614,2026-07,cs.LG,temporal convolution module,model
+2607.06614,2026-07,cs.LG,agent attention mechanism,model
+2607.06614,2026-07,cs.LG,global dependency modeling,task
+2607.05978,2026-07,cs.CV,multi-token localized attention (mtla,method
+2607.05978,2026-07,cs.CV,hallucination,risk
+2607.05978,2026-07,cs.CV,attention-based detectors,tool
+2607.05978,2026-07,cs.CV,post-hoc score,metric
+2607.05978,2026-07,cs.CV,training-free,method
+2607.05964,2026-07,cs.CL,transformer,model
+2607.05964,2026-07,cs.CL,filled pause,task
+2607.05964,2026-07,cs.CL,generalized estimating equations,method
+2607.05964,2026-07,cs.CL,sentiment analysis,application
+2607.05964,2026-07,cs.CL,political orientation,application
+2607.05964,2026-07,cs.CL,power status,application
+2607.05956,2026-07,cs.AI,domain adaptation,task
+2607.05956,2026-07,cs.AI,regulation-aware ai,theory
+2607.05956,2026-07,cs.AI,digital humanities,application
+2607.05956,2026-07,cs.AI,legal and ethical compliance,risk
+2607.05956,2026-07,cs.AI,large language models,model
+2607.05956,2026-07,cs.AI,bibliographic discovery,task
+2607.05956,2026-07,cs.AI,literature synthesis,task
+2607.05956,2026-07,cs.AI,multilingual access,tool
+2607.05955,2026-07,cs.CV,click-centric refinement,method
+2607.05955,2026-07,cs.CV,multi-resolution,method
+2607.05955,2026-07,cs.CV,scene-conditioned negative prompts,method
+2607.05955,2026-07,cs.CV,uncertainty-driven selective refinement,method
+2607.05955,2026-07,cs.CV,diversity regularizer,method
+2607.05955,2026-07,cs.CV,boundary-aware hard negative mining,method
+2607.05937,2026-07,cs.CL,domain adaptation,method
+2607.05937,2026-07,cs.CL,frozen backbone,model
+2607.05937,2026-07,cs.CL,sentiment analysis,task
+2607.05937,2026-07,cs.CL,dann,method
+2607.05937,2026-07,cs.CL,mmd,method
+2607.05937,2026-07,cs.CL,scl,method
+2607.05936,2026-07,cs.SE,retrieval-augmented generation,method
+2607.05936,2026-07,cs.SE,constrained decoding,method
+2607.05936,2026-07,cs.SE,openapi specification,dataset
+2607.05936,2026-07,cs.SE,endpoint representation,model
+2607.05936,2026-07,cs.SE,regex-based constraint,tool
+2607.05936,2026-07,cs.SE,hallucination,risk
+2607.05933,2026-07,cs.PF,dynamic voltage frequency scaling,tool
+2607.05933,2026-07,cs.PF,small language model,model
+2607.05933,2026-07,cs.PF,fine-tuning,task
+2607.05933,2026-07,cs.PF,resource-constrained embedded device,application
+2607.05933,2026-07,cs.PF,ml-based model selection,method
+2607.05908,2026-07,cs.LG,temporal drift,metric
+2607.05908,2026-07,cs.LG,inductive biases,theory
+2607.05908,2026-07,cs.LG,cross-temporal generalization,task
+2607.05908,2026-07,cs.LG,architectural inductive biases,theory
+2607.05904,2026-07,cs.LG,self-play,task
+2607.05904,2026-07,cs.LG,reference-free,model
+2607.05904,2026-07,cs.LG,reward hacking,risk
+2607.05904,2026-07,cs.LG,hidden-anchor audit,method
+2607.05904,2026-07,cs.LG,cross-source exact-match check,metric
+2607.05902,2026-07,cs.SD,classical morphology,theory
+2607.05902,2026-07,cs.SD,electroacoustic quantitative measurement,method
+2607.05902,2026-07,cs.SD,machine representation reconstruction,method
+2607.05902,2026-07,cs.SD,event-based timestamps,method
+2607.05902,2026-07,cs.SD,role-aware encoding,method
+2607.05901,2026-07,cs.AI,temporal encoder,model
+2607.05901,2026-07,cs.AI,mutual transformer,model
+2607.05901,2026-07,cs.AI,advantage-weighted ranking loss,method
+2607.05901,2026-07,cs.AI,advantage-weighted separation,method
+2607.05901,2026-07,cs.AI,advantage-weighted compactness,method
+2607.06611,2026-07,cs.CL,cross-modal transformer,model
+2607.06611,2026-07,cs.CL,automatic speech recognition (asr,tool
+2607.06611,2026-07,cs.CL,machine translation,tool
+2607.06611,2026-07,cs.CL,multilingual transcripts,dataset
+2607.06611,2026-07,cs.CL,knowledge distillation,method
+2607.05891,2026-07,cs.CV,coreset selection,method
+2607.05891,2026-07,cs.CV,few-shot knowledge distillation,task
+2607.05891,2026-07,cs.CV,centroid,model
+2607.05891,2026-07,cs.CV,image classification,task
+2607.05891,2026-07,cs.CV,teacher-student model,model
+2607.05888,2026-07,cs.CR,planning compilation,method
+2607.05888,2026-07,cs.CR,attack path identification,task
+2607.05888,2026-07,cs.CR,security metrics evaluation,metric
+2607.05888,2026-07,cs.CR,hardening strategy generation,task
+2607.05888,2026-07,cs.CR,natural language explanation,application
+2607.0588,2026-07,cs.CV,multimodal,task
+2607.0588,2026-07,cs.CV,large language model,model
+2607.0588,2026-07,cs.CV,domain adaptation,method
+2607.0588,2026-07,cs.CV,contrastive vision-encoder training,method
+2607.0588,2026-07,cs.CV,visual-question-answering,task
+2607.0588,2026-07,cs.CV,entity extraction,method
+2607.0588,2026-07,cs.CV,ontology-based synonym matching,method
+2607.0588,2026-07,cs.CV,polarity-contradiction detection,method
+2607.05872,2026-07,cs.LG,rank-r subspace,task
+2607.05872,2026-07,cs.LG,optimizer state,task
+2607.05872,2026-07,cs.LG,gradient projection,method
+2607.05872,2026-07,cs.LG,reproducibility,metric
+2607.05872,2026-07,cs.LG,subspace non-identifiability,risk
+2607.06609,2026-07,cs.LG,direct preference optimization (dpo,method
+2607.06609,2026-07,cs.LG,diffusion samplers,model
+2607.06609,2026-07,cs.LG,classifier-free guidance (cfg,task
+2607.06609,2026-07,cs.LG,timestep schedules,task
+2607.06609,2026-07,cs.LG,energy-based model (ebm,model
+2607.06609,2026-07,cs.LG,pretrained score network,model
+2607.06609,2026-07,cs.LG,dynamic preferences,method
+2607.05863,2026-07,cs.LG,reinforcement learning from verifiable rewards (rlvr,method
+2607.05863,2026-07,cs.LG,strategic bargaining,task
+2607.05863,2026-07,cs.LG,multi-buyer markets,application
+2607.05863,2026-07,cs.LG,surplus extraction,task
+2607.05863,2026-07,cs.LG,price anchoring,method
+2607.05863,2026-07,cs.LG,market discovery,task
+2607.05861,2026-07,cs.CL,thinking residual,theory
+2607.05861,2026-07,cs.CL,advantage regularization,method
+2607.05861,2026-07,cs.CL,mixed-mode rollout,method
+2607.05861,2026-07,cs.CL,factual hallucination,risk
+2607.05842,2026-07,cs.SE,refusal behavior,other
+2607.05842,2026-07,cs.SE,aligned models,model
+2607.05842,2026-07,cs.SE,ablated models,model
+2607.05842,2026-07,cs.SE,vulnerability detection,task
+2607.05842,2026-07,cs.SE,cwe attribution,task
+2607.05842,2026-07,cs.SE,localization,task
+2607.05842,2026-07,cs.SE,executable patch validation,task
+2607.06605,2026-07,cs.LG,conformal prediction,theory
+2607.06605,2026-07,cs.LG,imbalance,risk
+2607.06605,2026-07,cs.LG,minority class,task
+2607.06605,2026-07,cs.LG,coverage,metric
+2607.06605,2026-07,cs.LG,scaffold,application
+2607.05798,2026-07,cs.CV,pixel-level segmentation mask,tool
+2607.05798,2026-07,cs.CV,visual reasoning,task
+2607.05798,2026-07,cs.CV,multimodal large language models,model
+2607.05798,2026-07,cs.CV,position embedding,theory
+2607.05798,2026-07,cs.CV,region of interest,task
+2607.0579,2026-07,cs.AI,steering vector,other
+2607.0579,2026-07,cs.AI,heading-anchor,method
+2607.0579,2026-07,cs.AI,bidirectional causal control,method
+2607.05775,2026-07,cs.AI,tool use,application
+2607.05775,2026-07,cs.AI,planning,other
+2607.05775,2026-07,cs.AI,long-horizon reasoning,other
+2607.05775,2026-07,cs.AI,multi-agent coordination,application
+2607.05775,2026-07,cs.AI,safety,other
+2607.05775,2026-07,cs.AI,measurement validity,other
+2607.05773,2026-07,cs.AI,rl gym,tool
+2607.05773,2026-07,cs.AI,multi-dimensional reward shaping,method
+2607.05773,2026-07,cs.AI,internal state validation,method
+2607.05773,2026-07,cs.AI,reward hacking,risk
+2607.05773,2026-07,cs.AI,closed-loop feedback,method
+2607.05761,2026-07,cs.AI,large language models,model
+2607.05761,2026-07,cs.AI,synthetic consumer data,dataset
+2607.05761,2026-07,cs.AI,projective techniques,task
+2607.05761,2026-07,cs.AI,linguistic measures,metric
+2607.05761,2026-07,cs.AI,diversity and concentration metrics,metric
+2607.05761,2026-07,cs.AI,topic models,model
+2607.05761,2026-07,cs.AI,top-term analyses,other
+2607.05752,2026-07,cs.CL,counterfactual supervision,method
+2607.05752,2026-07,cs.CL,search-routing,task
+2607.05752,2026-07,cs.CL,oracle,model
+2607.05752,2026-07,cs.CL,supervised fine-tuning,method
+2607.05752,2026-07,cs.CL,preference optimization,method
+2607.05722,2026-07,cs.CL,tri-mode language model,model
+2607.05722,2026-07,cs.CL,autoregressive decoding,task
+2607.05722,2026-07,cs.CL,diffusion model,model
+2607.05722,2026-07,cs.CL,self-speculation decoding,task
+2607.05722,2026-07,cs.CL,joint ar-diffusion objective,metric
+2607.05722,2026-07,cs.CL,throughput,metric
+2607.05722,2026-07,cs.CL,acceptance rate,metric
+2607.05722,2026-07,cs.CL,forward pass,metric
+2607.05721,2026-07,cs.CL,span-level uncertainty estimation,task
+2607.05721,2026-07,cs.CL,detr-style span decoder,model
+2607.05721,2026-07,cs.CL,mixture of beta distribution,model
+2607.05721,2026-07,cs.CL,beta nll regression,method
+2607.05721,2026-07,cs.CL,contrastive ranking objectives,method
+2607.06601,2026-07,cs.LG,end-to-end training,method
+2607.06601,2026-07,cs.LG,heterogeneous relaxation,method
+2607.06601,2026-07,cs.LG,lagrangian budget constraint,method
+2607.06601,2026-07,cs.LG,per-axis normalization,method
+2607.06601,2026-07,cs.LG,coupling-aware balancing loss,method
+2607.05704,2026-07,cs.LG,large language models,model
+2607.05704,2026-07,cs.LG,neural network modifications,task
+2607.05704,2026-07,cs.LG,source-guided candidate-generation,method
+2607.05704,2026-07,cs.LG,evaluation budgets,metric
+2607.05704,2026-07,cs.LG,transfer learning,theory
+2607.05694,2026-07,stat.ML,power-calibrated,theory
+2607.05694,2026-07,stat.ML,watermarking,application
+2607.05694,2026-07,stat.ML,logit-based,method
+2607.05694,2026-07,stat.ML,detection power,metric
+2607.05694,2026-07,stat.ML,semantic distortion,risk
+2607.05691,2026-07,cs.CL,byte-pair encoding (bpe,method
+2607.05691,2026-07,cs.CL,unigram-lm,method
+2607.05691,2026-07,cs.CL,subword vocabulary,task
+2607.05691,2026-07,cs.CL,jaccard overlap,metric
+2607.05689,2026-07,cs.CL,multi-label span classification,task
+2607.05689,2026-07,cs.CL,iou 0.95 positive labeling,method
+2607.05689,2026-07,cs.CL,hard-negative sampling,method
+2607.05689,2026-07,cs.CL,boundary-aware span representations,model
+2607.05689,2026-07,cs.CL,label smoothing,method
+2607.05689,2026-07,cs.CL,stratified train-validation split,method
+2607.05679,2026-07,cs.CL,association metric,metric
+2607.05679,2026-07,cs.CL,language model,model
+2607.05679,2026-07,cs.CL,upstream metric,metric
+2607.05679,2026-07,cs.CL,downstream metric,metric
+2607.05679,2026-07,cs.CL,embedding,model
+2607.05679,2026-07,cs.CL,continuation probability,model
+2607.05679,2026-07,cs.CL,bias,risk
+2607.05679,2026-07,cs.CL,evaluation,other
+2607.05669,2026-07,cs.RO,error-state extended kalman filter,model
+2607.05669,2026-07,cs.RO,mamba,model
+2607.05669,2026-07,cs.RO,normal-inverse-gamma distribution,metric
+2607.05669,2026-07,cs.RO,proprioceptive vehicle localization,task
+2607.05669,2026-07,cs.RO,inertial navigation system,tool
+2607.05666,2026-07,cs.SE,mutation taxonomy,theory
+2607.05666,2026-07,cs.SE,performance-relevant diff hunks,task
+2607.05666,2026-07,cs.SE,genetic improvement,application
+2607.05666,2026-07,cs.SE,dual-llm intersection pipeline,method
+2607.05644,2026-07,cs.CL,systems development life cycle (sdlc,theory
+2607.05644,2026-07,cs.CL,natural language processing (nlp,task
+2607.05644,2026-07,cs.CL,data extraction,task
+2607.05644,2026-07,cs.CL,clinical research,application
+2607.05644,2026-07,cs.CL,electronic medical records,application
+2607.05638,2026-07,cs.SE,dimensional metric grouping,method
+2607.05638,2026-07,cs.SE,failure mode classification,method
+2607.05638,2026-07,cs.SE,structured iteration workflow,method
+2607.05626,2026-07,cs.CL,self-reported diagnosis,task
+2607.05626,2026-07,cs.CL,zero-shot nli,method
+2607.05626,2026-07,cs.CL,mentalroberta,model
+2607.05626,2026-07,cs.CL,redsm5,dataset
+2607.05626,2026-07,cs.CL,l1-penalized logistic regression,method
+2607.05626,2026-07,cs.CL,cross-validation,method
+2607.05626,2026-07,cs.CL,bootstrapping,method
+2607.05626,2026-07,cs.CL,macro-f1,metric
+2607.05615,2026-07,cs.LG,stochastic token steering (sts,method
+2607.05615,2026-07,cs.LG,stochastic block steering (sbs,method
+2607.05615,2026-07,cs.LG,sparse autoencoders (saes,model
+2607.05615,2026-07,cs.LG,behavioral control,task
+2607.05615,2026-07,cs.LG,fluency,metric
+2607.05612,2026-07,cs.CL,perplexity,metric
+2607.05612,2026-07,cs.CL,word error rate,metric
+2607.05612,2026-07,cs.CL,automatic speech recognition,task
+2607.05612,2026-07,cs.CL,language model,model
+2607.05612,2026-07,cs.CL,encoder-decoder,model
+2607.05612,2026-07,cs.CL,attention,theory
+2607.05612,2026-07,cs.CL,internal language modeling,theory
+2607.06595,2026-07,cs.CR,memory poisoning,risk
+2607.06595,2026-07,cs.CR,long-term memory,model
+2607.06595,2026-07,cs.CR,personal ai agents,application
+2607.06595,2026-07,cs.CR,security governance,theory
+2607.05583,2026-07,cs.CL,damped resonators,model
+2607.05583,2026-07,cs.CL,causal functions,model
+2607.05583,2026-07,cs.CL,latent field,model
+2607.05583,2026-07,cs.CL,self-attention mechanisms,model
+2607.05583,2026-07,cs.CL,transformer architecture,model
+2607.05573,2026-07,cs.AI,foundation models,model
+2607.05573,2026-07,cs.AI,text-to-cad,task
+2607.05573,2026-07,cs.AI,iterative refinement,method
+2607.05573,2026-07,cs.AI,visual reasoning,method
+2607.05573,2026-07,cs.AI,benchmark,other
+2607.05573,2026-07,cs.AI,cad generation,application
+2607.05571,2026-07,cs.AI,language model,model
+2607.05571,2026-07,cs.AI,block-based programming,task
+2607.05571,2026-07,cs.AI,vex vr,application
+2607.05571,2026-07,cs.AI,pedagogical rubric,theory
+2607.05571,2026-07,cs.AI,prompt engineering,method
+2607.05568,2026-07,cs.CV,generative image model,model
+2607.05568,2026-07,cs.CV,vision-language model,model
+2607.05568,2026-07,cs.CV,part segmentation,task
+2607.05568,2026-07,cs.CV,superquadric primitive,model
+2607.05568,2026-07,cs.CV,chamfer distance,metric
+2607.05554,2026-07,cs.CL,instruction-tuned model,model
+2607.05554,2026-07,cs.CL,prompt robustness,theory
+2607.05554,2026-07,cs.CL,binomial generalized estimating equation,method
+2607.05554,2026-07,cs.CL,dataset type,task
+2607.05554,2026-07,cs.CL,prompt category,task
+2607.05552,2026-07,cs.CL,framing susceptibility,theory
+2607.05552,2026-07,cs.CL,moral decisiveness,theory
+2607.05552,2026-07,cs.CL,logical irrelevant factors,theory
+2607.05552,2026-07,cs.CL,psychometric battery,method
+2607.05552,2026-07,cs.CL,binary verdict,task
+2607.05541,2026-07,cs.LG,self-review,method
+2607.05541,2026-07,cs.LG,policy gradients,theory
+2607.05541,2026-07,cs.LG,policy distillation,method
+2607.05541,2026-07,cs.LG,cross-episode memory,method
+2607.05518,2026-07,cs.CR,authorization gateway,tool
+2607.05518,2026-07,cs.CR,hmac-sha256 signature,metric
+2607.05518,2026-07,cs.CR,role-based policy,theory
+2607.05518,2026-07,cs.CR,argument-level policy,theory
+2607.05518,2026-07,cs.CR,sha-256 hash-chained audit log,metric
+2607.05518,2026-07,cs.CR,hmac-authenticated qr receipt,metric
+2607.05396,2026-07,cs.CV,camera-centric action,task
+2607.05396,2026-07,cs.CV,hand-eye matrix,model
+2607.05396,2026-07,cs.CV,geometric grounding,task
+2607.05396,2026-07,cs.CV,calibration-free,theory
+2607.05396,2026-07,cs.CV,depth-free,theory
+2607.05396,2026-07,cs.CV,single-view,theory
+2607.05394,2026-07,cs.LG,direct on-policy distillation,method
+2607.05394,2026-07,cs.LG,reinforcement learning,method
+2607.05394,2026-07,cs.LG,weak-to-strong generalization,task
+2607.05394,2026-07,cs.LG,post-rl teacher,model
+2607.05394,2026-07,cs.LG,log-ratio,metric
+2607.05365,2026-07,cs.CL,controlled dialogue prompts,task
+2607.05365,2026-07,cs.CL,seamless interaction corpus,dataset
+2607.05365,2026-07,cs.CL,multidimensional protocol,method
+2607.05365,2026-07,cs.CL,response latency,metric
+2607.05365,2026-07,cs.CL,asr robustness,metric
+2607.05365,2026-07,cs.CL,language and dialect consistency,metric
+2607.05365,2026-07,cs.CL,emotional naturalness,metric
+2607.05365,2026-07,cs.CL,interpersonal stance,metric
+2607.05355,2026-07,cs.CL,attribution scores,metric
+2607.05355,2026-07,cs.CL,neuron selectors,model
+2607.05355,2026-07,cs.CL,language models,model
+2607.05355,2026-07,cs.CL,pruning,application
+2607.05355,2026-07,cs.CL,interpretability,application
+2607.05355,2026-07,cs.CL,editing for safety,application
+2607.05355,2026-07,cs.CL,refusal,application
+2607.05355,2026-07,cs.CL,hate,risk
+2607.05353,2026-07,cs.CR,watermarking,method
+2607.05353,2026-07,cs.CR,hierarchical vocabulary routing,method
+2607.05353,2026-07,cs.CR,selective disclosure,method
+2607.05353,2026-07,cs.CR,multi-bit watermarking,method
+2607.05353,2026-07,cs.CR,fine-grained access control,application
+2607.05317,2026-07,cs.CV,smooth euler characteristic transform (sect,method
+2607.05317,2026-07,cs.CV,persistent homology,theory
+2607.05317,2026-07,cs.CV,auc,metric
+2607.05317,2026-07,cs.CV,false positive rate,risk
+2607.05316,2026-07,cs.CL,linear decoding,method
+2607.05316,2026-07,cs.CL,hidden states,model
+2607.05316,2026-07,cs.CL,completion-style datasets,dataset
+2607.05316,2026-07,cs.CL,natural-language datasets,dataset
+2607.05316,2026-07,cs.CL,controlled synthetic completions,task
+2607.05316,2026-07,cs.CL,high-loss completions,dataset
+2607.05316,2026-07,cs.CL,position estimation,metric
+2607.05316,2026-07,cs.CL,plan-like internal representation,theory
+2607.05292,2026-07,cs.LG,super-resolution,task
+2607.05292,2026-07,cs.LG,bias correction,task
+2607.05292,2026-07,cs.LG,spatial gaussian blending,method
+2607.05292,2026-07,cs.LG,time-agnostic propagation,method
+2607.05292,2026-07,cs.LG,multi-scale transformer,model
+2607.05282,2026-07,eess.SP,wavelet scattering transform,method
+2607.05282,2026-07,eess.SP,leave one subject out cross-validation,method
+2607.05282,2026-07,eess.SP,shap explainability,method
+2607.05282,2026-07,eess.SP,anov,method
+2607.05282,2026-07,eess.SP,random forest,method
+2607.05282,2026-07,eess.SP,svm classifier,method
+2607.05282,2026-07,eess.SP,cross-frequency coupling,task
+2607.05282,2026-07,eess.SP,gamma band,metric
+2607.05268,2026-07,cs.CV,hyperbolic representation,model
+2607.05268,2026-07,cs.CV,operating point,metric
+2607.05268,2026-07,cs.CV,curvature,metric
+2607.05268,2026-07,cs.CV,cone machinery,task
+2607.05268,2026-07,cs.CV,entailment,task
+2607.05259,2026-07,cs.CL,aspect-based sentiment analysis,task
+2607.05259,2026-07,cs.CL,manual labeling,method
+2607.05259,2026-07,cs.CL,dataset,dataset
+2607.05217,2026-07,cs.CY,retrieval,method
+2607.05217,2026-07,cs.CY,curated corpus,dataset
+2607.05217,2026-07,cs.CY,open web search,method
+2607.05217,2026-07,cs.CY,quality rubric,metric
+2607.05217,2026-07,cs.CY,source trustworthiness,risk
+2607.05199,2026-07,cs.AI,step-level reward,method
+2607.05199,2026-07,cs.AI,policy gradient,method
+2607.05199,2026-07,cs.AI,kl regularization,method
+2607.05199,2026-07,cs.AI,structured feedback,tool
+2607.05199,2026-07,cs.AI,domain knowledge,risk
+2607.05199,2026-07,cs.AI,hallucination,risk
+2607.05199,2026-07,cs.AI,multi-step derivation,risk
+2607.05199,2026-07,cs.AI,distributional sensitivity,risk
+2607.05196,2026-07,cs.CL,transformer decoder,model
+2607.05196,2026-07,cs.CL,moe llm,model
+2607.05196,2026-07,cs.CL,audio-text llm,model
+2607.05196,2026-07,cs.CL,supervised training,method
+2607.05196,2026-07,cs.CL,distillation,method
+2607.05196,2026-07,cs.CL,multimodal generation,task
+2607.05196,2026-07,cs.CL,audio understanding,metric
+2607.05196,2026-07,cs.CL,speech recognition,task
+2607.05188,2026-07,cs.LG,latent programming horizon,theory
+2607.05188,2026-07,cs.LG,residual streams,model
+2607.05188,2026-07,cs.LG,logistic regression probe,tool
+2607.05188,2026-07,cs.LG,hidden states,model
+2607.05188,2026-07,cs.LG,coding agents,other
+2607.05188,2026-07,cs.LG,program evolution,task
+2607.05188,2026-07,cs.LG,code parsing,metric
+2607.05188,2026-07,cs.LG,test suite,metric
+2607.05184,2026-07,cs.AI,self-distillation,method
+2607.05184,2026-07,cs.AI,privileged context,method
+2607.05184,2026-07,cs.AI,thinking models,model
+2607.05184,2026-07,cs.AI,reasoning traces,task
+2607.05184,2026-07,cs.AI,accuracy,metric
+2607.05174,2026-07,cs.AI,evaluation framework,theory
+2607.05174,2026-07,cs.AI,real-world end-to-end working demands,task
+2607.05174,2026-07,cs.AI,tool discovery,task
+2607.05174,2026-07,cs.AI,tool composition,task
+2607.05174,2026-07,cs.AI,robustness,risk
+2607.05479,2026-07,cs.CR,data storage and processing,task
+2607.05479,2026-07,cs.CR,legal professional privilege,risk
+2607.05479,2026-07,cs.CR,information governance,theory
+2607.05153,2026-07,stat.ML,geometric causal models,model
+2607.05153,2026-07,stat.ML,group theory,theory
+2607.05153,2026-07,stat.ML,ergodic theory,theory
+2607.05153,2026-07,stat.ML,geometric deep learning,method
+2607.05153,2026-07,stat.ML,scalable bayesian inference,method
+2607.05147,2026-07,cs.AI,speculative decoding,method
+2607.05147,2026-07,cs.AI,semi-autoregressive architecture,model
+2607.05147,2026-07,cs.AI,confidence-scheduled verification,method
+2607.05147,2026-07,cs.AI,throughput,metric
+2607.05147,2026-07,cs.AI,load-aware verification,method
+2607.05132,2026-07,cs.CY,repeated games,other
+2607.05132,2026-07,cs.CY,private intent,task
+2607.05132,2026-07,cs.CY,public announcement,task
+2607.05132,2026-07,cs.CY,final action,task
+2607.05132,2026-07,cs.CY,deviation,metric
+2607.05123,2026-07,cs.AI,axiomatic assembly specification,theory
+2607.05123,2026-07,cs.AI,port-based cad assembly library,method
+2607.05123,2026-07,cs.AI,deterministic mate transformations,method
+2607.05123,2026-07,cs.AI,b-rep geometric evidence,method
+2607.05123,2026-07,cs.AI,parametric component factories,application
+2607.05114,2026-07,cs.LG,lora,model
+2607.05114,2026-07,cs.LG,moe,model
+2607.05114,2026-07,cs.LG,block-wise,task
+2607.05114,2026-07,cs.LG,cell-wise,task
+2607.05114,2026-07,cs.LG,routing,method
+2607.05114,2026-07,cs.LG,gradient warfare,risk
+2607.05114,2026-07,cs.LG,spatial vision perception,application
+2607.05104,2026-07,cs.LG,grokking,theory
+2607.05104,2026-07,cs.LG,multi-seed study,method
+2607.05104,2026-07,cs.LG,training-set coverage,metric
+2607.05104,2026-07,cs.LG,output cardinality,metric
+2607.05104,2026-07,cs.LG,weight decay,method
+2607.05069,2026-07,cs.CL,nli,theory
+2607.05069,2026-07,cs.CL,cross-document claim graph,model
+2607.05069,2026-07,cs.CL,defended-claims gate,tool
+2607.05069,2026-07,cs.CL,pollution protocol,dataset
+2607.05069,2026-07,cs.CL,long-form qa benchmarks,other
+2607.05055,2026-07,cs.AI,large language model,model
+2607.05055,2026-07,cs.AI,retrieval-augmented generation,method
+2607.05055,2026-07,cs.AI,safety guardrails,tool
+2607.05055,2026-07,cs.AI,task-oriented scenarios,dataset
+2607.05055,2026-07,cs.AI,end-to-end workflows,application
+2607.05032,2026-07,cs.CL,severity phenotyping,task
+2607.05032,2026-07,cs.CL,electronic healthcare records (ehr,application
+2607.05032,2026-07,cs.CL,large language models (llm,model
+2607.05032,2026-07,cs.CL,synthetic cohort,dataset
+2607.05032,2026-07,cs.CL,kappa statistic,metric
+2607.05031,2026-07,cs.SE,large language models,model
+2607.05031,2026-07,cs.SE,test oracles,task
+2607.05031,2026-07,cs.SE,source of authority,theory
+2607.05031,2026-07,cs.SE,specification-derived authority,theory
+2607.05031,2026-07,cs.SE,llm-as-a-judge,tool
+2607.05029,2026-07,cs.CR,forged amplifying rationale memory attack,other
+2607.05029,2026-07,cs.CR,reasoning guard,other
+2607.05029,2026-07,cs.CR,consensus-based defense,other
+2607.05029,2026-07,cs.CR,keyword filter,other
+2607.05009,2026-07,cs.LG,mask-conditioned,method
+2607.05009,2026-07,cs.LG,one-dimensional transformer autoencoder,model
+2607.05009,2026-07,cs.LG,ecg reconstruction,task
+2607.05009,2026-07,cs.LG,incomplete ecg records,application
+2607.05009,2026-07,cs.LG,digital cardiac assessment,application
+2607.05001,2026-07,cs.CR,llm,model
+2607.05001,2026-07,cs.CR,agent,tool
+2607.05001,2026-07,cs.CR,knowledge graph,task
+2607.05001,2026-07,cs.CR,extraction,task
+2607.05001,2026-07,cs.CR,typing,task
+2607.05001,2026-07,cs.CR,verification,task
+2607.05001,2026-07,cs.CR,curation,task
+2607.04983,2026-07,cs.NE,fuzzy cognitive map,task
+2607.04983,2026-07,cs.NE,local large language model,model
+2607.04983,2026-07,cs.NE,hotel review,dataset
+2607.04983,2026-07,cs.NE,quantitative data extraction,method
+2607.04983,2026-07,cs.NE,star rating,metric
+2607.04969,2026-07,cs.LG,memorization window,metric
+2607.04969,2026-07,cs.LG,data reuse,method
+2607.04969,2026-07,cs.LG,training epochs,task
+2607.04969,2026-07,cs.LG,downstream evaluation,metric
+2607.04962,2026-07,cs.CL,annotation guidelines,theory
+2607.04962,2026-07,cs.CL,span-annotated corpus,dataset
+2607.04962,2026-07,cs.CL,transformer-based models,model
+2607.04962,2026-07,cs.CL,conspiratorial actors,task
+2607.04962,2026-07,cs.CL,telegram posts,application
+2607.05477,2026-07,cs.MA,multi-agent systems,theory
+2607.05477,2026-07,cs.MA,large language models,model
+2607.05477,2026-07,cs.MA,decision protocols,method
+2607.05477,2026-07,cs.MA,knowledge-intensive domains,task
+2607.05477,2026-07,cs.MA,logic-based datasets,dataset
+2607.04941,2026-07,cs.CL,full-duplex spoken dialogue model,model
+2607.04941,2026-07,cs.CL,speaker-separated dialogue speech,task
+2607.04941,2026-07,cs.CL,podcast feed,dataset
+2607.04926,2026-07,cs.LG,transformer,model
+2607.04926,2026-07,cs.LG,information matching,task
+2607.04926,2026-07,cs.LG,bayesian ceiling,metric
+2607.04926,2026-07,cs.LG,inductive bias,risk
+2607.04926,2026-07,cs.LG,sample efficiency,metric
+2607.04907,2026-07,cs.AI,clinicalorchestrator,tool
+2607.04907,2026-07,cs.AI,datamanager,tool
+2607.04907,2026-07,cs.AI,intentrouter,tool
+2607.04907,2026-07,cs.AI,pandasqueryengine,tool
+2607.04907,2026-07,cs.AI,clinicalragengine,tool
+2607.04907,2026-07,cs.AI,ground truth injection module,tool
+2607.04907,2026-07,cs.AI,protocolmanager,tool
+2607.04907,2026-07,cs.AI,safetyverifier,tool
+2607.04906,2026-07,cs.LG,reinforcement learning,method
+2607.04906,2026-07,cs.LG,graph theory,theory
+2607.04906,2026-07,cs.LG,partial observability,task
+2607.04906,2026-07,cs.LG,blockage detection,application
+2607.04906,2026-07,cs.LG,path planning,task
+2607.0489,2026-07,cs.CL,large language models,model
+2607.0489,2026-07,cs.CL,hateful event detection,task
+2607.0489,2026-07,cs.CL,antisemitic events,task
+2607.0489,2026-07,cs.CL,expert-annotated datasets,dataset
+2607.0489,2026-07,cs.CL,prompt engineering,method
+2607.05475,2026-07,cs.AR,mobile llm inference,task
+2607.05475,2026-07,cs.AR,powerbench,tool
+2607.05475,2026-07,cs.AR,backend-specific energy attribution,metric
+2607.05475,2026-07,cs.AR,custom operators,method
+2607.05475,2026-07,cs.AR,offloading and quantization strategies,method
+2607.05475,2026-07,cs.AR,energy waste,risk
+2607.04862,2026-07,cs.LG,u-net,model
+2607.04862,2026-07,cs.LG,multi-model blending,method
+2607.04862,2026-07,cs.LG,station observation,dataset
+2607.04862,2026-07,cs.LG,gridded observation,dataset
+2607.04862,2026-07,cs.LG,threat score,metric
+2607.04854,2026-07,cs.AI,constraint-aware reinforcement learning,theory
+2607.04854,2026-07,cs.AI,reinforcement fine-tuning,method
+2607.04854,2026-07,cs.AI,large language models,model
+2607.04854,2026-07,cs.AI,task constraints,risk
+2607.04846,2026-07,cs.LG,pretraining curriculum,theory
+2607.04846,2026-07,cs.LG,fine-tuning,method
+2607.04846,2026-07,cs.LG,disentangled representation,model
+2607.04846,2026-07,cs.LG,in-context learning,task
+2607.04846,2026-07,cs.LG,rule-following behavior,application
+2607.04832,2026-07,cs.CL,semantic homogenization,theory
+2607.04832,2026-07,cs.CL,natural language processing,tool
+2607.04832,2026-07,cs.CL,embedding techniques,method
+2607.04832,2026-07,cs.CL,large language models,model
+2607.04819,2026-07,cs.LG,structured newton layer parallelism,method
+2607.04819,2026-07,cs.LG,fully homomorphic encryption,theory
+2607.04819,2026-07,cs.LG,polynomial approximations,method
+2607.04819,2026-07,cs.LG,error accumulation,metric
+2607.04819,2026-07,cs.LG,symbolic bootstraps,metric
+2607.04819,2026-07,cs.LG,perplexity degradation,metric
+2607.04819,2026-07,cs.LG,error amplification,metric
+2607.04774,2026-07,cs.LG,de novo structure elucidation,method
+2607.04774,2026-07,cs.LG,self-supervised encoder,model
+2607.04774,2026-07,cs.LG,block-diffusion language model,model
+2607.04774,2026-07,cs.LG,mass-shell constraint,theory
+2607.04774,2026-07,cs.LG,symmetric noise objective,theory
+2607.04774,2026-07,cs.LG,candidate diversity mechanism,theory
+2607.04751,2026-07,cs.LG,trust region policy distillation,method
+2607.04751,2026-07,cs.LG,on-policy distillation,method
+2607.04751,2026-07,cs.LG,gradient variance,metric
+2607.04751,2026-07,cs.LG,global convergence,theory
+2607.04751,2026-07,cs.LG,monotonic improvement,theory
+2607.0475,2026-07,cs.AI,pathwise feature transport,method
+2607.0475,2026-07,cs.AI,change detection,task
+2607.0475,2026-07,cs.AI,feature space,other
+2607.0475,2026-07,cs.AI,time-conditioned velocity field,model
+2607.0475,2026-07,cs.AI,hierarchical multi-scale architecture,model
+2607.04733,2026-07,cs.CL,shannon entropy,metric
+2607.04733,2026-07,cs.CL,renyi entropy,metric
+2607.04733,2026-07,cs.CL,supervised fine-tuning,method
+2607.04733,2026-07,cs.CL,local preservation,theory
+2607.04733,2026-07,cs.CL,multimodal entropy structure,theory
+2607.05467,2026-07,cs.CV,synthetic fog generation,task
+2607.05467,2026-07,cs.CV,image restoration,task
+2607.05467,2026-07,cs.CV,object detection,task
+2607.05467,2026-07,cs.CV,tracking,task
+2607.05467,2026-07,cs.CV,monocular depth estimation,method
+2607.05467,2026-07,cs.CV,atmospheric scattering model,model
+2607.05467,2026-07,cs.CV,restoration quality,metric
+2607.05467,2026-07,cs.CV,detection robustness,metric
+2607.04728,2026-07,cs.CL,importance sampling,method
+2607.04728,2026-07,cs.CL,off-policy training,task
+2607.04728,2026-07,cs.CL,on-policy token,model
+2607.04728,2026-07,cs.CL,policy loss,metric
+2607.04728,2026-07,cs.CL,rejection sampling,theory
+2607.04727,2026-07,cs.SE,multimodal,task
+2607.04727,2026-07,cs.SE,benchmark,other
+2607.04727,2026-07,cs.SE,interactive dashboard,application
+2607.04727,2026-07,cs.SE,code generation,task
+2607.04727,2026-07,cs.SE,human judgment,metric
+2607.04714,2026-07,cs.RO,motion latents,other
+2607.04714,2026-07,cs.RO,point cloud evolution,task
+2607.04714,2026-07,cs.RO,spatial geometry,other
+2607.04714,2026-07,cs.RO,discrete motion latent codes,model
+2607.04714,2026-07,cs.RO,manipulation policies,application
+2607.04713,2026-07,cs.LG,reward-swap,method
+2607.04713,2026-07,cs.LG,policy optimization,method
+2607.04713,2026-07,cs.LG,dense process reward,metric
+2607.04713,2026-07,cs.LG,outcome reward,metric
+2607.04713,2026-07,cs.LG,multi-turn interaction,task
+2607.04708,2026-07,econ.TH,optimal policy,other
+2607.04708,2026-07,econ.TH,poisson arrival process,model
+2607.04708,2026-07,econ.TH,posterior belief,theory
+2607.04708,2026-07,econ.TH,worst-case protection,risk
+2607.04708,2026-07,econ.TH,competitive-ratio,metric
+2607.04708,2026-07,econ.TH,minimax-regret,metric
+2607.0469,2026-07,cs.CL,cloze-style masked language modeling,method
+2607.0469,2026-07,cs.CL,prototypical contrastive learning,method
+2607.0469,2026-07,cs.CL,topic-conditional layer normalization,method
+2607.0469,2026-07,cs.CL,stance detection,task
+2607.04688,2026-07,cs.LG,retrosynthesis,task
+2607.04688,2026-07,cs.LG,large language models,model
+2607.04688,2026-07,cs.LG,evaluation framework,other
+2607.04688,2026-07,cs.LG,chemical plausibility,metric
+2607.04688,2026-07,cs.LG,commercially available starting materials,metric
+2607.04686,2026-07,cs.CL,toolfailbench,other
+2607.04686,2026-07,cs.CL,tool-use failures,task
+2607.04686,2026-07,cs.CL,clean tool-use rate,metric
+2607.04683,2026-07,cs.CV,failure modes,task
+2607.04683,2026-07,cs.CV,uncertainty quantification,method
+2607.04683,2026-07,cs.CV,visual question answering,task
+2607.04683,2026-07,cs.CV,knowledge retrieval,task
+2607.04683,2026-07,cs.CV,pre-generation signals,method
+2607.04683,2026-07,cs.CV,hidden states,model
+2607.04683,2026-07,cs.CV,visual-token representations,model
+2607.05465,2026-07,cs.CV,multimodal,other
+2607.05465,2026-07,cs.CV,tool-augmented agent,model
+2607.05465,2026-07,cs.CV,executable reasoning-action trajectory,task
+2607.05465,2026-07,cs.CV,rl (reinforcement learning,other
+2607.05465,2026-07,cs.CV,hybrid reward,metric
+2607.04655,2026-07,cs.CL,autoformalization,task
+2607.04655,2026-07,cs.CL,sci error taxonomy,theory
+2607.04655,2026-07,cs.CL,diagnostic evaluation,method
+2607.04655,2026-07,cs.CL,fine-grained diagnostic annotations,dataset
+2607.04645,2026-07,cs.CL,alignment,other
+2607.04645,2026-07,cs.CL,chain-of-thought,other
+2607.04645,2026-07,cs.CL,forensic reconstruction,task
+2607.04645,2026-07,cs.CL,pragmatic framing,risk
+2607.0464,2026-07,cs.CL,difference-in-differences,method
+2607.0464,2026-07,cs.CL,alignment amplification,theory
+2607.0464,2026-07,cs.CL,compression failure,risk
+2607.0464,2026-07,cs.CL,lora fine-tune,method
+2607.0464,2026-07,cs.CL,natural-language i/o,task
+2607.04625,2026-07,cs.CV,retrieval-augmented generation,method
+2607.04625,2026-07,cs.CV,hierarchical question decomposition,method
+2607.04625,2026-07,cs.CV,multimodal retrieval,method
+2607.04625,2026-07,cs.CV,cross-page reasoning,method
+2607.04625,2026-07,cs.CV,memory-guided generation,method
+2607.04619,2026-07,cs.SD,lora adapters,model
+2607.04619,2026-07,cs.SD,pretrained audio teacher,model
+2607.04619,2026-07,cs.SD,perceptual stages,task
+2607.04619,2026-07,cs.SD,semantic stages,task
+2607.04619,2026-07,cs.SD,distillation,method
+2607.04595,2026-07,cs.LG,classifier discrimination score (cds,metric
+2607.04595,2026-07,cs.LG,perturbation discrimination score (pds,metric
+2607.04595,2026-07,cs.LG,macro-f1,metric
+2607.04595,2026-07,cs.LG,single-cell perturbation,task
+2607.04595,2026-07,cs.LG,population profile,method
+2607.04595,2026-07,cs.LG,weak models,model
+2607.0459,2026-07,cs.AI,rational inattention,theory
+2607.0459,2026-07,cs.AI,bradley--terry log-odds,model
+2607.0459,2026-07,cs.AI,low-capacity evaluation channel,model
+2607.0459,2026-07,cs.AI,attention-limited measurement process,theory
+2607.04579,2026-07,cs.SE,large language model,model
+2607.04579,2026-07,cs.SE,ci/cd workflow,task
+2607.04579,2026-07,cs.SE,anti-pattern detection,tool
+2607.04579,2026-07,cs.SE,repository enrichment,method
+2607.04579,2026-07,cs.SE,recommendation generation,application
+2607.04572,2026-07,cs.AI,chain-of-thought,task
+2607.04572,2026-07,cs.AI,truncated reasoning auc evaluation (trace,method
+2607.04572,2026-07,cs.AI,answer-driven reasoning,risk
+2607.04566,2026-07,cs.CL,temporal analysis,method
+2607.04566,2026-07,cs.CL,sentiment and emotion classification,method
+2607.04566,2026-07,cs.CL,transformer-based topic modeling,method
+2607.04566,2026-07,cs.CL,adolescent substance use discourse,task
+2607.04566,2026-07,cs.CL,naturalistic online setting,application
+2607.04563,2026-07,cs.CL,optimal transport divergence,theory
+2607.04563,2026-07,cs.CL,fidelity,metric
+2607.04563,2026-07,cs.CL,diversity,metric
+2607.04563,2026-07,cs.CL,text summarization,task
+2607.04562,2026-07,cs.AI,heaviside gate,theory
+2607.04562,2026-07,cs.AI,predicate-gated state transitions,method
+2607.04562,2026-07,cs.AI,epistemic entropy,metric
+2607.04562,2026-07,cs.AI,autoregressive decoding,method
+2607.04562,2026-07,cs.AI,verification-first execution framework,method
+2607.04558,2026-07,cs.CL,closed-loop program synthesis,method
+2607.04558,2026-07,cs.CL,large language model (llm,model
+2607.04558,2026-07,cs.CL,signal-processing features,task
+2607.04558,2026-07,cs.CL,spike detection,task
+2607.04558,2026-07,cs.CL,tabular classifier,tool
+2607.04558,2026-07,cs.CL,gradient-boosted tree classifier,tool
+2607.04558,2026-07,cs.CL,area under the receiver operating characteristic curve (auc,metric
+2607.04558,2026-07,cs.CL,balanced accuracy,metric
+2607.04537,2026-07,cs.SE,blind obedience,risk
+2607.04537,2026-07,cs.SE,ghost errors,risk
+2607.04537,2026-07,cs.SE,semantic corruption,risk
+2607.04537,2026-07,cs.SE,iterative repair,method
+2607.04537,2026-07,cs.SE,runbugrun dataset,dataset
+2607.04535,2026-07,cs.LG,stiefel layer,model
+2607.04535,2026-07,cs.LG,spectral control,theory
+2607.04535,2026-07,cs.LG,learnable spectrum,model
+2607.04535,2026-07,cs.LG,eigenvalue clipping,method
+2607.04534,2026-07,cs.CL,formal verification,theory
+2607.04534,2026-07,cs.CL,algebraic structure,task
+2607.04534,2026-07,cs.CL,proof-mechanism,task
+2607.04534,2026-07,cs.CL,template accuracy,metric
+2607.04534,2026-07,cs.CL,cognitive bias,risk
+2607.04531,2026-07,cs.LG,lyapunov function,theory
+2607.04531,2026-07,cs.LG,quantisation,method
+2607.04531,2026-07,cs.LG,fixed-point arithmetic,application
+2607.04531,2026-07,cs.LG,activation overflow,risk
+2607.04525,2026-07,cs.CL,point-cloud manifold,model
+2607.04525,2026-07,cs.CL,vector field,model
+2607.04525,2026-07,cs.CL,concept representation,task
+2607.04525,2026-07,cs.CL,contextual transformation,task
+2607.04525,2026-07,cs.CL,displacement structure,metric
+2607.05458,2026-07,cs.LG,harness mdp,theory
+2607.05458,2026-07,cs.LG,advantage-weighted regression,method
+2607.05458,2026-07,cs.LG,offline reinforcement learning,method
+2607.05458,2026-07,cs.LG,finite-horizon,task
+2607.05458,2026-07,cs.LG,task-rubric rewards,metric
+2607.05458,2026-07,cs.LG,harness maturity score,metric
+2607.04523,2026-07,cs.CL,principled-vs-statistical distinction,other
+2607.04523,2026-07,cs.CL,language models,model
+2607.04523,2026-07,cs.CL,statistical prevalence,metric
+2607.05456,2026-07,cs.AI,retrieval-augmented generation,method
+2607.05456,2026-07,cs.AI,section-aware relevance scoring,method
+2607.05456,2026-07,cs.AI,snowball citation expansion,method
+2607.05456,2026-07,cs.AI,autonomous coding agent,tool
+2607.05456,2026-07,cs.AI,quality scorer,metric
+2607.05456,2026-07,cs.AI,hallucination penalties,risk
+2607.05456,2026-07,cs.AI,context-rich reviser,method
+2607.0451,2026-07,cs.CL,latent persona direction,model
+2607.0451,2026-07,cs.CL,emergent misalignment,task
+2607.0451,2026-07,cs.CL,low-rank peft,method
+2607.0451,2026-07,cs.CL,fine-tuning,method
+2607.0451,2026-07,cs.CL,cosine similarity,metric
+2607.04505,2026-07,cs.AI,pure reasoning,other
+2607.04505,2026-07,cs.AI,pattern matching,task
+2607.04505,2026-07,cs.AI,natural world,application
+2607.04505,2026-07,cs.AI,fourier transform,tool
+2607.04505,2026-07,cs.AI,logical complexity,theory
+2607.04505,2026-07,cs.AI,physical laws,application
+2607.04505,2026-07,cs.AI,biological systems,application
+2607.04505,2026-07,cs.AI,innovative solutions,application
+2607.04486,2026-07,cs.LG,hybrid model,model
+2607.04486,2026-07,cs.LG,yolov5,model
+2607.04486,2026-07,cs.LG,mobilenetv2,model
+2607.04486,2026-07,cs.LG,logistic regression,model
+2607.04486,2026-07,cs.LG,bccd dataset,dataset
+2607.0447,2026-07,cs.LG,potential-based reward shaping (pbrs,theory
+2607.0447,2026-07,cs.LG,phase-based freeze schedule,method
+2607.0447,2026-07,cs.LG,exponential moving average (ema,method
+2607.0447,2026-07,cs.LG,cooperative multi-agent reinforcement learning (marl,task
+2607.0447,2026-07,cs.LG,reward signal stationarity,theory
+2607.0447,2026-07,cs.LG,regime-dependent failure,risk
+2607.04469,2026-07,cs.CL,conditional total correlation,theory
+2607.04469,2026-07,cs.CL,marker-gated coordination pass,method
+2607.04469,2026-07,cs.CL,joint token commitment,method
+2607.04469,2026-07,cs.CL,lora adapters,model
+2607.04443,2026-07,cs.CV,multi-gpu,tool
+2607.04443,2026-07,cs.CV,low-latency path,model
+2607.04443,2026-07,cs.CV,context-parallel,method
+2607.04443,2026-07,cs.CV,latent generation,task
+2607.04443,2026-07,cs.CV,sharding,method
+2607.04439,2026-07,cs.AI,research ideation,task
+2607.04439,2026-07,cs.AI,literature search,tool
+2607.04439,2026-07,cs.AI,novelty claim,metric
+2607.04439,2026-07,cs.AI,pattern recognition,theory
+2607.04439,2026-07,cs.AI,failure mode,risk
+2607.04436,2026-07,cs.SE,retrieval-augmented generation,method
+2607.04436,2026-07,cs.SE,pragmatic ambiguity,task
+2607.04436,2026-07,cs.SE,domain knowledge base,dataset
+2607.04436,2026-07,cs.SE,requirement disambiguation,task
+2607.04436,2026-07,cs.SE,alignment,theory
+2607.04433,2026-07,cs.IR,autonomy framework,theory
+2607.04433,2026-07,cs.IR,agent-assisted recommendation,application
+2607.04433,2026-07,cs.IR,agent-as-recommender,application
+2607.04433,2026-07,cs.IR,agent-as-user-simulator,application
+2607.04433,2026-07,cs.IR,evaluation methodologies,other
+2607.04433,2026-07,cs.IR,lifelong user modeling,task
+2607.04433,2026-07,cs.IR,multimodal alignment,task
+2607.0443,2026-07,cs.CL,uncertainty quantification,method
+2607.0443,2026-07,cs.CL,confidence interval,method
+2607.0443,2026-07,cs.CL,risk-controlled selective answering,method
+2607.0443,2026-07,cs.CL,alignment criterion,metric
+2607.0443,2026-07,cs.CL,error rate,metric
+2607.04429,2026-07,cs.CL,confidence intervals,metric
+2607.04429,2026-07,cs.CL,paired significance tests,metric
+2607.04429,2026-07,cs.CL,power analysis,theory
+2607.04429,2026-07,cs.CL,clustered standard errors,metric
+2607.04429,2026-07,cs.CL,multiple-comparison correction,theory
+2607.04428,2026-07,cs.CL,self-distillation,method
+2607.04428,2026-07,cs.CL,on-policy,method
+2607.04428,2026-07,cs.CL,denoising,task
+2607.04428,2026-07,cs.CL,privileged information,risk
+2607.04428,2026-07,cs.CL,masked sequence,task
+2607.04423,2026-07,cs.CV,unified multimodal model,model
+2607.04423,2026-07,cs.CV,cross-task transfer,theory
+2607.04423,2026-07,cs.CV,fine-tuning,method
+2607.04423,2026-07,cs.CV,distribution shift,risk
+2607.0441,2026-07,cs.CL,hierarchical modeling,method
+2607.0441,2026-07,cs.CL,soft-label prediction,method
+2607.0441,2026-07,cs.CL,empirical annotator distribution,task
+2607.0441,2026-07,cs.CL,gated mlp,model
+2607.0441,2026-07,cs.CL,kl divergence,metric
+2607.0441,2026-07,cs.CL,homoscedastic uncertainty weighting,theory
+2607.04394,2026-07,cs.AI,harness architecture,theory
+2607.04394,2026-07,cs.AI,multi-agent mathematical reasoning,theory
+2607.04394,2026-07,cs.AI,knowledge base manager,model
+2607.04394,2026-07,cs.AI,natural language prover,model
+2607.04394,2026-07,cs.AI,formal language prover,model
+2607.04394,2026-07,cs.AI,open problems,task

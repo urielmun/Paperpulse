@@ -1,0 +1,11 @@
+﻿primary_paradigm,paper_count,avg_confidence,ratio,rank
+Reasoning,75,0.8893,26.41,1
+Theory/Methodology,44,0.8909,15.49,2
+Benchmark/Evaluation,41,0.8951,14.44,3
+Alignment/Safety,40,0.895,14.08,4
+Efficiency/Optimization,34,0.8912,11.97,5
+Agent/Tool Use,23,0.9,8.1,6
+Multimodal,13,0.9077,4.58,7
+Application,5,0.9,1.76,8
+RAG/Retrieval,5,0.9,1.76,9
+Dataset/Benchmark,4,0.9,1.41,10

@@ -1,0 +1,2 @@
+﻿run_at,papers_path,categories_path,output_dir,target_month,paper_count,paper_category_rows,min_month,max_month,top_n_keywords,top_n_per_month,min_df,max_features,n_topics,skip_topic_model
+2026-07-11T13:59:54.028213+00:00,/home/urie111/AM/PaperPulse/data/processed/papers_clean.csv,/home/urie111/AM/PaperPulse/data/processed/paper_categories.csv,/home/urie111/AM/PaperPulse/data/eda,ALL,500,1049,2026-07,2026-07,80,50,2,5000,8,False

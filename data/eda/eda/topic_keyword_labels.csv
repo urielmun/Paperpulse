@@ -1,0 +1,9 @@
+﻿topic_id,topic_label,top_terms
+0,visual / vlms / vision-language / generation,visual | vlms | vision-language | generation | image | design | multimodal | reasoning | semantic | knowledge | hallucination | vision-language vlms
+1,detection / code / classification / image,detection | code | classification | image | accuracy | agentic | clinical | deployment | software | features | generation | reliable
+2,teacher / reasoning / generation / diffusion,teacher | reasoning | generation | diffusion | student | accuracy | distillation | optimization | speech | structure | information | reinforcement
+3,agent / attention / agents / information,agent | attention | agents | information | reasoning | search | sparse | causal | transformers | optimization | features | token
+4,selection / reward / attention / text,selection | reward | attention | text | quality | information | optimization | detection | prompt | spectral | agents | human
+5,agents / memory / agent / human,agents | memory | agent | human | control | code | visual | token | policy | safety | generation | latent
+6,reasoning / evidence / generation / retrieval,reasoning | evidence | generation | retrieval | inference | graph | context | tool | safety | structured | pipeline | error
+7,attention / policy / tokens / multimodal,attention | policy | tokens | multimodal | existing | spatial | alignment | information | prediction | transformer | adaptive | generation

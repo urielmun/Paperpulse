@@ -1,0 +1,285 @@
+﻿canonical_arxiv_id,published_month,primary_category,categories_text,primary_paradigm,secondary_paradigms,confidence,contribution_type,model_name,processed_at
+2607.07708,2026-07,cs.CL,"cs.CL, cs.AI, cs.CE, cs.LG",Reasoning,Multimodal | Benchmark/Evaluation | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:22:22.442981+00:00
+2607.07707,2026-07,cs.CL,"cs.CL, cs.AI, cs.LG",RAG/Retrieval,Reasoning | Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:22:34.091054+00:00
+2607.07706,2026-07,cs.LG,cs.LG,Efficiency/Optimization,Reasoning | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:22:45.945969+00:00
+2607.07702,2026-07,cs.CL,cs.CL,Agent/Tool Use,,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:25:19.302604+00:00
+2607.07696,2026-07,cs.DB,"cs.DB, cs.AI",Efficiency/Optimization,Application | Theory/Methodology,0.8,method,qwen2_5_7b_instruct,2026-07-11T13:25:31.190921+00:00
+2607.0768,2026-07,math.ST,"math.ST, cs.LG, math.PR",Theory/Methodology,Efficiency/Optimization | Multimodal,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:25:39.723108+00:00
+2607.07678,2026-07,cs.LG,cs.LG,Theory/Methodology,Reasoning | Efficiency/Optimization,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:25:48.715117+00:00
+2607.07673,2026-07,cs.CV,"cs.CV, cs.LG",Multimodal,Dataset/Benchmark | Application,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T13:26:01.884949+00:00
+2607.0767,2026-07,cs.CL,"cs.CL, cs.LG",Reasoning,Efficiency/Optimization | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:26:15.185667+00:00
+2607.07669,2026-07,cs.CL,"cs.CL, cs.AI",Alignment/Safety,Theory/Methodology | Application,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T13:26:26.735061+00:00
+2607.07646,2026-07,cs.AI,"cs.AI, cs.CL",Reasoning,Theory/Methodology,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:26:37.978341+00:00
+2607.07626,2026-07,cs.CL,"cs.CL, cs.AI",Reasoning,Efficiency/Optimization | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:26:49.294482+00:00
+2607.07573,2026-07,cs.LG,"cs.LG, cs.CR",Benchmark/Evaluation,Application,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:27:02.535667+00:00
+2607.07557,2026-07,cs.CL,"cs.CL, cs.LG",Efficiency/Optimization,Benchmark/Evaluation | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:27:13.709634+00:00
+2607.07548,2026-07,cs.CL,cs.CL,Agent/Tool Use,Reasoning | Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:27:24.899323+00:00
+2607.07527,2026-07,stat.ML,"stat.ML, cs.LG",Theory/Methodology,Benchmark/Evaluation | Efficiency/Optimization,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:27:33.352999+00:00
+2607.07521,2026-07,cs.HC,"cs.HC, cs.AI",Alignment/Safety,Reasoning | Application,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:27:43.968199+00:00
+2607.07508,2026-07,cs.LG,"cs.LG, cs.AI",Reasoning,Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:27:53.173562+00:00
+2607.07507,2026-07,cs.CV,"cs.CV, cs.AI",Reasoning,Theory/Methodology | Application,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:28:03.831366+00:00
+2607.07494,2026-07,cs.DC,"cs.DC, cs.LG",Efficiency/Optimization,Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:28:14.619587+00:00
+2607.07478,2026-07,cs.LG,"cs.LG, cs.CL, eess.SP",Efficiency/Optimization,Theory/Methodology | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:28:24.719222+00:00
+2607.07469,2026-07,cs.CL,"cs.CL, cs.AI",Benchmark/Evaluation,Dataset/Benchmark,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:28:50.655247+00:00
+2607.07468,2026-07,stat.ML,"stat.ML, cs.LG, math.ST",Theory/Methodology,Efficiency/Optimization | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:29:00.052239+00:00
+2607.07467,2026-07,cs.AI,cs.AI,Agent/Tool Use,Reasoning | Multimodal,0.9,system,qwen2_5_7b_instruct,2026-07-11T13:29:13.709883+00:00
+2607.07408,2026-07,cs.CL,cs.CL,Reasoning,Multimodal | Dataset/Benchmark,0.9,system,qwen2_5_7b_instruct,2026-07-11T13:29:23.855208+00:00
+2607.07401,2026-07,cs.CV,"cs.CV, cs.AI, cs.LG",Reasoning,Application,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:29:33.525360+00:00
+2607.07395,2026-07,cs.CV,"cs.CV, cs.AI, cs.LG",Reasoning,Efficiency/Optimization | Multimodal,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:29:42.494821+00:00
+2607.07388,2026-07,cs.CL,"cs.CL, cs.LG",Efficiency/Optimization,Benchmark/Evaluation | Theory/Methodology,0.9,system,qwen2_5_7b_instruct,2026-07-11T13:29:53.607665+00:00
+2607.07386,2026-07,cs.LG,cs.LG,Efficiency/Optimization,Reasoning,0.9,other,qwen2_5_7b_instruct,2026-07-11T13:30:02.766567+00:00
+2607.07382,2026-07,cs.LG,"cs.LG, astro-ph.HE, astro-ph.IM",Benchmark/Evaluation,Application | Theory/Methodology,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:30:13.917452+00:00
+2607.07379,2026-07,cs.AI,"cs.AI, cs.LG",Agent/Tool Use,Alignment/Safety | Reasoning,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:30:24.942314+00:00
+2607.07375,2026-07,cs.LG,"cs.LG, cs.AI",Reasoning,Theory/Methodology | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:30:34.337583+00:00
+2607.07357,2026-07,cs.RO,"cs.RO, cs.AI",Reasoning,Multimodal | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:30:44.277780+00:00
+2607.07321,2026-07,cs.AI,"cs.AI, cs.CL, cs.MA",Agent/Tool Use,Reasoning | Efficiency/Optimization,0.9,system,qwen2_5_7b_instruct,2026-07-11T13:30:55.179285+00:00
+2607.07316,2026-07,cs.LG,cs.LG,Theory/Methodology,Reasoning | Alignment/Safety,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:31:06.227931+00:00
+2607.07289,2026-07,cond-mat.mtrl-sci,"cond-mat.mtrl-sci, cond-mat.dis-nn, cs.AI, cs.LG, math.OC",Efficiency/Optimization,Benchmark/Evaluation | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:31:15.137540+00:00
+2607.07277,2026-07,cs.CL,"cs.CL, cs.CY",Reasoning,Alignment/Safety | Benchmark/Evaluation,0.9,analysis,qwen2_5_7b_instruct,2026-07-11T13:31:25.671507+00:00
+2607.07267,2026-07,cs.CY,"cs.CY, cs.CL, physics.soc-ph",Theory/Methodology,Multimodal | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:31:37.135679+00:00
+2607.07251,2026-07,cs.CL,cs.CL,Multimodal,,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:31:44.996272+00:00
+2607.07219,2026-07,cs.CV,"cs.CV, cs.AI, cs.LG",Dataset/Benchmark,Theory/Methodology | Application,0.8,survey,qwen2_5_7b_instruct,2026-07-11T13:31:57.350295+00:00
+2607.07189,2026-07,cs.AI,cs.AI,Benchmark/Evaluation,Multimodal | Reasoning,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:32:09.531872+00:00
+2607.07184,2026-07,cs.LG,"cs.LG, cs.AI",Benchmark/Evaluation,Alignment/Safety | Reasoning,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:32:19.622704+00:00
+2607.07179,2026-07,cs.CV,"cs.CV, cs.LG",Multimodal,Application | Efficiency/Optimization,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:32:30.414084+00:00
+2607.07178,2026-07,cs.LG,"cs.LG, cs.AI",Alignment/Safety,Reasoning,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:32:39.596793+00:00
+2607.07128,2026-07,cs.LG,cs.LG,Efficiency/Optimization,Theory/Methodology | Application,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:32:50.034906+00:00
+2607.07117,2026-07,cs.CV,"cs.CV, cs.AI",Reasoning,Multimodal,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:33:00.437671+00:00
+2607.07103,2026-07,cs.LG,"cs.LG, cs.DB",Dataset/Benchmark,,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T13:33:08.700501+00:00
+2607.07097,2026-07,cs.AI,"cs.AI, cs.CR, cs.MA",Alignment/Safety,Reasoning | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:33:19.364883+00:00
+2607.07066,2026-07,cs.LG,"cs.LG, cs.AI, math.NT, math.RT",Reasoning,Theory/Methodology,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:33:30.219270+00:00
+2607.0705,2026-07,cs.CL,"cs.CL, cs.LG",Agent/Tool Use,,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:33:40.485466+00:00
+2607.07047,2026-07,cs.CL,"cs.CL, cs.AI",Theory/Methodology,Efficiency/Optimization | Multimodal,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:33:50.566227+00:00
+2607.07033,2026-07,cs.CV,"cs.CV, cs.AI",Efficiency/Optimization,Multimodal | Application,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:34:00.434873+00:00
+2607.07027,2026-07,cs.LG,"cs.LG, cs.AI, cs.CV",Multimodal,Application | Theory/Methodology,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:34:14.398609+00:00
+2607.07026,2026-07,cs.LG,cs.LG,Efficiency/Optimization,Reasoning | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:34:26.618926+00:00
+2607.07021,2026-07,cs.AI,"cs.AI, cs.HC",Alignment/Safety,Reasoning | Application,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:34:34.637316+00:00
+2607.07003,2026-07,cs.LG,"cs.LG, cs.CL",Alignment/Safety,Theory/Methodology,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:34:42.539362+00:00
+2607.06999,2026-07,cs.LG,"cs.LG, cs.AI",Reasoning,Efficiency/Optimization | Multimodal,0.8,theory,qwen2_5_7b_instruct,2026-07-11T13:34:50.992656+00:00
+2607.06993,2026-07,cs.AI,cs.AI,Reasoning,Multimodal | Efficiency/Optimization,0.8,benchmark,qwen2_5_7b_instruct,2026-07-11T13:35:03.023957+00:00
+2607.06987,2026-07,cs.LG,cs.LG,Reasoning,Efficiency/Optimization | Application,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:35:12.513602+00:00
+2607.06974,2026-07,cs.CL,"cs.CL, cs.LG",Reasoning,Efficiency/Optimization | Multimodal,0.8,theory,qwen2_5_7b_instruct,2026-07-11T13:35:23.135341+00:00
+2607.06963,2026-07,cs.CR,"cs.CR, cs.AI, cs.CL",Benchmark/Evaluation,Application,0.8,survey,qwen2_5_7b_instruct,2026-07-11T13:35:47.545569+00:00
+2607.0694,2026-07,cs.CL,"cs.CL, cs.AI",Benchmark/Evaluation,Theory/Methodology,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:35:57.874078+00:00
+2607.06924,2026-07,cs.LG,"cs.LG, cs.NE",Reasoning,Efficiency/Optimization | Multimodal,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:36:07.769188+00:00
+2607.06919,2026-07,cs.CV,"cs.CV, cs.LG",Reasoning,Application | Multimodal,0.8,method,qwen2_5_7b_instruct,2026-07-11T13:36:18.796400+00:00
+2607.06918,2026-07,cs.CV,"cs.CV, cs.AI, cs.LG",Efficiency/Optimization,Application | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:36:29.487974+00:00
+2607.06882,2026-07,cs.RO,"cs.RO, cs.AI",Reasoning,Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:36:42.296054+00:00
+2607.06879,2026-07,cs.LG,"cs.LG, stat.ML",Theory/Methodology,Efficiency/Optimization | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:36:52.644721+00:00
+2607.06875,2026-07,cs.CV,"cs.CV, cs.LG",Multimodal,Application | Dataset/Benchmark,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T13:37:02.953657+00:00
+2607.06855,2026-07,cs.LG,"cs.LG, cs.CL",Reasoning,Efficiency/Optimization | Multimodal,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:37:13.475980+00:00
+2607.06854,2026-07,cs.LG,"cs.LG, cs.AI, cs.GT",Agent/Tool Use,Efficiency/Optimization | Application,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:37:27.797542+00:00
+2607.06845,2026-07,cs.CL,cs.CL,Alignment/Safety,Dataset/Benchmark | Theory/Methodology,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T13:37:36.830818+00:00
+2607.06839,2026-07,cs.LG,"cs.LG, cs.CV",Multimodal,RAG/Retrieval | Efficiency/Optimization | Benchmark/Evaluation,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T13:37:51.178403+00:00
+2607.06831,2026-07,cs.CL,"cs.CL, cs.AI, cs.CV, cs.LG",Alignment/Safety,Reasoning | Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:37:59.922686+00:00
+2607.06824,2026-07,cs.RO,"cs.RO, cs.LG",Reasoning,Multimodal | Efficiency/Optimization,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:38:11.083037+00:00
+2607.06818,2026-07,cs.CL,"cs.CL, cs.AI, cs.LG",Reasoning,Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:38:20.579944+00:00
+2607.06802,2026-07,eess.SP,"eess.SP, cs.AI",Benchmark/Evaluation,Application | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:38:30.540091+00:00
+2607.06796,2026-07,cs.LG,"cs.LG, cs.AI",Efficiency/Optimization,Benchmark/Evaluation | Application,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:38:41.219551+00:00
+2607.06772,2026-07,cs.LG,cs.LG,Efficiency/Optimization,Benchmark/Evaluation | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:38:53.083809+00:00
+2607.06764,2026-07,cs.AI,cs.AI,Agent/Tool Use,Reasoning | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:39:04.529217+00:00
+2607.06763,2026-07,cs.LG,"cs.LG, cs.CL",Reasoning,Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:39:12.899433+00:00
+2607.06757,2026-07,cs.AI,"cs.AI, cs.MA",Agent/Tool Use,,0.9,application,qwen2_5_7b_instruct,2026-07-11T13:39:21.555164+00:00
+2607.06748,2026-07,cs.SE,"cs.SE, cs.AI",Agent/Tool Use,Application | Efficiency/Optimization,0.9,system,qwen2_5_7b_instruct,2026-07-11T13:39:34.127546+00:00
+2607.06713,2026-07,cs.SE,"cs.SE, cs.AI",Benchmark/Evaluation,Alignment/Safety | Reasoning,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:39:57.418706+00:00
+2607.06546,2026-07,cs.LG,"cs.LG, cs.AI",Theory/Methodology,,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:40:08.837156+00:00
+2607.06544,2026-07,cs.AI,"cs.AI, cs.CL",Theory/Methodology,Application | Dataset/Benchmark,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:40:20.307605+00:00
+2607.0654,2026-07,cs.CL,cs.CL,Reasoning,Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:40:31.647131+00:00
+2607.06653,2026-07,cs.LG,cs.LG,Alignment/Safety,Application | Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:40:41.309935+00:00
+2607.06527,2026-07,cs.CL,"cs.CL, cs.AI",Reasoning,Efficiency/Optimization | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:40:51.737695+00:00
+2607.06523,2026-07,cs.AI,cs.AI,Efficiency/Optimization,Benchmark/Evaluation | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:41:03.232484+00:00
+2607.06522,2026-07,cs.AI,"cs.AI, cs.CV",Alignment/Safety,Efficiency/Optimization | Multimodal,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:41:12.127693+00:00
+2607.06503,2026-07,cs.AI,cs.AI,Alignment/Safety,Efficiency/Optimization | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:41:26.043572+00:00
+2607.06485,2026-07,cs.CV,"cs.CV, cs.AI",Reasoning,,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:41:34.925128+00:00
+2607.06482,2026-07,cs.CL,"cs.CL, cs.AI",Benchmark/Evaluation,Dataset/Benchmark | Application,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:41:43.460980+00:00
+2607.06481,2026-07,cs.CV,"cs.CV, cs.AI",Multimodal,Efficiency/Optimization | Reasoning,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:41:58.399866+00:00
+2607.06649,2026-07,cs.CR,"cs.CR, cs.LG",Alignment/Safety,Multimodal | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:42:07.141016+00:00
+2607.06461,2026-07,eess.AS,"eess.AS, cs.CL, cs.SD",Benchmark/Evaluation,Application | Multimodal,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T13:42:18.127896+00:00
+2607.06452,2026-07,cs.CL,"cs.CL, cs.AI",Reasoning,Application | Benchmark/Evaluation,0.9,system,qwen2_5_7b_instruct,2026-07-11T13:42:26.977253+00:00
+2607.06445,2026-07,cs.CV,"cs.CV, cs.AI",Reasoning,Multimodal,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:42:36.135975+00:00
+2607.06413,2026-07,stat.ME,"stat.ME, cs.AI",Reasoning,Benchmark/Evaluation,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:42:45.212722+00:00
+2607.06402,2026-07,cs.CV,"cs.CV, cs.AI, cs.LG",Multimodal,,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:42:56.985706+00:00
+2607.06364,2026-07,cs.CL,"cs.CL, cs.CR",Theory/Methodology,,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:43:07.216449+00:00
+2607.06641,2026-07,cs.CL,"cs.CL, cs.AI, cs.LG",RAG/Retrieval,Alignment/Safety | Efficiency/Optimization,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:43:17.981471+00:00
+2607.06639,2026-07,cs.LG,"cs.LG, cs.AI",Theory/Methodology,Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:43:27.838331+00:00
+2607.06326,2026-07,cs.AI,cs.AI,Alignment/Safety,Reasoning,0.9,other,qwen2_5_7b_instruct,2026-07-11T13:43:54.831660+00:00
+2607.06309,2026-07,cs.CV,"cs.CV, cs.AI",Reasoning,Multimodal,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:44:05.874102+00:00
+2607.06636,2026-07,cs.SE,"cs.SE, cs.AI, cs.LG",Reasoning,Alignment/Safety | Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:44:15.616772+00:00
+2607.06306,2026-07,cs.SE,"cs.SE, cs.AI, cs.CV",Benchmark/Evaluation,Application | Multimodal,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:44:25.949216+00:00
+2607.0629,2026-07,cs.LG,"cs.LG, math.PR, stat.ML",Theory/Methodology,,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:44:35.572272+00:00
+2607.06269,2026-07,cs.AI,"cs.AI, cs.CL",Theory/Methodology,Alignment/Safety | Reasoning,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:44:51.686021+00:00
+2607.06254,2026-07,cs.CV,"cs.CV, cs.AI",Benchmark/Evaluation,Application | Dataset/Benchmark,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:45:02.739458+00:00
+2607.06631,2026-07,cs.CV,"cs.CV, cs.AI, cs.LG",Efficiency/Optimization,Multimodal | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:45:13.027235+00:00
+2607.06229,2026-07,cs.CL,"cs.CL, cs.AI, cs.DB",Benchmark/Evaluation,Application | Theory/Methodology,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:45:22.807195+00:00
+2607.06224,2026-07,cs.LG,cs.LG,Benchmark/Evaluation,,0.8,dataset,qwen2_5_7b_instruct,2026-07-11T13:45:34.049124+00:00
+2607.06223,2026-07,cs.AI,cs.AI,Reasoning,Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:45:43.501868+00:00
+2607.06196,2026-07,cs.CL,"cs.CL, cs.CY",Benchmark/Evaluation,Multimodal | Alignment/Safety,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T13:45:55.183867+00:00
+2607.06629,2026-07,cs.LG,"cs.LG, q-bio.NC",Benchmark/Evaluation,Application | Dataset/Benchmark,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:46:06.361023+00:00
+2607.06175,2026-07,cs.CL,"cs.CL, cs.AI, cs.LG",Reasoning,Efficiency/Optimization | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:46:18.454159+00:00
+2607.06626,2026-07,cs.LG,"cs.LG, q-bio.NC",Alignment/Safety,Reasoning,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:46:28.398326+00:00
+2607.06163,2026-07,cs.LG,"cs.LG, cs.AI",Theory/Methodology,Reasoning | Alignment/Safety,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:46:37.171901+00:00
+2607.0616,2026-07,cs.CL,"cs.CL, cs.AI",Benchmark/Evaluation,Theory/Methodology | Dataset/Benchmark,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T13:46:46.776415+00:00
+2607.06145,2026-07,cs.CL,cs.CL,Theory/Methodology,Reasoning | Efficiency/Optimization,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:47:07.119970+00:00
+2607.0614,2026-07,cs.CL,cs.CL,Agent/Tool Use,,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:47:17.614672+00:00
+2607.06623,2026-07,cs.LG,"cs.LG, cs.AI, eess.SY",Reasoning,Efficiency/Optimization | Multimodal,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:47:30.331093+00:00
+2607.06127,2026-07,cs.CL,cs.CL,Theory/Methodology,Application | Dataset/Benchmark,0.8,dataset,qwen2_5_7b_instruct,2026-07-11T13:47:43.531910+00:00
+2607.06105,2026-07,cs.CV,"cs.CV, cs.AI",Application,Multimodal | Efficiency/Optimization,0.9,application,qwen2_5_7b_instruct,2026-07-11T13:47:55.553336+00:00
+2607.06097,2026-07,cs.CV,"cs.CV, cs.AI",Reasoning,Multimodal | Efficiency/Optimization,0.8,method,qwen2_5_7b_instruct,2026-07-11T13:48:06.646752+00:00
+2607.06055,2026-07,cs.HC,"cs.HC, cs.CL",Theory/Methodology,,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:48:16.890933+00:00
+2607.06054,2026-07,cs.SD,"cs.SD, cs.CL",Application,,0.9,application,qwen2_5_7b_instruct,2026-07-11T13:48:25.653649+00:00
+2607.0662,2026-07,cs.CV,"cs.CV, cs.AI",Reasoning,Multimodal,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:48:34.177680+00:00
+2607.06037,2026-07,cs.CR,"cs.CR, cs.LG",Application,,0.9,application,qwen2_5_7b_instruct,2026-07-11T13:48:45.528007+00:00
+2607.06009,2026-07,cs.CR,"cs.CR, cs.LG, cs.SE",Theory/Methodology,Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:48:57.414173+00:00
+2607.06008,2026-07,cs.AI,"cs.AI, cs.CL",Benchmark/Evaluation,Agent/Tool Use | Multimodal,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:49:08.220136+00:00
+2607.06001,2026-07,cs.AI,"cs.AI, cs.MA",Benchmark/Evaluation,Reasoning | Efficiency/Optimization,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:49:21.036191+00:00
+2607.05992,2026-07,cs.CL,"cs.CL, cs.AI",Benchmark/Evaluation,Theory/Methodology | Application,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T13:49:30.855851+00:00
+2607.05985,2026-07,cs.AI,"cs.AI, cs.AR, cs.CE, eess.SY",Alignment/Safety,Reasoning | Efficiency/Optimization,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:49:42.944563+00:00
+2607.06614,2026-07,cs.LG,"cs.LG, cs.AI",Reasoning,Efficiency/Optimization | Multimodal,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:49:52.981263+00:00
+2607.05978,2026-07,cs.CV,"cs.CV, cs.AI",Multimodal,Reasoning | Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:50:03.201445+00:00
+2607.05964,2026-07,cs.CL,"cs.CL, stat.AP",Theory/Methodology,Multimodal | Benchmark/Evaluation,0.8,analysis,qwen2_5_7b_instruct,2026-07-11T13:50:28.369458+00:00
+2607.05956,2026-07,cs.AI,"cs.AI, cs.CL",Alignment/Safety,Reasoning | Multimodal,0.8,benchmark,qwen2_5_7b_instruct,2026-07-11T13:50:39.510630+00:00
+2607.05955,2026-07,cs.CV,"cs.CV, cs.AI",Reasoning,Application | Efficiency/Optimization,0.8,method,qwen2_5_7b_instruct,2026-07-11T13:50:49.848642+00:00
+2607.05937,2026-07,cs.CL,"cs.CL, cs.LG",Alignment/Safety,Reasoning | Efficiency/Optimization,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:50:59.963426+00:00
+2607.05936,2026-07,cs.SE,"cs.SE, cs.LG",Reasoning,RAG/Retrieval | Alignment/Safety,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:51:10.028320+00:00
+2607.05933,2026-07,cs.PF,"cs.PF, cs.LG",Efficiency/Optimization,,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:51:19.760036+00:00
+2607.05908,2026-07,cs.LG,cs.LG,Efficiency/Optimization,Application | Benchmark/Evaluation,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:51:29.672803+00:00
+2607.05904,2026-07,cs.LG,cs.LG,Reasoning,Efficiency/Optimization | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:51:38.908878+00:00
+2607.05902,2026-07,cs.SD,"cs.SD, cs.AI",Theory/Methodology,Multimodal | Reasoning,0.8,theory,qwen2_5_7b_instruct,2026-07-11T13:51:51.236730+00:00
+2607.05901,2026-07,cs.AI,cs.AI,Reasoning,Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:52:00.618084+00:00
+2607.06611,2026-07,cs.CL,"cs.CL, cs.AI, cs.LG, cs.SD",Reasoning,Multimodal,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:52:09.407479+00:00
+2607.05891,2026-07,cs.CV,"cs.CV, cs.AI, cs.LG",Efficiency/Optimization,Benchmark/Evaluation | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:52:18.102318+00:00
+2607.05888,2026-07,cs.CR,"cs.CR, cs.AI",Agent/Tool Use,,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:52:26.181108+00:00
+2607.0588,2026-07,cs.CV,"cs.CV, cs.AI",Benchmark/Evaluation,Multimodal | Efficiency/Optimization,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T13:52:37.896939+00:00
+2607.05872,2026-07,cs.LG,"cs.LG, math.OC, stat.ML",Efficiency/Optimization,Theory/Methodology,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:52:47.725433+00:00
+2607.06609,2026-07,cs.LG,"cs.LG, cs.AI",Reasoning,Efficiency/Optimization | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:53:01.160183+00:00
+2607.05863,2026-07,cs.LG,"cs.LG, cs.GT",Reasoning,Theory/Methodology,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:53:09.998546+00:00
+2607.05861,2026-07,cs.CL,"cs.CL, cs.LG",Alignment/Safety,Reasoning | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:53:18.335399+00:00
+2607.05842,2026-07,cs.SE,"cs.SE, cs.AI, cs.CR",Alignment/Safety,Benchmark/Evaluation | Application,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:53:30.051744+00:00
+2607.06605,2026-07,cs.LG,"cs.LG, stat.ML",Benchmark/Evaluation,Alignment/Safety | Efficiency/Optimization,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:53:39.263982+00:00
+2607.05798,2026-07,cs.CV,"cs.CV, cs.AI",Reasoning,Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:53:49.563882+00:00
+2607.0579,2026-07,cs.AI,cs.AI,Alignment/Safety,Agent/Tool Use | Reasoning,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:53:58.322286+00:00
+2607.05775,2026-07,cs.AI,cs.AI,Alignment/Safety,Agent/Tool Use | Theory/Methodology,0.9,analysis,qwen2_5_7b_instruct,2026-07-11T13:54:11.051765+00:00
+2607.05773,2026-07,cs.AI,cs.AI,Agent/Tool Use,Efficiency/Optimization | Benchmark/Evaluation,0.9,system,qwen2_5_7b_instruct,2026-07-11T13:54:20.839131+00:00
+2607.05761,2026-07,cs.AI,cs.AI,Theory/Methodology,Application | Dataset/Benchmark,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:54:42.885354+00:00
+2607.05752,2026-07,cs.CL,"cs.CL, cs.AI",Reasoning,Efficiency/Optimization | Alignment/Safety,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:54:51.624786+00:00
+2607.05722,2026-07,cs.CL,cs.CL,Reasoning,Application | Dataset/Benchmark,0.9,other,qwen2_5_7b_instruct,2026-07-11T13:55:03.409432+00:00
+2607.05721,2026-07,cs.CL,cs.CL,Theory/Methodology,,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:55:12.348427+00:00
+2607.06601,2026-07,cs.LG,"cs.LG, cs.AI",Efficiency/Optimization,Reasoning | Multimodal,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:55:24.527476+00:00
+2607.05704,2026-07,cs.LG,"cs.LG, cs.CV",Reasoning,Efficiency/Optimization | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:55:34.239634+00:00
+2607.05694,2026-07,stat.ML,"stat.ML, cs.LG",Theory/Methodology,,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:55:45.352542+00:00
+2607.05691,2026-07,cs.CL,"cs.CL, cs.LG, q-bio.BM",Theory/Methodology,,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:55:54.071642+00:00
+2607.05689,2026-07,cs.CL,"cs.CL, cs.SI",Benchmark/Evaluation,Theory/Methodology | Application,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:56:05.637946+00:00
+2607.05679,2026-07,cs.CL,"cs.CL, cs.AI",Benchmark/Evaluation,Theory/Methodology | Application,0.9,other,qwen2_5_7b_instruct,2026-07-11T13:56:24.698029+00:00
+2607.05669,2026-07,cs.RO,"cs.RO, cs.LG",Reasoning,Efficiency/Optimization | Application,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:56:34.307601+00:00
+2607.05666,2026-07,cs.SE,"cs.SE, cs.AI",Theory/Methodology,,0.9,analysis,qwen2_5_7b_instruct,2026-07-11T13:56:42.820055+00:00
+2607.05644,2026-07,cs.CL,"cs.CL, cs.AI",Theory/Methodology,,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:56:50.333048+00:00
+2607.05638,2026-07,cs.SE,"cs.SE, cs.AI",Benchmark/Evaluation,,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:57:02.027641+00:00
+2607.05626,2026-07,cs.CL,cs.CL,Benchmark/Evaluation,,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T13:57:15.262841+00:00
+2607.05615,2026-07,cs.LG,cs.LG,Efficiency/Optimization,Reasoning | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:57:27.195053+00:00
+2607.05612,2026-07,cs.CL,"cs.CL, eess.AS",Benchmark/Evaluation,,0.9,analysis,qwen2_5_7b_instruct,2026-07-11T13:57:45.628233+00:00
+2607.06595,2026-07,cs.CR,"cs.CR, cs.AI",Alignment/Safety,Agent/Tool Use | Reasoning,0.9,system,qwen2_5_7b_instruct,2026-07-11T13:57:53.996458+00:00
+2607.05583,2026-07,cs.CL,"cs.CL, cs.AI",Efficiency/Optimization,Reasoning,0.9,other,qwen2_5_7b_instruct,2026-07-11T13:58:05.585774+00:00
+2607.05573,2026-07,cs.AI,"cs.AI, cs.CE",Reasoning,Multimodal | Theory/Methodology,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:58:16.530352+00:00
+2607.05571,2026-07,cs.AI,"cs.AI, cs.HC",Benchmark/Evaluation,Application | Theory/Methodology,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:58:26.699586+00:00
+2607.05568,2026-07,cs.CV,"cs.CV, cs.AI",Reasoning,Multimodal | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:58:37.565625+00:00
+2607.05554,2026-07,cs.CL,"cs.CL, cs.AI",Benchmark/Evaluation,Reasoning | Alignment/Safety,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:58:48.262224+00:00
+2607.05552,2026-07,cs.CL,"cs.CL, cs.AI, cs.CY",Reasoning,Theory/Methodology | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T13:58:58.043581+00:00
+2607.05541,2026-07,cs.LG,"cs.LG, cs.AI",Reasoning,Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:59:07.869735+00:00
+2607.05518,2026-07,cs.CR,"cs.CR, cs.AI",Alignment/Safety,Benchmark/Evaluation,0.9,system,qwen2_5_7b_instruct,2026-07-11T13:59:17.824305+00:00
+2607.05396,2026-07,cs.CV,"cs.CV, cs.AI, cs.LG, cs.RO",Agent/Tool Use,Reasoning | Application,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:59:28.370875+00:00
+2607.05394,2026-07,cs.LG,"cs.LG, cs.AI, cs.CL",Reasoning,Efficiency/Optimization | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T13:59:39.322445+00:00
+2607.05365,2026-07,cs.CL,"cs.CL, cs.AI, eess.AS",Benchmark/Evaluation,Theory/Methodology | Application,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T13:59:51.692703+00:00
+2607.05355,2026-07,cs.CL,"cs.CL, cs.ET, cs.LG",Reasoning,Efficiency/Optimization | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:00:03.195446+00:00
+2607.05353,2026-07,cs.CR,"cs.CR, cs.AI, cs.CL, cs.LG",Alignment/Safety,Theory/Methodology | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:00:14.542116+00:00
+2607.05317,2026-07,cs.CV,"cs.CV, cs.AI, cs.LG",Application,Dataset/Benchmark | Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:00:23.592224+00:00
+2607.05316,2026-07,cs.CL,"cs.CL, cs.LG",Theory/Methodology,Reasoning | Efficiency/Optimization,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:00:34.495597+00:00
+2607.05292,2026-07,cs.LG,"cs.LG, cs.AI, cs.CV",Efficiency/Optimization,Application | Theory/Methodology,0.8,method,qwen2_5_7b_instruct,2026-07-11T14:01:04.579604+00:00
+2607.05282,2026-07,eess.SP,"eess.SP, cs.AI, cs.LG, stat.ME",Reasoning,Efficiency/Optimization | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:01:18.227311+00:00
+2607.05268,2026-07,cs.CV,"cs.CV, cs.LG",Theory/Methodology,Reasoning | Multimodal,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:01:27.539672+00:00
+2607.05259,2026-07,cs.CL,"cs.CL, cs.LG",Dataset/Benchmark,,1.0,dataset,qwen2_5_7b_instruct,2026-07-11T14:01:48.761273+00:00
+2607.05217,2026-07,cs.CY,"cs.CY, cs.CL, cs.IR",Benchmark/Evaluation,Alignment/Safety | Reasoning,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T14:01:59.282564+00:00
+2607.05199,2026-07,cs.AI,cs.AI,Reasoning,Efficiency/Optimization | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:02:14.227154+00:00
+2607.05196,2026-07,cs.CL,"cs.CL, cs.AI, cs.LG, cs.SD, eess.AS",Multimodal,Theory/Methodology | Benchmark/Evaluation,0.9,other,qwen2_5_7b_instruct,2026-07-11T14:02:25.549205+00:00
+2607.05188,2026-07,cs.LG,"cs.LG, cs.SE",Reasoning,Efficiency/Optimization | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:02:37.636263+00:00
+2607.05184,2026-07,cs.AI,"cs.AI, cs.LG",Alignment/Safety,Efficiency/Optimization | Benchmark/Evaluation,0.9,analysis,qwen2_5_7b_instruct,2026-07-11T14:02:46.919894+00:00
+2607.05174,2026-07,cs.AI,cs.AI,Benchmark/Evaluation,Reasoning | Efficiency/Optimization,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T14:02:56.433418+00:00
+2607.05479,2026-07,cs.CR,"cs.CR, cs.AI",Alignment/Safety,Theory/Methodology | Application,0.8,theory,qwen2_5_7b_instruct,2026-07-11T14:03:04.751705+00:00
+2607.05153,2026-07,stat.ML,"stat.ML, cs.LG, q-bio.BM",Theory/Methodology,Reasoning | Efficiency/Optimization,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:03:13.991037+00:00
+2607.05147,2026-07,cs.AI,"cs.AI, cs.CL",Efficiency/Optimization,Reasoning | Benchmark/Evaluation,0.9,system,qwen2_5_7b_instruct,2026-07-11T14:03:24.222646+00:00
+2607.05132,2026-07,cs.CY,"cs.CY, cs.CL",Alignment/Safety,Reasoning | Benchmark/Evaluation,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T14:03:32.901619+00:00
+2607.05123,2026-07,cs.AI,"cs.AI, cs.CV",Reasoning,Multimodal | Efficiency/Optimization,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:03:42.313362+00:00
+2607.05114,2026-07,cs.LG,"cs.LG, cs.AI, cs.CL",Efficiency/Optimization,Multimodal | Application,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:03:52.057877+00:00
+2607.05104,2026-07,cs.LG,"cs.LG, cs.AI",Theory/Methodology,Benchmark/Evaluation | Efficiency/Optimization,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:04:02.352399+00:00
+2607.05069,2026-07,cs.CL,cs.CL,Alignment/Safety,Reasoning | Benchmark/Evaluation,0.9,system,qwen2_5_7b_instruct,2026-07-11T14:04:11.406445+00:00
+2607.05055,2026-07,cs.AI,cs.AI,Agent/Tool Use,,0.9,system,qwen2_5_7b_instruct,2026-07-11T14:04:21.542753+00:00
+2607.05032,2026-07,cs.CL,cs.CL,Reasoning,Benchmark/Evaluation,0.9,system,qwen2_5_7b_instruct,2026-07-11T14:04:31.801712+00:00
+2607.05031,2026-07,cs.SE,"cs.SE, cs.AI",Theory/Methodology,Benchmark/Evaluation | Application,0.9,survey,qwen2_5_7b_instruct,2026-07-11T14:04:40.426662+00:00
+2607.05029,2026-07,cs.CR,"cs.CR, cs.AI",Alignment/Safety,Reasoning,1.0,other,qwen2_5_7b_instruct,2026-07-11T14:04:48.955131+00:00
+2607.05009,2026-07,cs.LG,"cs.LG, cs.AI",Efficiency/Optimization,Application,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:04:57.924481+00:00
+2607.05001,2026-07,cs.CR,"cs.CR, cs.AI, cs.LG, cs.MA",Agent/Tool Use,Reasoning | Efficiency/Optimization,0.9,system,qwen2_5_7b_instruct,2026-07-11T14:05:08.857472+00:00
+2607.04983,2026-07,cs.NE,"cs.NE, cs.AI, cs.ET, cs.GL, cs.LG",Theory/Methodology,Application | Dataset/Benchmark,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:05:18.608073+00:00
+2607.04969,2026-07,cs.LG,"cs.LG, cs.CL",Efficiency/Optimization,Theory/Methodology | Benchmark/Evaluation,0.8,theory,qwen2_5_7b_instruct,2026-07-11T14:05:26.304681+00:00
+2607.04962,2026-07,cs.CL,cs.CL,Theory/Methodology,Dataset/Benchmark | Application,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T14:05:49.535705+00:00
+2607.05477,2026-07,cs.MA,"cs.MA, cs.AI, cs.CL",Agent/Tool Use,,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T14:06:00.277400+00:00
+2607.04941,2026-07,cs.CL,"cs.CL, cs.SD, eess.AS",Dataset/Benchmark,,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T14:06:07.332426+00:00
+2607.04926,2026-07,cs.LG,"cs.LG, cs.AI",Reasoning,Theory/Methodology | Benchmark/Evaluation,0.8,theory,qwen2_5_7b_instruct,2026-07-11T14:06:17.560164+00:00
+2607.04907,2026-07,cs.AI,cs.AI,RAG/Retrieval,Reasoning | Alignment/Safety,0.9,system,qwen2_5_7b_instruct,2026-07-11T14:06:31.278991+00:00
+2607.04906,2026-07,cs.LG,cs.LG,Reasoning,Application | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:06:44.198730+00:00
+2607.0489,2026-07,cs.CL,cs.CL,Benchmark/Evaluation,Application | Theory/Methodology,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T14:06:53.130945+00:00
+2607.05475,2026-07,cs.AR,"cs.AR, cs.AI",Efficiency/Optimization,Benchmark/Evaluation | Application,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T14:07:04.122355+00:00
+2607.04862,2026-07,cs.LG,cs.LG,Reasoning,Efficiency/Optimization | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:07:17.790917+00:00
+2607.04854,2026-07,cs.AI,cs.AI,Alignment/Safety,Reasoning,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:07:26.887617+00:00
+2607.04846,2026-07,cs.LG,"cs.LG, cs.AI",Theory/Methodology,Alignment/Safety | Reasoning,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:07:36.938979+00:00
+2607.04832,2026-07,cs.CL,cs.CL,Theory/Methodology,,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:07:45.579530+00:00
+2607.04819,2026-07,cs.LG,"cs.LG, cs.CR",Efficiency/Optimization,Theory/Methodology | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:07:56.095897+00:00
+2607.04774,2026-07,cs.LG,cs.LG,Theory/Methodology,Reasoning | Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:08:07.990696+00:00
+2607.04751,2026-07,cs.LG,"cs.LG, cs.AI",Theory/Methodology,,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:08:17.401218+00:00
+2607.0475,2026-07,cs.AI,"cs.AI, cs.CV",Reasoning,Multimodal | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:08:26.152191+00:00
+2607.04733,2026-07,cs.CL,"cs.CL, cs.LG",Theory/Methodology,Efficiency/Optimization | Multimodal,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:08:37.531377+00:00
+2607.05467,2026-07,cs.CV,"cs.CV, cs.LG, eess.IV",Reasoning,Multimodal,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T14:08:48.994727+00:00
+2607.04728,2026-07,cs.CL,"cs.CL, cs.AI, cs.LG",Alignment/Safety,Theory/Methodology | Efficiency/Optimization,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:08:57.872105+00:00
+2607.04727,2026-07,cs.SE,"cs.SE, cs.AI, cs.CV",Multimodal,Application | Benchmark/Evaluation,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T14:09:07.823431+00:00
+2607.04714,2026-07,cs.RO,"cs.RO, cs.AI",Reasoning,Theory/Methodology,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:09:18.025664+00:00
+2607.04713,2026-07,cs.LG,"cs.LG, cs.AI",Alignment/Safety,Reasoning,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:09:27.604920+00:00
+2607.04708,2026-07,econ.TH,"econ.TH, cs.AI, cs.CY, cs.GT, cs.HC",Agent/Tool Use,Reasoning | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:09:38.766297+00:00
+2607.0469,2026-07,cs.CL,"cs.CL, cs.LG",Theory/Methodology,Multimodal | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:09:49.777770+00:00
+2607.04688,2026-07,cs.LG,"cs.LG, cs.AI, cs.CE, cs.CL",Benchmark/Evaluation,Reasoning | Efficiency/Optimization,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T14:10:00.186283+00:00
+2607.04686,2026-07,cs.CL,"cs.CL, cs.AI, cs.SE",Benchmark/Evaluation,Application | Theory/Methodology,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T14:10:08.313908+00:00
+2607.04683,2026-07,cs.CV,"cs.CV, cs.CL",Reasoning,Theory/Methodology | Application,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:10:19.595674+00:00
+2607.05465,2026-07,cs.CV,"cs.CV, cs.AI",Agent/Tool Use,Dataset/Benchmark,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T14:10:29.294243+00:00
+2607.04655,2026-07,cs.CL,cs.CL,Benchmark/Evaluation,Theory/Methodology,1.0,benchmark,qwen2_5_7b_instruct,2026-07-11T14:10:39.828459+00:00
+2607.04645,2026-07,cs.CL,"cs.CL, cs.AI, cs.CR, cs.LG",Alignment/Safety,Reasoning | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:10:50.770169+00:00
+2607.0464,2026-07,cs.CL,cs.CL,Alignment/Safety,Reasoning | Efficiency/Optimization | Theory/Methodology,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:11:01.046929+00:00
+2607.04625,2026-07,cs.CV,"cs.CV, cs.AI",RAG/Retrieval,Efficiency/Optimization | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:11:12.986376+00:00
+2607.04619,2026-07,cs.SD,"cs.SD, cs.CL",Efficiency/Optimization,Benchmark/Evaluation,0.9,other,qwen2_5_7b_instruct,2026-07-11T14:11:23.174253+00:00
+2607.04595,2026-07,cs.LG,"cs.LG, q-bio.QM, stat.ML",Benchmark/Evaluation,Application | Efficiency/Optimization,0.8,method,qwen2_5_7b_instruct,2026-07-11T14:11:32.998534+00:00
+2607.0459,2026-07,cs.AI,cs.AI,Alignment/Safety,Theory/Methodology | Reasoning,0.8,theory,qwen2_5_7b_instruct,2026-07-11T14:12:01.127953+00:00
+2607.04579,2026-07,cs.SE,"cs.SE, cs.AI",Benchmark/Evaluation,Application | Theory/Methodology,0.9,system,qwen2_5_7b_instruct,2026-07-11T14:12:13.017694+00:00
+2607.04572,2026-07,cs.AI,"cs.AI, cs.LG",Reasoning,Theory/Methodology,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T14:12:21.546802+00:00
+2607.04566,2026-07,cs.CL,cs.CL,Benchmark/Evaluation,Theory/Methodology | Application,0.9,dataset,qwen2_5_7b_instruct,2026-07-11T14:12:30.714065+00:00
+2607.04563,2026-07,cs.CL,cs.CL,Theory/Methodology,,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:12:38.338862+00:00
+2607.04562,2026-07,cs.AI,"cs.AI, cs.NE",Alignment/Safety,Reasoning | Benchmark/Evaluation,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:12:48.163062+00:00
+2607.04558,2026-07,cs.CL,"cs.CL, cs.AI, cs.LG",Reasoning,Application,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:13:02.298411+00:00
+2607.04537,2026-07,cs.SE,"cs.SE, cs.AI",Alignment/Safety,Reasoning | Benchmark/Evaluation,0.9,analysis,qwen2_5_7b_instruct,2026-07-11T14:13:12.340023+00:00
+2607.04535,2026-07,cs.LG,"cs.LG, stat.ML",Efficiency/Optimization,Theory/Methodology,0.9,other,qwen2_5_7b_instruct,2026-07-11T14:13:22.612321+00:00
+2607.04534,2026-07,cs.CL,cs.CL,Reasoning,Efficiency/Optimization | Benchmark/Evaluation,0.9,benchmark,qwen2_5_7b_instruct,2026-07-11T14:13:34.111939+00:00
+2607.04531,2026-07,cs.LG,"cs.LG, cs.AI, eess.SP, math.NA",Efficiency/Optimization,Theory/Methodology | Application,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:13:43.902406+00:00
+2607.04525,2026-07,cs.CL,"cs.CL, cs.AI",Theory/Methodology,,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:13:52.068685+00:00
+2607.05458,2026-07,cs.LG,"cs.LG, cs.AI",Agent/Tool Use,Alignment/Safety | Theory/Methodology,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:14:02.957361+00:00
+2607.04523,2026-07,cs.CL,"cs.CL, cs.AI",Theory/Methodology,,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:14:11.246349+00:00
+2607.05456,2026-07,cs.AI,"cs.AI, cs.CL, q-bio.QM",Agent/Tool Use,,0.9,system,qwen2_5_7b_instruct,2026-07-11T14:14:22.508367+00:00
+2607.0451,2026-07,cs.CL,"cs.CL, cs.AI, cs.CY, cs.LG",Alignment/Safety,Reasoning | Benchmark/Evaluation,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:14:32.813197+00:00
+2607.04505,2026-07,cs.AI,cs.AI,Reasoning,Alignment/Safety | Multimodal,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:14:44.084251+00:00
+2607.04486,2026-07,cs.LG,"cs.LG, cs.CV",Application,Dataset/Benchmark | Efficiency/Optimization,0.9,application,qwen2_5_7b_instruct,2026-07-11T14:14:55.347426+00:00
+2607.0447,2026-07,cs.LG,"cs.LG, cs.AI, math.OC",Alignment/Safety,Agent/Tool Use | Theory/Methodology,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:15:06.409719+00:00
+2607.04469,2026-07,cs.CL,cs.CL,Reasoning,Efficiency/Optimization | Theory/Methodology,0.8,method,qwen2_5_7b_instruct,2026-07-11T14:15:16.229353+00:00
+2607.04443,2026-07,cs.CV,"cs.CV, cs.AI, cs.GR, cs.LG",Efficiency/Optimization,Multimodal,0.9,system,qwen2_5_7b_instruct,2026-07-11T14:15:25.176598+00:00
+2607.04439,2026-07,cs.AI,cs.AI,Theory/Methodology,Application | Dataset/Benchmark,0.8,system,qwen2_5_7b_instruct,2026-07-11T14:15:34.924137+00:00
+2607.04436,2026-07,cs.SE,"cs.SE, cs.AI",RAG/Retrieval,Reasoning | Alignment/Safety,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:15:46.551714+00:00
+2607.04433,2026-07,cs.IR,"cs.IR, cs.CL",Agent/Tool Use,Alignment/Safety | Efficiency/Optimization | Multimodal,0.9,survey,qwen2_5_7b_instruct,2026-07-11T14:15:57.146553+00:00
+2607.0443,2026-07,cs.CL,cs.CL,Alignment/Safety,Reasoning | Efficiency/Optimization,0.9,system,qwen2_5_7b_instruct,2026-07-11T14:16:07.197104+00:00
+2607.04429,2026-07,cs.CL,"cs.CL, cs.AI",Benchmark/Evaluation,Theory/Methodology,0.9,other,qwen2_5_7b_instruct,2026-07-11T14:16:16.933046+00:00
+2607.04428,2026-07,cs.CL,"cs.CL, cs.AI",Reasoning,Efficiency/Optimization | Application,0.9,method,qwen2_5_7b_instruct,2026-07-11T14:16:26.595345+00:00
+2607.04423,2026-07,cs.CV,"cs.CV, cs.AI",Multimodal,Reasoning | Efficiency/Optimization,0.9,theory,qwen2_5_7b_instruct,2026-07-11T14:16:37.282353+00:00
+2607.0441,2026-07,cs.CL,cs.CL,Multimodal,Benchmark/Evaluation | Theory/Methodology,1.0,method,qwen2_5_7b_instruct,2026-07-11T14:16:50.791766+00:00
+2607.04394,2026-07,cs.AI,"cs.AI, cs.SC",Agent/Tool Use,Multimodal | Benchmark/Evaluation,0.9,system,qwen2_5_7b_instruct,2026-07-11T14:17:02.702410+00:00

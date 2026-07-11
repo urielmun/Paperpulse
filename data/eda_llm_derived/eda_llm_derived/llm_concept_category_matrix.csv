@@ -1,0 +1,1517 @@
+﻿concept_name,concept_type,primary_category,paper_count
+large language model,model,cs.CL,4
+large language models,model,cs.CL,4
+fine-tuning,method,cs.CL,3
+large language models,model,cs.AI,3
+multimodal,task,cs.CV,3
+vision-language model,model,cs.CV,3
+transformer,model,cs.CL,3
+reinforcement learning,method,cs.LG,3
+transformer,model,cs.LG,3
+retrieval-augmented generation,method,cs.AI,3
+supervised fine-tuning,method,cs.CL,2
+perplexity,metric,cs.CL,2
+evaluation,other,cs.CL,2
+transformer-based model,model,cs.LG,2
+domain adaptation,method,cs.CL,2
+large language models,model,cs.SE,2
+language model,model,cs.CL,2
+large language models,model,cs.LG,2
+language models,model,cs.CL,2
+policy optimization,method,cs.LG,2
+factual consistency,metric,cs.CL,2
+large language model,model,cs.LG,2
+code generation,task,cs.SE,2
+foundation models,model,cs.AI,2
+retrieval-augmented generation,method,cs.SE,2
+steering vectors,method,cs.LG,2
+reinforcement learning,method,cs.AI,2
+macro-f1,metric,cs.LG,2
+large language model,model,cs.AI,2
+position embedding,theory,cs.CV,1
+port-based cad assembly library,method,cs.AI,1
+population profile,method,cs.LG,1
+population misalignment,risk,cs.AI,1
+polyworkbench,other,cs.AI,1
+polysemanticity,risk,cs.LG,1
+predictability,theory,cs.AI,1
+preference optimization,method,cs.CL,1
+pretrained score network,model,cs.LG,1
+pretraining curriculum,theory,cs.LG,1
+pollution protocol,dataset,cs.CL,1
+price anchoring,method,cs.LG,1
+primitive skills,task,cs.AI,1
+principled-vs-statistical distinction,other,cs.CL,1
+polynomial approximations,method,cs.LG,1
+privacy,application,cs.CR,1
+pretrained audio teacher,model,cs.SD,1
+pragmatic quality,metric,cs.CL,1
+pragmatic framing,risk,cs.CL,1
+pre-generation signals,method,cs.CV,1
+pre-solution confidence,metric,cs.CL,1
+pragmatic ambiguity,task,cs.SE,1
+powerbench,tool,cs.AR,1
+power-calibrated,theory,stat.ML,1
+power status,application,cs.CL,1
+power analysis,theory,cs.CL,1
+position-interpolation-based length generalization,method,cs.LG,1
+posterior belief,theory,econ.TH,1
+post-training acceleration,method,cs.CV,1
+post-training,application,cs.CL,1
+post-solution confidence,metric,cs.CL,1
+post-rl teacher,model,cs.LG,1
+predicate-gated state transitions,method,cs.AI,1
+post-hoc score,metric,cs.CV,1
+post hallucination reasoning (phr,task,cs.CV,1
+position estimation,metric,cs.CL,1
+potential-based reward shaping (pbrs,theory,cs.LG,1
+pet-guided noise modulation module,tool,cs.CV,1
+perturbation discrimination score (pds,metric,cs.LG,1
+personal ai agents,application,cs.CR,1
+persistent homology,theory,cs.CV,1
+perplexity degradation,metric,cs.LG,1
+performance-relevant diff hunks,task,cs.SE,1
+perceptual stages,task,cs.SD,1
+percentile-aware layerwise sparsity,method,cs.CL,1
+per-axis normalization,method,cs.LG,1
+pedagogical rubric,theory,cs.AI,1
+privacy classifier,tool,cs.CR,1
+pattern matching,task,cs.AI,1
+pattern discovery,task,cs.AI,1
+pathwise feature transport,method,cs.AI,1
+path-dependent tension resolution,theory,cs.AI,1
+path planning,task,cs.LG,1
+pass 2,metric,cs.AI,1
+partial observability,task,cs.LG,1
+part segmentation,task,cs.CV,1
+parametric component factories,application,cs.AI,1
+parameter-efficient fine-tuning (peft,method,cs.CV,1
+pangolintokenizer,other,cs.SD,1
+pattern recognition,theory,cs.AI,1
+political orientation,application,cs.CL,1
+policy optimization target,theory,cs.AI,1
+policy loss,metric,cs.CL,1
+policy gradients,theory,cs.LG,1
+policy gradient,method,cs.CL,1
+policy gradient,method,cs.AI,1
+policy distillation,method,cs.LG,1
+polarity-contradiction detection,method,cs.CV,1
+poisson arrival process,model,econ.TH,1
+point-cloud manifold,model,cs.CL,1
+phase-based freeze schedule,method,cs.LG,1
+podcast feed,dataset,cs.CL,1
+planning compilation,method,cs.CR,1
+planning,other,cs.AI,1
+planner behavior,other,cs.AI,1
+plan-like internal representation,theory,cs.CL,1
+pixel-level segmentation mask,tool,cs.CV,1
+physics-guided machine learning,theory,cs.LG,1
+physics-audited agentic sciml,method,cs.AI,1
+physics requirements,theory,cs.AI,1
+physical plausibility,other,cs.CV,1
+physical laws,application,cs.AI,1
+point cloud evolution,task,cs.RO,1
+redundant meta-training compute,method,cs.LG,1
+redsm5,dataset,cs.CL,1
+recursive prompt bank,model,cs.CV,1
+recurring workflows,task,cs.AI,1
+recurrent soft-flow,method,cs.CL,1
+reconstruction-aware,method,cs.CR,1
+recommendation generation,application,cs.SE,1
+reasoning-free inference,other,cs.AI,1
+reasoning-active training,other,cs.AI,1
+reasoning traces,task,cs.AI,1
+projective techniques,task,cs.AI,1
+reasoning dynamics,metric,cs.CV,1
+realistic coding contexts,task,cs.SE,1
+real-world end-to-end working demands,task,cs.AI,1
+readability,metric,cs.CL,1
+ray and wave optics,task,cs.AI,1
+rational inattention,theory,cs.AI,1
+rate-of-spread estimation,metric,cs.LG,1
+rank-r subspace,task,cs.LG,1
+rank-1 orthogonal projections,method,cs.LG,1
+random sampling map,method,math.ST,1
+reasoning guard,other,cs.CR,1
+repository enrichment,method,cs.SE,1
+repeated games,other,cs.CY,1
+repeated execution protocol,method,cs.CL,1
+renyi entropy,metric,cs.CL,1
+relevance anchor,model,cs.CV,1
+rejection sampling,theory,cs.CL,1
+rejection fine-tuning,method,cs.AI,1
+reinforcement learning from verifiable rewards (rlvr,method,cs.LG,1
+reinforcement learning,theory,cs.CL,1
+reinforcement learning,method,cs.CL,1
+reed-solomon code,method,cs.CR,1
+reinforcement fine-tuning,method,cs.AI,1
+regulation-aware ai,theory,cs.AI,1
+regression model,method,stat.ME,1
+region of interest,task,cs.CV,1
+region context embeddings,task,cs.CV,1
+regime-dependent failure,risk,cs.LG,1
+regex-based constraint,tool,cs.SE,1
+refusal behavior,other,cs.SE,1
+refusal,application,cs.CL,1
+reflective orchestrator,method,cs.AI,1
+reference-free,model,cs.LG,1
+reinforcement learning,application,cs.CL,1
+proposal trees,task,cs.LG,1
+proof-mechanism,task,cs.CL,1
+prompt-optimized parameter shaking,method,cs.CR,1
+prompt robustness,theory,cs.CL,1
+prompt optimization,method,cs.CL,1
+prompt engineering,method,cs.CL,1
+prompt engineering,method,cs.AI,1
+prompt construction,risk,cs.CV,1
+prompt complexity,theory,cs.CL,1
+prompt category,task,cs.CL,1
+random neural network,model,cs.LG,1
+program synthesis,task,cs.AI,1
+program evolution,task,cs.LG,1
+program analysis,tool,cs.SE,1
+production traffic,metric,cs.LG,1
+process model generation,task,cs.CL,1
+probability capacity (cap,theory,cs.LG,1
+privileged information,risk,cs.CL,1
+privileged context,method,cs.AI,1
+private intent,task,cs.CY,1
+privacy-utility orthogonality,theory,cs.CR,1
+pandasqueryengine,tool,cs.AI,1
+random forest,method,eess.SP,1
+qwen,model,cs.LG,1
+question-type-specific inference,method,cs.CL,1
+query-key projections,task,cs.LG,1
+quantitative data extraction,method,cs.NE,1
+quantisation,method,cs.LG,1
+quality-filtered trajectory distillation,method,cs.CL,1
+quality scorer,metric,cs.AI,1
+quality rubric,metric,cs.CY,1
+quadrotor,application,cs.RO,1
+proprioceptive vehicle localization,task,cs.RO,1
+pullback metrics,method,cs.CL,1
+public announcement,task,cs.CY,1
+pubhealthbench,dataset,cs.CL,1
+psychometric battery,method,cs.CL,1
+pseudo frames,dataset,cs.CV,1
+pruning,method,cs.CL,1
+pruning,application,cs.CL,1
+proxy score,metric,cs.LG,1
+prototypical contrastive learning,method,cs.CL,1
+protocolmanager,tool,cs.AI,1
+prosodic segmentation,task,cs.CL,1
+pure reasoning,other,cs.AI,1
+motion latents,other,cs.RO,1
+moral decisiveness,theory,cs.CL,1
+monotonic improvement,theory,cs.LG,1
+monoid extension,theory,cs.LG,1
+monocular depth estimation,method,cs.CV,1
+moe llm,model,cs.CL,1
+moe,model,cs.LG,1
+modular instruction memory,model,cs.CL,1
+model-relative text compression,theory,cs.CL,1
+model failure modes,risk,cs.SE,1
+optimal transport divergence,theory,cs.CL,1
+mobilenetv2,model,cs.LG,1
+mobile llm inference,task,cs.AR,1
+mmlu,other,cs.LG,1
+mmd,method,cs.CL,1
+ml-based model selection,method,cs.PF,1
+mixture-of-models,model,cs.CV,1
+mixture of beta distribution,model,cs.CL,1
+mixed-mode rollout,method,cs.CL,1
+misalignment,risk,cs.LG,1
+minority class,task,cs.LG,1
+minimum covariance determinant (mcd,method,stat.ML,1
+modality interference,risk,cs.CL,1
+multi-resolution,method,cs.CV,1
+multi-model blending,method,cs.LG,1
+multi-modality machine unlearning,theory,cs.CR,1
+multi-modal representation,other,cs.LG,1
+multi-modal input,other,cs.RO,1
+multi-llm arena,tool,cs.CL,1
+multi-label span classification,task,cs.CL,1
+multi-label formulation,model,cs.LG,1
+multi-hop qa,dataset,cs.CL,1
+multi-gpu,tool,cs.CV,1
+multi-agent architecture,model,cs.AI,1
+multi-dimensional reward shaping,method,cs.AI,1
+multi-dimensional annotation,metric,eess.AS,1
+multi-class formulation,model,cs.LG,1
+multi-channel spread-spectrum watermarking,method,cs.CR,1
+multi-buyer markets,application,cs.LG,1
+multi-bit watermarking,method,cs.CR,1
+multi-agent systems,theory,cs.MA,1
+multi-agent pipeline,method,cs.CV,1
+multi-agent mathematical reasoning,theory,cs.AI,1
+multi-agent llm safety,application,cs.AI,1
+multi-agent coordination,application,cs.AI,1
+multi-fidelity framework,theory,cond-mat.mtrl-sci,1
+majority voting,method,cs.CR,1
+majority voting,method,cs.CL,1
+mahalanobis distance scores,metric,stat.ML,1
+macro-f1,metric,cs.CL,1
+machine-checkable,tool,cs.AI,1
+machine translation,tool,cs.CL,1
+machine representation reconstruction,method,cs.SD,1
+lyapunov function,theory,cs.LG,1
+low-rank temporal adapters,model,cs.CV,1
+low-rank peft,method,cs.CL,1
+minimax-regret,metric,econ.TH,1
+low-rank adaptation (lora,method,cs.CV,1
+low-precision gradient communication,method,cs.DC,1
+low-latency path,model,cs.CV,1
+low-capacity evaluation channel,model,cs.AI,1
+lora fine-tune,method,cs.CL,1
+lora adapters,model,cs.SD,1
+lora adapters,model,cs.CL,1
+lora,model,cs.LG,1
+long-term memory,model,cs.CR,1
+long-horizon reasoning,other,cs.AI,1
+long-horizon,task,cs.LG,1
+low-rank adaptation (lora,method,cs.RO,1
+meta-learning,theory,cs.LG,1
+mentalroberta,model,cs.CL,1
+memory-guided generation,method,cs.CV,1
+memory poisoning,risk,cs.CR,1
+memorization window,metric,cs.LG,1
+medical figure classification,task,cs.CV,1
+mechanistic interpretability,theory,cs.LG,1
+measurement validity,other,cs.AI,1
+mean-field residual-scaling law,theory,cs.AI,1
+mean-field posterior,model,cs.LG,1
+mamba,model,cs.RO,1
+mathematical reasoning,task,cs.CL,1
+mass-shell constraint,theory,cs.LG,1
+mass-conserving fuel transport,metric,cs.LG,1
+masked sequence,task,cs.CL,1
+masked language model,model,cs.CL,1
+mask-conditioned,method,cs.LG,1
+market discovery,task,cs.LG,1
+market coupling,task,cs.AI,1
+marker-gated coordination pass,method,cs.CL,1
+manual labeling,method,cs.CL,1
+manipulation policies,application,cs.RO,1
+matthews correlation coefficient (mcc,metric,cs.CV,1
+olfaction,application,cs.CV,1
+offloading and quantization strategies,method,cs.AR,1
+offline reinforcement learning,method,cs.LG,1
+offline recurrent loop,method,cs.AI,1
+offline construction,method,cs.CL,1
+off-policy training,task,cs.CL,1
+observer option12,tool,cs.CL,1
+object detection,task,cs.CV,1
+nurc-sp dataset,dataset,cs.CL,1
+nucleus accumbens,model,cs.LG,1
+multi-scale transformer,model,cs.LG,1
+novelty claim,metric,cs.AI,1
+normal-inverse-gamma distribution,metric,cs.RO,1
+nonlinear effects,theory,cs.LG,1
+nli,theory,cs.CL,1
+neuron-level interventions,method,cs.LG,1
+neuron selectors,model,cs.CL,1
+neural network modifications,task,cs.LG,1
+neural fictitious self-play,method,cs.LG,1
+ndcg,metric,cs.CL,1
+naturalistic online setting,application,cs.CL,1
+natural-language justification,method,cs.LG,1
+novelty profile,metric,cs.CV,1
+paired significance tests,metric,cs.CL,1
+output cardinality,metric,cs.LG,1
+outcome reward,metric,cs.LG,1
+ordinary least squares fit,method,cs.LG,1
+oracle,model,cs.CL,1
+optimizer state,task,cs.LG,1
+optimization context,task,cs.CL,1
+representation sharing,metric,cs.LG,1
+optimal policy,other,econ.TH,1
+operational reframing,risk,cs.AI,1
+on-policy,method,cs.CL,1
+openapi specification,dataset,cs.SE,1
+open-source smaller language models (os-sllms,model,cs.CL,1
+open-source llms,tool,cs.CV,1
+open-source detectors,application,cs.CV,1
+open web search,method,cs.CY,1
+open problems,task,cs.AI,1
+ontology-based synonym matching,method,cs.CV,1
+one-dimensional transformer autoencoder,model,cs.LG,1
+on-policy token,model,cs.CL,1
+on-policy distillation,method,cs.LG,1
+on-policy distillation,method,cs.CL,1
+operating point,metric,cs.CV,1
+multimodal generation,task,cs.CL,1
+multimodal entropy structure,theory,cs.CL,1
+multimodal alignment,task,cs.IR,1
+multimodal,task,cs.SE,1
+multimodal,task,cs.CL,1
+multimodal,other,cs.CV,1
+multimodal,application,cs.CV,1
+multilingual transcripts,dataset,cs.CL,1
+multilingual long-horizon llm agents,application,cs.AI,1
+multilingual access,tool,cs.AI,1
+natural-language i/o,task,cs.CL,1
+multilingual,task,cs.CL,1
+multifactor scoring system,theory,cs.CL,1
+multidimensional protocol,method,cs.CL,1
+multicultural,task,cs.CL,1
+multi-view context,task,cs.CV,1
+multi-turn interaction,task,cs.LG,1
+multi-token localized attention (mtla,method,cs.CV,1
+multi-task reinforcement learning,task,cs.LG,1
+multi-step derivation,risk,cs.AI,1
+multi-stage reasoning,method,cs.CV,1
+multi-seed study,method,cs.LG,1
+multilingual ability,application,cs.CL,1
+natural-language datasets,dataset,cs.CL,1
+natural-gradient update,method,cs.LG,1
+natural world,application,cs.AI,1
+natural language specification,application,cs.AI,1
+natural language prover,model,cs.AI,1
+natural language processing (nlp,task,cs.CL,1
+natural language processing,tool,cs.CL,1
+natural language processing,task,cs.AI,1
+natural language explanation,application,cs.CR,1
+native structural reasoning,method,cs.CL,1
+nas,theory,cs.LG,1
+multimodal generative framework,model,cs.LG,1
+mutual transformer,model,cs.AI,1
+mutation taxonomy,theory,cs.SE,1
+mupe-diversidades dataset,dataset,cs.CL,1
+multiple-comparison correction,theory,cs.CL,1
+multimodal scientific foundation model,model,cs.CL,1
+multimodal retrieval,method,cs.CV,1
+multimodal representation,model,cs.CY,1
+multimodal pattern,metric,cs.CV,1
+multimodal large language models,model,cs.CV,1
+multimodal large language model (mllm,model,cs.RO,1
+multimodal interaction,other,cs.HC,1
+narrative generation,application,cs.AI,1
+time-series forecasting,task,cs.LG,1
+time-conditioned velocity field,model,cs.AI,1
+time-agnostic propagation,method,cs.LG,1
+time series classification,task,cs.LG,1
+throughput,metric,cs.CL,1
+throughput,metric,cs.AI,1
+threshold check,metric,eess.SP,1
+threat score,metric,cs.LG,1
+thinking residual,theory,cs.CL,1
+thinking models,model,cs.AI,1
+residual streams,model,cs.LG,1
+textual dependency graph,model,cs.CL,1
+text-to-video diffusion transformer,model,cs.CV,1
+text-to-sql,task,cs.CL,1
+text-to-cad,task,cs.AI,1
+text summarization,task,cs.CL,1
+test suite,metric,cs.LG,1
+test oracles,task,cs.SE,1
+test effectiveness,metric,cs.SE,1
+tensor program,theory,cs.LG,1
+temporal encoder,model,cs.AI,1
+temporal drift,metric,cs.LG,1
+thermal-airflow perturbation,other,cs.CV,1
+tracking,task,cs.CV,1
+trace analysis,method,cs.AI,1
+tpc-h benchmark,other,cs.DB,1
+topological continuity,theory,cs.AI,1
+topic-conditional layer normalization,method,cs.CL,1
+topic models,model,cs.AI,1
+top-term analyses,other,cs.AI,1
+top-k marginals,metric,cs.LG,1
+toolset,tool,cs.AI,1
+toolfailbench,other,cs.CL,1
+tool-use failures,task,cs.CL,1
+timestep schedules,task,cs.LG,1
+tool use,application,cs.AI,1
+tool resampling,method,cs.LG,1
+tool discovery,task,cs.AI,1
+tool composition,task,cs.AI,1
+tool call,task,cs.CL,1
+token-level signals,task,cs.CL,1
+token-level explanation,method,cs.LG,1
+token-level clipping,method,cs.LG,1
+token-centric dual-view learning,method,cs.CV,1
+token-adaptive cache compression,method,cs.AI,1
+token log probability,metric,cs.CL,1
+tool-augmented agent,model,cs.CV,1
+symplectic learning,theory,cs.RO,1
+symmetric positive definite (spd) manifold,theory,cs.CL,1
+symmetric noise objective,theory,cs.LG,1
+symbolic bootstraps,metric,cs.LG,1
+symbolic attribute graph,model,cs.CV,1
+sycophancy,other,cs.LG,1
+svm classifier,method,eess.SP,1
+surrogate models,model,cs.AI,1
+surrogate modeling,method,cond-mat.mtrl-sci,1
+surrogate model,model,cs.LG,1
+temporal discourse reasoning,task,cs.CL,1
+supervised training,method,cs.CL,1
+supervised fine-tuning,application,cs.CL,1
+superquadric primitive,model,cs.CV,1
+superposition,risk,cs.LG,1
+super-resolution,task,cs.LG,1
+subword vocabulary,task,cs.CL,1
+subspace non-identifiability,risk,cs.LG,1
+sub-instructions,model,cs.CL,1
+sub-goal embeddings,model,cs.CL,1
+structured token-level communication,method,cs.CV,1
+structured safety labels,other,cs.AI,1
+surplus extraction,task,cs.LG,1
+temporal convolution module,model,cs.LG,1
+temporal analysis,method,cs.CL,1
+template accuracy,metric,cs.CL,1
+telegram posts,application,cs.CL,1
+teacher-student model,model,cs.CV,1
+teacher-student framework,method,cs.CV,1
+task-semantic field factorization,method,cs.LG,1
+task-rubric rewards,metric,cs.LG,1
+task-relevant computations,task,cs.LG,1
+task-oriented scenarios,dataset,cs.AI,1
+task constraints,risk,cs.AI,1
+synaptic rule,method,cs.LG,1
+table qa,task,cs.CL,1
+table insight,task,cs.CL,1
+systems development life cycle (sdlc,theory,cs.CL,1
+synthetic labeling,task,cs.CL,1
+synthetic fog generation,task,cs.CV,1
+synthetic content analysis,task,cs.CR,1
+synthetic consumer data,dataset,cs.AI,1
+synthetic cohort,dataset,cs.CL,1
+syntactic quality,metric,cs.CL,1
+syntactic attacks,risk,cs.CR,1
+synchronized trajectory,task,cs.LG,1
+tabular classifier,tool,cs.CL,1
+utility-aligned canonical decomposition,method,stat.ME,1
+utility classifier,tool,cs.CR,1
+upstream metric,metric,cs.CL,1
+unigram-lm,method,cs.CL,1
+unified multimodal model,model,cs.CV,1
+uncertainty-driven selective refinement,method,cs.CV,1
+alignment,theory,cs.SE,1
+alignment,other,cs.CL,1
+alignment,other,cs.AI,1
+alignment,method,cs.CL,1
+training epochs,task,cs.LG,1
+algebraic structure,task,cs.CL,1
+ai-native sql,task,cs.CL,1
+agentic framework,tool,cs.CL,1
+agentic ai,model,cs.AI,1
+agent-based verification,method,cs.CL,1
+agent-based pipeline,method,cs.CL,1
+agent-based modeling,model,cs.AI,1
+agent-assisted recommendation,application,cs.IR,1
+agent-as-user-simulator,application,cs.IR,1
+agent-as-recommender,application,cs.IR,1
+agent optimization,application,cs.CL,1
+aligned models,model,cs.SE,1
+visual question answering,task,cs.CV,1
+visual imagination,task,cs.CY,1
+visual alignment reward,other,cs.AI,1
+vision-language models,model,cs.CV,1
+vision-language models,model,cs.CL,1
+vision-language models,model,cs.AI,1
+vision-language model,model,cs.LG,1
+vision-language model,model,cs.HC,1
+vision-language,application,cs.CV,1
+vision foundation models,model,cs.CV,1
+video2reaction,dataset,cs.CV,1
+value alignment,theory,cs.AI,1
+vex vr,application,cs.AI,1
+verification-first workflow,method,cs.AI,1
+verification-first execution framework,method,cs.AI,1
+verification,task,cs.CR,1
+verifiable rewards,metric,cs.AI,1
+vendorbench-100,other,cs.CV,1
+vector field,model,cs.CL,1
+variational source condition,theory,stat.ML,1
+variational autoencoder,model,cs.LG,1
+variable semantics,theory,cs.LG,1
+variable naming conventions,method,cs.CR,1
+video diffusion models,model,cs.CV,1
+tri-mode language model,model,cs.CL,1
+tree-verification,method,cs.LG,1
+tree-structured rollout,method,cs.AI,1
+tree-of-thoughts (tot,method,cs.CV,1
+transformer-based vision-language models,model,cs.LG,1
+transformer-based topic modeling,method,cs.CL,1
+transformer-based models,model,cs.CL,1
+transformer-based model,model,cs.RO,1
+transformer-based architectures,model,cs.CV,1
+transformer encoder,model,cs.LG,1
+transformer decoder,model,cs.CL,1
+agent attention mechanism,model,cs.LG,1
+transformer attention heads,model,cs.LG,1
+transformer attention,model,cs.LG,1
+transformer architecture,model,cs.CL,1
+transformer,model,cs.CV,1
+transformer,model,cs.AI,1
+transfer learning,theory,cs.LG,1
+transaction history,dataset,cs.AI,1
+trajectory-aware benchmarks,other,cs.SE,1
+trajectory planning,task,cs.RO,1
+training-set coverage,metric,cs.LG,1
+training-free,method,cs.CV,1
+transformer circuit analysis,method,cs.LG,1
+agent,tool,cs.CR,1
+adversarial vulnerability,risk,cs.LG,1
+adversarial strategy,method,cs.CR,1
+adversarial attack,other,cs.CV,1
+advantage-weighted separation,method,cs.AI,1
+advantage-weighted regression,method,cs.LG,1
+advantage-weighted ranking loss,method,cs.AI,1
+activation magnitude,metric,cs.CL,1
+advantage regularization,method,cs.CL,1
+advantage awareness,theory,cs.AI,1
+adolescent substance use discourse,task,cs.CL,1
+truncated reasoning auc evaluation (trace,method,cs.AI,1
+adapter composition schedule,method,cs.CV,1
+activations,model,cs.LG,1
+activation steering,method,cs.CL,1
+uncertainty quantification,method,cs.CV,1
+uncertainty quantification,method,cs.CL,1
+unbounded positive asymmetric optimization (up,method,cs.LG,1
+ucr archive,dataset,cs.LG,1
+uav imagery,dataset,cs.CV,1
+u-net,model,cs.LG,1
+typing,task,cs.CR,1
+trust region policy distillation,method,cs.LG,1
+adapter gates,model,cs.CV,1
+self-play,method,cs.LG,1
+self-evolution module,model,cs.AI,1
+self-distillation,method,cs.LG,1
+self-distillation,method,cs.CL,1
+self-distillation,method,cs.AI,1
+self-attention mechanisms,model,cs.CL,1
+selective disclosure,method,cs.CR,1
+segmentation,task,cs.CV,1
+security metrics evaluation,metric,cs.CR,1
+security governance,theory,cs.CR,1
+structured radio frequency interference,task,cs.LG,1
+search-routing,task,cs.CL,1
+seamless interaction corpus,dataset,cs.CL,1
+scl,method,cs.CL,1
+sci error taxonomy,theory,cs.CL,1
+scene-conditioned negative prompts,method,cs.CV,1
+scene descriptors,task,cs.CV,1
+scene classification,task,cs.CV,1
+scalable framework,theory,cs.AI,1
+scalable bayesian inference,method,stat.ML,1
+scaffold,application,cs.LG,1
+sampling,method,math.ST,1
+section-aware relevance scoring,method,cs.AI,1
+sentiment analysis,task,cs.CL,1
+sentiment analysis,application,cs.CL,1
+sentence transformer,model,cs.CL,1
+semi-autoregressive architecture,model,cs.AI,1
+semantically equivalent code patterns,method,cs.CR,1
+semantic stages,task,cs.SD,1
+semantic segmentation,method,cs.CV,1
+semantic quality,metric,cs.CL,1
+semantic homogenization,theory,cs.CL,1
+semantic distortion,risk,stat.ML,1
+semantic coverage,metric,cs.CV,1
+self-play,task,cs.LG,1
+semantic annotation,task,cs.LG,1
+semantic alignment channel,tool,cs.CL,1
+self-supervised transformer,model,cs.LG,1
+self-supervised pretraining,method,cs.CV,1
+self-supervised learning,theory,cs.LG,1
+self-supervised learning,method,cs.LG,1
+self-supervised encoder,model,cs.LG,1
+self-speculation decoding,task,cs.CL,1
+self-similarity,theory,cs.LG,1
+self-review,method,cs.LG,1
+self-reported diagnosis,task,cs.CL,1
+semantic corruption,risk,cs.SE,1
+reward signal stationarity,theory,cs.LG,1
+reward shaping,method,cs.LG,1
+reward hacking,risk,cs.LG,1
+reward hacking,risk,cs.AI,1
+reward function design,method,cs.CL,1
+reversibility,risk,cs.AI,1
+retrosynthesis accuracy,metric,cs.CL,1
+retrosynthesis,task,cs.LG,1
+retrieval-augmented generation,method,cs.CV,1
+retrieval-augmented generation,method,cs.CL,1
+sample efficiency,metric,cs.LG,1
+retrieval,method,cs.CY,1
+restoration quality,metric,cs.CV,1
+response latency,metric,cs.CL,1
+resource-constrained embedded device,application,cs.PF,1
+resource creation,method,cs.AI,1
+residual variance,metric,cs.LG,1
+long-form qa benchmarks,other,cs.CL,1
+research ideation,task,cs.AI,1
+requirement disambiguation,task,cs.SE,1
+reproducing kernel hilbert space,model,stat.ML,1
+reproducibility,metric,cs.LG,1
+retrieval,task,cs.CV,1
+safetyverifier,tool,cs.AI,1
+safety guardrails,tool,cs.AI,1
+safety,other,cs.AI,1
+runbugrun dataset,dataset,cs.SE,1
+rule-following behavior,application,cs.LG,1
+rule discovery,task,eess.SP,1
+routing,method,cs.LG,1
+rotational sweep videos,dataset,cs.CV,1
+rotary position embeddings (rope,model,cs.LG,1
+rollout-guided progressive hard-case optimization,other,cs.AI,1
+rollout policy optimization,method,cs.AI,1
+reward valuation,task,cs.LG,1
+role-aware encoding,method,cs.SD,1
+role factorization,method,cs.CL,1
+roc-auc,metric,cs.CV,1
+robustness,risk,cs.AI,1
+rl gym,tool,cs.AI,1
+rl benchmark,other,cs.LG,1
+rl (reinforcement learning,other,cs.CV,1
+risk-controlled selective answering,method,cs.CL,1
+risk score,metric,cs.CV,1
+riemannian mean pooling,method,cs.CL,1
+reward-swap,method,cs.LG,1
+role-based policy,theory,cs.CR,1
+state memory capacity,metric,cs.LG,1
+star rating,metric,cs.NE,1
+standard operating procedures (sop,task,cs.AI,1
+stance detection,task,cs.CL,1
+stability measures,metric,cs.AI,1
+square-free modular multiplication,task,cs.LG,1
+spike detection,task,cs.CL,1
+speech-to-text alignment,task,cs.CL,1
+speech recognition,task,cs.CL,1
+speech intelligence,metric,cs.CL,1
+sentiment and emotion classification,method,cs.CL,1
+spectral preprocessing,method,cs.LG,1
+spectral entropy,metric,cs.CL,1
+spectral decomposition,method,cs.LG,1
+spectral control,theory,cs.LG,1
+spectral attention,method,cs.LG,1
+specification-derived authority,theory,cs.SE,1
+specification grounding,theory,cs.SE,1
+speaker-separated dialogue speech,task,cs.CL,1
+spatiotemporal neural models,model,cs.LG,1
+spatiotemporal manifold sampling,method,cs.CV,1
+spatiotemporal analysis,task,cs.AI,1
+speculative decoding,method,cs.AI,1
+structured newton layer parallelism,method,cs.LG,1
+structured iteration workflow,method,cs.SE,1
+structured feedback,tool,cs.AI,1
+structured canonical lift,method,cs.RO,1
+structure-aware vocabulary,model,cs.CL,1
+structural tension,theory,cs.AI,1
+structural metrics,metric,cs.AI,1
+structural grading,method,cs.AI,1
+structural and functional mri,dataset,cs.LG,1
+stratified train-validation split,method,cs.CL,1
+strategic bargaining,task,cs.LG,1
+state-coherent screenshot set,dataset,cs.SE,1
+stochastic token steering (sts,method,cs.LG,1
+stochastic model-discovery operator,model,stat.ME,1
+stochastic block steering (sbs,method,cs.LG,1
+stochastic block models,task,cs.LG,1
+stiefel layer,model,cs.LG,1
+step-level reward,method,cs.AI,1
+steering vector,other,cs.AI,1
+statistical prevalence,metric,cs.CL,1
+statistical inverse learning,theory,stat.ML,1
+station observation,dataset,cs.LG,1
+state-management complexity,metric,cs.SE,1
+stop-gradient operator,method,cs.LG,1
+smell encoder,model,cs.CV,1
+smart home configuration,application,cs.SE,1
+small language model,model,cs.PF,1
+sketching,method,math.ST,1
+singular vectors,method,cs.LG,1
+singular value decomposition (svd,method,cs.CV,1
+single-view,theory,cs.CV,1
+single-rollout sampling,method,cs.LG,1
+single-cell perturbation,task,cs.LG,1
+signal-processing features,task,cs.CL,1
+signal reconstruction,method,cs.LG,1
+spatio-temporal encoder,model,cs.LG,1
+shot-local story-global tuning objective,metric,cs.CV,1
+shortest generating prompt,method,cs.CL,1
+short image histories,other,cs.RO,1
+shared decision making (sdm,task,cs.CL,1
+sharding,method,cs.CV,1
+shap explainability,method,eess.SP,1
+shannon entropy,metric,cs.CL,1
+sha-256 hash-chained audit log,metric,cs.CR,1
+sft,method,cs.CL,1
+severity phenotyping,task,cs.CL,1
+sequence length,metric,cs.LG,1
+shot-role prompt tokens,tool,cs.CV,1
+spatio-temporal embedding,task,cs.LG,1
+spatial vision perception,application,cs.LG,1
+spatial understanding,other,cs.CV,1
+spatial geometry,other,cs.RO,1
+spatial gaussian blending,method,cs.LG,1
+spatial deictic expressions,task,cs.CL,1
+spatial bases,model,cs.CV,1
+sparse autoencoders (saes,tool,cs.LG,1
+sparse autoencoders (saes,model,cs.LG,1
+sparse addressing,method,cs.LG,1
+span-level uncertainty estimation,task,cs.CL,1
+smooth euler characteristic transform (sect,method,cs.CV,1
+source-guided candidate-generation,method,cs.LG,1
+source trustworthiness,risk,cs.CY,1
+source of authority,theory,cs.SE,1
+softmax,tool,cs.LG,1
+softmax,other,cs.LG,1
+soft-label prediction,method,cs.CL,1
+soft sensing,application,cs.LG,1
+sociolinguistic characteristics,task,cs.AI,1
+social norms,theory,cs.AI,1
+social media,application,cs.CV,1
+snowball citation expansion,method,cs.AI,1
+span-annotated corpus,dataset,cs.CL,1
+cross-domain evaluation,other,cs.CV,1
+cross-document claim graph,model,cs.CL,1
+cross-depth residual factorization,method,cs.AI,1
+cross-cultural comparison,other,cs.CY,1
+cross-center validation,other,cs.CV,1
+cross-attention,method,cs.CV,1
+creative process,application,cs.HC,1
+coverage,metric,cs.LG,1
+covariance matrix estimation,method,stat.ML,1
+coupling-aware balancing loss,method,cs.LG,1
+log-ratio,metric,cs.LG,1
+cost-aware objective,metric,cs.CL,1
+cosine similarity,metric,cs.CL,1
+corpus,dataset,eess.SP,1
+coreset selection,method,cs.CV,1
+cooperative multi-agent reinforcement learning (marl,task,cs.LG,1
+convolutional kernels,model,cs.CV,1
+convnext,model,cs.CV,1
+conversational role attribution,task,cs.CL,1
+controlled synthetic completions,task,cs.CL,1
+controlled dialogue prompts,task,cs.CL,1
+control-variate adjustment,method,cs.LG,1
+counterfactual supervision,method,cs.CL,1
+damped resonators,model,cs.CL,1
+cybersecurity,application,cs.CR,1
+cwe attribution,task,cs.SE,1
+custom operators,method,cs.AR,1
+curvature,metric,cs.CV,1
+curriculum learning,method,cs.LG,1
+curator review,tool,eess.SP,1
+curation,task,cs.CR,1
+curated corpus,dataset,cs.CY,1
+cultural variation,risk,cs.CY,1
+cross-entropy training,other,cs.RO,1
+cultural alignment,theory,cs.CL,1
+crossmodal retrieval,task,cs.CV,1
+cross-validation,method,cs.CL,1
+cross-temporal generalization,task,cs.LG,1
+cross-task transfer,theory,cs.CV,1
+cross-source exact-match check,metric,cs.LG,1
+cross-scanner validation,other,cs.CV,1
+cross-page reasoning,method,cs.CV,1
+cross-modal transformer,model,cs.CL,1
+cross-frequency coupling,task,eess.SP,1
+cross-episode memory,method,cs.LG,1
+cultural heritage preservation,theory,cs.AI,1
+confidence interval,method,cs.CL,1
+cone machinery,task,cs.CV,1
+conditional total correlation,theory,cs.CL,1
+conditional dialect group invariance (cdgi,theory,cs.CL,1
+conditional dependencies,theory,cs.LG,1
+condition encoding,task,cs.CV,1
+conciseness,metric,cs.CL,1
+conceptual structure,theory,cs.CY,1
+concept representation,task,cs.CL,1
+computational sensing,task,cs.AI,1
+contrastive vision-encoder training,method,cs.CV,1
+compression failure,risk,cs.CL,1
+compression,task,cs.LG,1
+compositional reasoning,task,cs.AI,1
+composite quality score (q,metric,cs.AI,1
+completion-style datasets,dataset,cs.CL,1
+completeness,metric,cs.CL,1
+competitive-ratio,metric,econ.TH,1
+common weakness enumeration (cwe,task,cs.LG,1
+common vulnerabilities and exposures (cve,task,cs.LG,1
+commercially available starting materials,metric,cs.LG,1
+commercial apis,application,cs.CV,1
+computational imaging,task,cs.AI,1
+contrastive ranking objectives,method,cs.CL,1
+continuous-query,method,cs.CL,1
+continuous-integration,tool,eess.SP,1
+continued pre-training,method,cs.AI,1
+continuation probability,model,cs.CL,1
+continual pretraining,method,cs.CL,1
+contextual transformation,task,cs.CL,1
+contextual expansion,method,cs.CV,1
+context-rich reviser,method,cs.AI,1
+context-parallel,method,cs.CV,1
+contamination-awareness,other,cs.SE,1
+confidence intervals,metric,cs.CL,1
+constraint-guided llm generation,method,cs.SE,1
+constraint-aware reinforcement learning,theory,cs.AI,1
+constrained exploration,task,cs.HC,1
+constrained decoding,task,cs.LG,1
+constrained decoding,method,cs.SE,1
+conspiratorial actors,task,cs.CL,1
+consolidation,task,cs.LG,1
+consensus-based defense,other,cs.CR,1
+confusion matrix,metric,cs.LG,1
+conformal prediction,theory,cs.LG,1
+confidence-scheduled verification,method,cs.AI,1
+contact-rich quadruped,application,cs.RO,1
+dual-llm intersection pipeline,method,cs.SE,1
+drift,risk,cs.LG,1
+downstream metric,metric,cs.CL,1
+downstream evaluation,metric,cs.LG,1
+doob h-transform,theory,cs.LG,1
+domain-specific foundation models,model,cs.LG,1
+domain knowledge base,dataset,cs.SE,1
+domain knowledge,risk,cs.AI,1
+domain adaptation,task,cs.AI,1
+domain adaptation,method,cs.CV,1
+dann,method,cs.CL,1
+diversity regularizer,method,cs.CV,1
+diversity and concentration metrics,metric,cs.AI,1
+diversity,metric,cs.CL,1
+distributional sensitivity,risk,cs.AI,1
+distribution shift,risk,cs.CV,1
+distributed sparse interventions,method,cs.LG,1
+distillation,method,cs.SD,1
+distillation,method,cs.CL,1
+dissipative systems,task,cs.RO,1
+displacement structure,metric,cs.CL,1
+disentangled representation,model,cs.LG,1
+document visual question answering,task,cs.CV,1
+electronic medical records,application,cs.CL,1
+electronic healthcare records (ehr,application,cs.CL,1
+electroacoustic quantitative measurement,method,cs.SD,1
+elastic modulus,metric,cond-mat.mtrl-sci,1
+eigenvalue clipping,method,cs.LG,1
+effort-based decision-making,task,cs.LG,1
+efficient inference,method,cs.LG,1
+effective rank,metric,cs.LG,1
+effective dimension,metric,stat.ML,1
+eeg,application,cs.LG,1
+editing for safety,application,cs.CL,1
+dual-stage guidance mechanism,method,cs.CV,1
+ecg reconstruction,task,cs.LG,1
+ecg anonymization,application,cs.CR,1
+early-exit guided predictive prefetching,method,cs.CL,1
+dynamic-programming pass,method,cs.CL,1
+dynamic voltage frequency scaling,tool,cs.PF,1
+dynamic tool-orchestration engine,tool,cs.AI,1
+dynamic structural sparsification,method,cs.CV,1
+dynamic preferences,method,cs.LG,1
+dynamic interaction,task,cs.AI,1
+dynamic evolution,method,cs.CL,1
+dynamic clipping,method,cs.LG,1
+edge cases,risk,cs.SE,1
+depth-free,theory,cs.CV,1
+depth router,tool,cs.AI,1
+deployment simulation,method,cs.LG,1
+deployment pipeline,method,cs.LG,1
+dense process reward,metric,cs.LG,1
+denoising,task,cs.CL,1
+delta-style networks,model,cs.LG,1
+delegation,task,cs.CL,1
+defended-claims gate,tool,cs.CL,1
+deepfake image detection,task,cs.CV,1
+discrete token vocabulary,task,cs.RO,1
+decision protocols,method,cs.MA,1
+de novo structure elucidation,method,cs.LG,1
+dataset type,task,cs.CL,1
+dataset,dataset,cs.CL,1
+datamanager,tool,cs.AI,1
+database storage decoding,task,cs.DB,1
+data storage and processing,task,cs.CR,1
+data reuse,method,cs.LG,1
+data lock-in,risk,cs.DB,1
+data extraction,task,cs.CL,1
+data curation,task,cs.CL,1
+decoupled progressive expert supervision,method,cs.LG,1
+discrete motion latent codes,model,cs.RO,1
+discrete autoregressive generation,theory,eess.AS,1
+direct preference optimization (dpo,method,cs.LG,1
+direct on-policy distillation,method,cs.LG,1
+dimensional metric grouping,method,cs.SE,1
+digital twin,application,cs.AI,1
+digital humanities,application,cs.AI,1
+digital cardiac assessment,application,cs.LG,1
+diffusion samplers,model,cs.LG,1
+diffusion model,model,cs.LG,1
+diffusion model,model,cs.CL,1
+design structure matrices (dsms,task,cs.AI,1
+differentiable asr model,model,cs.CL,1
+difference-in-differences,method,cs.CL,1
+dialectal robustness,metric,cs.CL,1
+dialect bias,risk,cs.CL,1
+diagnostic evaluation,method,cs.CL,1
+devsecops,application,cs.CR,1
+deviation,metric,cs.CY,1
+detr-style span decoder,model,cs.CL,1
+deterministic mate transformations,method,cs.AI,1
+detection robustness,metric,cs.CV,1
+detection power,metric,stat.ML,1
+differentiable graph reasoning,other,cs.CL,1
+attack path identification,task,cs.CR,1
+atomic actions,task,cs.AI,1
+atmospheric scattering model,model,cs.CV,1
+asynchronous reinforcement learning,method,cs.LG,1
+ast-based code mutation,method,cs.LG,1
+association metric,metric,cs.CL,1
+asr robustness,metric,cs.CL,1
+aspect-based sentiment analysis,task,cs.CL,1
+argument-level policy,theory,cs.CR,1
+area under the receiver operating characteristic curve (auc,metric,cs.CL,1
+coherence,metric,cs.CL,1
+approval-framed delegation,other,cs.AI,1
+apache arrow buffers,metric,cs.DB,1
+antisemitic events,task,cs.CL,1
+anti-pattern detection,tool,cs.SE,1
+answer-driven reasoning,risk,cs.AI,1
+answer generation,task,cs.CL,1
+anov,method,eess.SP,1
+annotation guidelines,theory,cs.CL,1
+anhedonia,risk,cs.LG,1
+anatomical validation,other,cs.CV,1
+analytical workflow,application,cs.AI,1
+architectural inductive biases,theory,cs.LG,1
+axiomatic assembly specification,theory,cs.AI,1
+awareness functionals,tool,cs.HC,1
+autoregressive decoding,task,cs.CL,1
+autoregressive decoding,method,cs.AI,1
+autonomy framework,theory,cs.IR,1
+autonomous exploration,method,cs.AI,1
+autonomous coding agent,tool,cs.AI,1
+automatic speech recognition (asr,tool,cs.CL,1
+automatic speech recognition,task,cs.CL,1
+automated evaluation,tool,cs.CL,1
+autoformalization,task,cs.CL,1
+attention,theory,cs.CL,1
+authorization gateway,tool,cs.CR,1
+auditable engineering cascade,application,eess.SP,1
+auditability,risk,cs.AI,1
+audio-text llm,model,cs.CL,1
+audio understanding,metric,cs.CL,1
+auc,metric,cs.CV,1
+attribution scores,metric,cs.CL,1
+attention-output probes,metric,cs.AI,1
+attention-limited measurement process,theory,cs.AI,1
+attention-based detectors,tool,cs.CV,1
+attention mechanisms,model,cs.LG,1
+auto-fix,method,cs.SE,1
+wasserstein distance,metric,cs.LG,1
+vulnerability detection,task,cs.SE,1
+voxel features,model,cs.CV,1
+voxcpm2,other,cs.SD,1
+visual-token representations,model,cs.CV,1
+visual-question-answering,task,cs.CV,1
+visual-action alignment reward,other,cs.AI,1
+visual token pruning,task,cs.CV,1
+visual reasoning,task,cs.CV,1
+visual reasoning,method,cs.AI,1
+analytical jacobian,method,cs.CL,1
+activation,tool,cs.HC,1
+acoustic modulation,method,eess.AS,1
+accuracy transition,task,cs.LG,1
+accuracy,metric,cs.CL,1
+accuracy,metric,cs.AI,1
+acceptance rate,metric,cs.CL,1
+ablated models,model,cs.SE,1
+1d u-net,model,cs.CR,1
+1-regularization,method,stat.ML,1
+zero-shot vision-language models (llms,model,cs.CV,1
+advantage-weighted compactness,method,cs.AI,1
+activation dispersion,metric,cs.CL,1
+alignment criterion,metric,cs.CL,1
+alignment amplification,theory,cs.CL,1
+activation overflow,risk,cs.LG,1
+zero-shot nli,method,cs.CL,1
+zero-shot learning,method,cs.CL,1
+zero-shot evaluation,other,cs.CV,1
+zero-shot attack,other,cs.CV,1
+zero-shot,theory,cs.LG,1
+zero-day detection,task,cs.CR,1
+yolov5,model,cs.LG,1
+xor synergy control,tool,cs.AI,1
+watermarking,application,stat.ML,1
+working memory,model,cs.HC,1
+word-level control,task,eess.AS,1
+word error rate,metric,cs.CL,1
+white-box attack,method,cs.LG,1
+whisper,model,cs.CL,1
+wer,metric,cs.SD,1
+weight decay,method,cs.LG,1
+weak-to-strong generalization,task,cs.LG,1
+weak models,model,cs.LG,1
+wavelet scattering transform,method,eess.SP,1
+watermarking,method,cs.CR,1
+worst-case protection,risk,econ.TH,1
+classical morphology,theory,cs.SD,1
+clarity,metric,cs.CL,1
+cider 0.5iou,metric,cs.CV,1
+ci/cd workflow,task,cs.SE,1
+chi-square law,theory,cs.LG,1
+chemical plausibility,metric,cs.LG,1
+character-level language modeling,application,cs.LG,1
+channel adaptation,method,cs.CV,1
+change detection,task,cs.AI,1
+chamfer distance,metric,cs.CV,1
+b-rep geometric evidence,method,cs.AI,1
+chain-of-thought,other,cs.CL,1
+cer,metric,cs.SD,1
+centroid,model,cs.CV,1
+cell-wise,task,cs.LG,1
+causal mechanism,theory,cs.LG,1
+causal localization,method,cs.CL,1
+causal functions,model,cs.CL,1
+capacity allocation,method,cs.CL,1
+candidate diversity mechanism,theory,cs.LG,1
+camera-centric action,task,cs.CV,1
+calibration-free online error tracking,method,cs.AI,1
+chain-of-thought,task,cs.AI,1
+cognitive states,task,cs.HC,1
+cognitive bias,risk,cs.CL,1
+coding agents,other,cs.LG,1
+code parsing,metric,cs.LG,1
+coarse-to-fine retrieval,method,cs.CL,1
+coalition value,metric,cs.AI,1
+clustered standard errors,metric,cs.CL,1
+cloze-style masked language modeling,method,cs.CL,1
+closed-loop simulator,tool,cs.LG,1
+closed-loop program synthesis,method,cs.CL,1
+closed-loop feedback,method,cs.AI,1
+classification,task,cs.CV,1
+clinicalragengine,tool,cs.AI,1
+clinicalorchestrator,tool,cs.AI,1
+clinical validation,application,cs.CV,1
+clinical research,application,cs.CL,1
+clinical consultations,dataset,cs.CL,1
+clinical alignment metric,metric,cs.LG,1
+click-centric refinement,method,cs.CV,1
+clean tool-use rate,metric,cs.CL,1
+classifier-free guidance (cfg,task,cs.LG,1
+classifier discrimination score (cds,metric,cs.LG,1
+classification metrics,metric,cs.AI,1
+clip,method,cs.LG,1
+bias correction,task,cs.LG,1
+bias,risk,cs.CL,1
+beta nll regression,method,cs.CL,1
+best-arm identification,task,cs.LG,1
+benchmark,theory,cs.CL,1
+benchmark,other,cs.SE,1
+benchmark,other,cs.CL,1
+benchmark,other,cs.AI,1
+benchmark,metric,cs.CV,1
+benchmark,metric,cs.CL,1
+calibration-free,theory,cs.CV,1
+behavioral profile,task,cs.AI,1
+behavioral control,task,cs.LG,1
+behavior leverage imbalance,theory,cs.CL,1
+bccd dataset,dataset,cs.LG,1
+bayesian optimization,method,cond-mat.mtrl-sci,1
+bayesian ceiling,metric,cs.LG,1
+barrier-conditioning,method,cs.LG,1
+barbet,other,cs.SD,1
+band-gap regimes,task,cs.CL,1
+balanced accuracy,metric,cs.CL,1
+backend-specific energy attribution,metric,cs.AR,1
+belief updating,theory,cs.HC,1
+calibration,task,cs.AI,1
+calibrated gate,tool,cs.AI,1
+cad generation,application,cs.AI,1
+byte-pair encoding (bpe,method,cs.CL,1
+brain age,metric,cs.LG,1
+bradley--terry log-odds,model,cs.AI,1
+boundary-aware span representations,model,cs.CL,1
+boundary-aware hard negative mining,method,cs.CV,1
+bound-token mechanism,method,eess.AS,1
+bootstrapping,method,cs.CL,1
+blockage detection,application,cs.LG,1
+bibliographic discovery,task,cs.AI,1
+block-diffusion language model,model,cs.LG,1
+block-based programming,task,cs.AI,1
+blind obedience,risk,cs.SE,1
+black-box evaluation,method,cs.AI,1
+bistability,risk,cs.AI,1
+biopsy acquisition,application,cs.CV,1
+biological systems,application,cs.AI,1
+biodiversity imagery,dataset,cs.CV,1
+binomial generalized estimating equation,method,cs.CL,1
+binary verdict,task,cs.CL,1
+bidirectional causal control,method,cs.AI,1
+block-wise,task,cs.LG,1
+information set monte carlo search,method,cs.LG,1
+information matching,task,cs.LG,1
+information governance,theory,cs.CR,1
+information gain,metric,cs.AI,1
+infinite-width limit,theory,cs.LG,1
+inference-time plasticity,method,cs.AI,1
+inference procedure,method,cs.CL,1
+inference compute,metric,cs.AI,1
+inertial navigation system,tool,cs.RO,1
+inductive biases,theory,cs.LG,1
+electronic-nose signals,metric,cs.CV,1
+induction heads,model,cs.LG,1
+incomplete ecg records,application,cs.LG,1
+inception module,model,cs.LG,1
+in-context learning,task,cs.LG,1
+importance-weighted novelty,metric,cs.CV,1
+importance sampling (is,method,cs.LG,1
+importance sampling,method,cs.CL,1
+imbalance,risk,cs.LG,1
+image-text pairs,dataset,cs.CV,1
+image synthesis,application,cs.CV,1
+image signal processing,task,cs.AI,1
+inductive bias,risk,cs.LG,1
+inverse participation ratio,metric,cs.CL,1
+invalid inputs,risk,cs.SE,1
+intrinsic noise,risk,cs.LG,1
+interpretation difficulty,task,cs.CL,1
+interpretable ai,application,cs.LG,1
+interpretability,application,cs.CL,1
+interpersonal stance,metric,cs.CL,1
+internal state validation,method,cs.AI,1
+internal language modeling,theory,cs.CL,1
+intermediate-state informativeness,task,cs.AI,1
+intermediate representations,other,cs.CV,1
+information-theoretic capacity region,theory,cs.AI,1
+interaction inference,task,cs.SE,1
+inter-view interaction,task,cs.CV,1
+intentrouter,tool,cs.AI,1
+intent-driven dataset,dataset,cs.AI,1
+instruction-tuned model,model,cs.CL,1
+instruction-tuned language models,model,cs.LG,1
+instruction-response pairs,task,cs.CL,1
+instruction-pose aware router,tool,cs.CV,1
+instruction-following failures,risk,cs.CL,1
+instance-level data augmentation,method,cs.CV,1
+innovative solutions,application,cs.AI,1
+interactive dashboard,application,cs.SE,1
+hierarchical task taxonomy,theory,cs.CL,1
+hierarchical search,task,cs.CL,1
+hierarchical question decomposition,method,cs.CV,1
+hierarchical parameter separation,method,cs.CL,1
+hierarchical multi-scale architecture,model,cs.AI,1
+hierarchical modeling,method,cs.CL,1
+hidden-anchor audit,method,cs.LG,1
+hidden states,model,cs.LG,1
+hidden states,model,cs.CV,1
+hidden states,model,cs.CL,1
+image restoration,task,cs.CV,1
+hidden representations,model,cs.CL,1
+hidden activations,model,cs.AI,1
+heteroscedastic identification,theory,cs.LG,1
+heterogeneous relaxation,method,cs.LG,1
+heterogeneous graph,model,cs.LG,1
+heterogeneity-adaptive diffusion schrodinger bridge,method,cs.CV,1
+hermeneutic reasoning,theory,cs.AI,1
+hellinger loss,metric,cs.LG,1
+heaviside gate,theory,cs.AI,1
+headline generation,task,cs.CL,1
+heading-anchor,method,cs.AI,1
+hidden state,task,cs.LG,1
+image classification,task,cs.CV,1
+hyperbolic representation,model,cs.CV,1
+hybrid reward,metric,cs.CV,1
+hybrid retrieval,method,cs.CL,1
+hybrid model,model,cs.LG,1
+hybrid framework,method,cs.AI,1
+human-aware representation,other,cs.RO,1
+human-aligned behavior,other,cs.SE,1
+human-ai coordination,application,cs.AI,1
+human-ai co-creation,method,cs.HC,1
+human validation,method,cs.CL,1
+hierarchical vocabulary routing,method,cs.CR,1
+human interpretation,application,cs.CL,1
+human decision-making,task,cs.AI,1
+hotel review,dataset,cs.NE,1
+homoscedastic uncertainty weighting,theory,cs.CL,1
+homology-controlled gene ontology prediction,task,cs.CL,1
+hmac-sha256 signature,metric,cs.CR,1
+hmac-authenticated qr receipt,metric,cs.CR,1
+high-resolution rgb imagery,dataset,cs.CV,1
+high-loss completions,dataset,cs.CL,1
+high-fidelity,metric,cs.CV,1
+hierarchy-relaxed evaluation,method,cs.LG,1
+human judgment,metric,cs.SE,1
+llama-300m,dataset,cs.DC,1
+llama,model,cs.LG,1
+literature synthesis,task,cs.AI,1
+literature search,tool,cs.AI,1
+linguistic measures,metric,cs.AI,1
+linguistic diversity,task,cs.AI,1
+linearization,method,cs.LG,1
+linear probes,method,cs.LG,1
+linear decoding,method,cs.CL,1
+linear attention,method,cs.LG,1
+inverse reconstruction,task,cs.AI,1
+lifelong user modeling,task,cs.IR,1
+legal professional privilege,risk,cs.CR,1
+legal and ethical compliance,risk,cs.AI,1
+leave one subject out cross-validation,method,eess.SP,1
+learned optimizer,model,cs.LG,1
+learnable spectrum,model,cs.LG,1
+learnable selection,method,cs.CL,1
+layernorm,tool,cs.LG,1
+latent-prediction objective,method,cs.LG,1
+latent programming horizon,theory,cs.LG,1
+latent persona direction,model,cs.CL,1
+limited memory language models,model,cs.CL,1
+long-context understanding,task,cs.CL,1
+logit-based,method,stat.ML,1
+logistic regression probe,tool,cs.LG,1
+logistic regression,model,cs.LG,1
+logical irrelevant factors,theory,cs.CL,1
+logical complexity,theory,cs.AI,1
+logic-based datasets,dataset,cs.MA,1
+visual question-answering,application,cs.CV,1
+localization signals,other,cs.CV,1
+localization,task,cs.SE,1
+local preservation,theory,cs.CL,1
+llama-600m,dataset,cs.DC,1
+local hierarchical algebraic regions,model,cs.LG,1
+local heads,model,cs.LG,1
+local context,metric,cs.CL,1
+load-aware verification,method,cs.AI,1
+llm-based semantic assessment,method,cs.AI,1
+llm-assisted code synthesis,method,cs.DB,1
+llm-as-a-judge,tool,cs.SE,1
+llm-as-a-judge,model,cs.CL,1
+llm,model,cs.SE,1
+llm,model,cs.CR,1
+llm,model,cs.CL,1
+local large language model,model,cs.NE,1
+knowledge graph,model,cs.LG,1
+knowledge distillation,method,cs.RO,1
+knowledge distillation,method,cs.LG,1
+knowledge distillation,method,cs.CL,1
+knowledge base manager,model,cs.AI,1
+knowledge base,dataset,cs.CL,1
+kl regularization,method,cs.AI,1
+kl divergence,metric,cs.CL,1
+keyword filter,other,cs.CR,1
+keyed pseudo-random permutation,method,cs.CR,1
+latent graph encoding,method,cs.LG,1
+judgement-of-learning (jol,task,cs.CL,1
+joint token commitment,method,cs.CL,1
+joint estimation,method,stat.ML,1
+joint ar-diffusion objective,metric,cs.CL,1
+jensen-shannon divergence,metric,cs.CL,1
+jaccard overlap,metric,cs.CL,1
+iterative tool optimization,method,cs.AI,1
+iterative repair,method,cs.SE,1
+iterative refinement,method,cs.AI,1
+iou 0.95 positive labeling,method,cs.CL,1
+iou,metric,cs.CV,1
+kappa statistic,metric,cs.CL,1
+latent generation,task,cs.CV,1
+latent field,model,cs.CL,1
+latent compositional pattern,task,cs.CV,1
+large-language-model,model,eess.SP,1
+large language models (llms,model,cs.AI,1
+large language models (llm,model,cs.CL,1
+large language models,model,cs.MA,1
+large language models,model,cs.CR,1
+large language model (llm,tool,cs.LG,1
+large language model (llm,model,cs.CL,1
+large language model,model,cs.SE,1
+knowledge graph,task,cs.CR,1
+language-guided latent decomposition,method,cs.CV,1
+language resource,risk,cs.CL,1
+language model,model,cs.AI,1
+language and dialect consistency,metric,cs.CL,1
+lagrangian budget constraint,method,cs.LG,1
+label smoothing,method,cs.CL,1
+l1-penalized logistic regression,method,cs.CL,1
+kolmogorov complexity,theory,cs.CL,1
+knowledge-intensive domains,task,cs.MA,1
+knowledge-augmented dataset,dataset,cs.LG,1
+knowledge retrieval,task,cs.CV,1
+large language model,model,cs.CV,1
+failure-driven,theory,cs.CL,1
+failure pattern mining,method,cs.CL,1
+failure modes,task,cs.CV,1
+failure mode classification,method,cs.SE,1
+failure mode,risk,cs.AI,1
+factual reliability,task,cs.CL,1
+factual precision,metric,cs.CL,1
+factual hallucination,risk,cs.CL,1
+factorized draft models,model,cs.LG,1
+f1 score,metric,cs.CV,1
+hateful event detection,task,cs.CL,1
+extraction,task,cs.CR,1
+external-memory latency,risk,cs.CL,1
+external knowledge,model,cs.CL,1
+external corpus,dataset,cs.CL,1
+extended conversational context,dataset,cs.CL,1
+exponential moving average (ema,method,cs.LG,1
+explorer-definer pipeline,method,cs.AI,1
+exploratory data analysis,method,cs.CL,1
+expert-annotated datasets,dataset,cs.CL,1
+expert system,model,cs.LG,1
+experimental design,method,stat.ME,1
+f1 score,metric,cs.CL,1
+fisher-rao distance,metric,cs.LG,1
+finite-horizon,task,cs.LG,1
+finite automaton,theory,cs.LG,1
+fine-tuning,task,cs.PF,1
+fine-tuning,method,cs.LG,1
+fine-tuning,method,cs.CV,1
+fine-grained diagnostic annotations,dataset,cs.CL,1
+fine-grained access control,application,cs.CR,1
+final action,task,cs.CY,1
+filled pause,task,cs.CL,1
+field-resolution tradeoff,theory,cs.LG,1
+faithfulness,metric,cs.CL,1
+few-step distillation,method,cs.CV,1
+few-shot learning,other,cs.CV,1
+few-shot knowledge distillation,task,cs.CV,1
+feeling-of-knowing (fok,task,cs.CL,1
+feedback-based refinement,method,cs.AI,1
+federated learning,application,cs.CR,1
+feddualatt,method,cs.LG,1
+fedavg,method,cs.LG,1
+feature space,other,cs.AI,1
+fast radio burst,task,cs.LG,1
+false positive rate,risk,cs.CV,1
+fidelity,metric,cs.CL,1
+entity familiarity,task,cs.CL,1
+entity extraction,method,cs.CV,1
+entailment,task,cs.CV,1
+energy-based model (ebm,model,cs.LG,1
+energy waste,risk,cs.AR,1
+endpoint representation,model,cs.SE,1
+endogenous loss function,theory,cs.AI,1
+end-to-end workflows,application,cs.AI,1
+end-to-end training,method,cs.LG,1
+encoder-decoder,model,cs.CL,1
+expected calibration error (ece,metric,cs.CV,1
+empirical risk minimization,method,stat.ML,1
+empirical annotator distribution,task,cs.CL,1
+emotional naturalness,metric,cs.CL,1
+emotion distribution,task,cs.CV,1
+emergent misalignment,task,cs.CL,1
+embodied experience,application,cs.CY,1
+embedding techniques,method,cs.CL,1
+embedding models,model,cs.CL,1
+embedding model,metric,cs.CY,1
+embedding,model,cs.CL,1
+elemental and compound phases,task,cs.CL,1
+empirically derived cultural taxonomy,theory,cs.CL,1
+execution,task,cs.CL,1
+executable web application,application,cs.SE,1
+executable verification,method,cs.AI,1
+executable reasoning-action trajectory,task,cs.CV,1
+executable patch validation,task,cs.SE,1
+evidence-grounded pipeline,method,cs.CL,1
+event-based timestamps,method,cs.SD,1
+evaluative pipeline,method,cs.LG,1
+evaluation methodologies,other,cs.IR,1
+evaluation framework,theory,cs.AI,1
+evaluation framework,other,cs.LG,1
+entropy pacing,method,cs.LG,1
+error-state extended kalman filter,model,cs.RO,1
+error rate,metric,cs.CL,1
+error detection,task,cs.SE,1
+error amplification,metric,cs.LG,1
+error accumulation,metric,cs.LG,1
+ergodic theory,theory,stat.ML,1
+equitable performance,metric,cs.AI,1
+epistemic entropy,metric,cs.AI,1
+episodic memory,model,cs.HC,1
+episode failure,risk,cs.AI,1
+epidemic modeling,task,cs.AI,1
+evaluation budgets,metric,cs.LG,1
+graph-theoretic representation,theory,cs.HC,1
+graph theory,theory,cs.LG,1
+graph reasoning,other,cs.CL,1
+graph property functionals,tool,cs.HC,1
+graph propagation module,model,cs.LG,1
+graph convolutional attention,method,cs.LG,1
+graph attention network (gat,model,cs.CV,1
+gradient-boosted tree classifier,tool,cs.CL,1
+gradient-based alignment,method,cs.CL,1
+gradient warfare,risk,cs.LG,1
+fixed-point arithmetic,application,cs.LG,1
+gradient projection,method,cs.LG,1
+gpu--dram--ssd hierarchy,model,cs.CL,1
+gpt-5 series,model,cs.LG,1
+global heads,model,cs.LG,1
+global dependency modeling,task,cs.LG,1
+global convergence,theory,cs.LG,1
+ghost errors,risk,cs.SE,1
+geometry-inductive mixture-of-experts,model,cs.CV,1
+geometry-aware transformation,method,cs.DC,1
+geometry-aware spatiotemporal graph,model,cs.CV,1
+geometric grounding,task,cs.CV,1
+gradient variance,metric,cs.LG,1
+hate,risk,cs.CL,1
+harness mdp,theory,cs.LG,1
+harness maturity score,metric,cs.LG,1
+harness architecture,theory,cs.AI,1
+hardening strategy generation,task,cs.CR,1
+hard-negative sampling,method,cs.CL,1
+hand-eye matrix,model,cs.CV,1
+hallucination penalties,risk,cs.AI,1
+hallucination inference and verification engine (hive,tool,cs.CV,1
+hallucination,risk,cs.SE,1
+hallucination,risk,cs.CV,1
+graphical user interface,tool,cs.CL,1
+hallucination,risk,cs.AI,1
+hallucinated chain-of-thought,risk,cs.AI,1
+grpcompviarep (gcr,theory,cs.LG,1
+group theory,theory,stat.ML,1
+ground-truth matrices,metric,cs.AI,1
+ground truth injection module,tool,cs.AI,1
+grokking,theory,cs.LG,1
+groking,task,cs.LG,1
+gridded observation,dataset,cs.LG,1
+grid-based dominance scoring,method,cs.CV,1
+grb-sympnet,model,cs.RO,1
+hallucination,risk,cs.CL,1
+fully homomorphic encryption,theory,cs.LG,1
+fully convolutional network,model,cs.LG,1
+full-duplex spoken dialogue model,model,cs.CL,1
+full-duplex slms,application,cs.CL,1
+fuel density prediction,task,cs.LG,1
+frozen backbone,model,cs.CL,1
+frequency-matching principle,theory,cs.LG,1
+frequency-domain mixing,theory,cs.LG,1
+framing susceptibility,theory,cs.CL,1
+fractal architecture,model,cs.LG,1
+geometric deep learning,method,stat.ML,1
+fp8,metric,cs.DC,1
+fourier transform,tool,cs.AI,1
+fourier mechanisms,method,cs.LG,1
+forward pass,metric,cs.CL,1
+formatting attacks,risk,cs.CR,1
+formal verification,theory,cs.CL,1
+formal language prover,model,cs.AI,1
+forged amplifying rationale memory attack,other,cs.CR,1
+forensic reconstruction,task,cs.CL,1
+fluency,metric,cs.LG,1
+flow sparsity regularization,other,cs.CL,1
+fr chet mean,method,cs.CL,1
+geometric causal models,model,stat.ML,1
+genetic improvement,application,cs.SE,1
+genetic and reinforcement-learning evolution,method,cs.LG,1
+genetic algorithm,model,cond-mat.mtrl-sci,1
+generative pipeline,method,cs.LG,1
+generative image model,model,cs.CV,1
+generative ai,model,cs.CR,1
+generative adversarial network,model,cs.LG,1
+generation,task,cs.CL,1
+generalized-ridge sympnet,model,cs.RO,1
+generalized estimating equations,method,cs.CL,1
+function class,task,math.ST,1
+gaussian process,model,cs.LG,1
+gated mlp,model,cs.CL,1
+gated linear rnn,model,cs.LG,1
+gated accumulation,method,cs.LG,1
+gamma band,metric,eess.SP,1
+game-playing agent,application,cs.LG,1
+fuzzy cognitive map,task,cs.NE,1
+future confidence distillation,method,cs.CL,1
+fusion tokens,model,cs.CV,1
+functional correctness,metric,cs.SE,1
+functional connectivity,task,cs.LG,1
+generalization,theory,math.ST,1

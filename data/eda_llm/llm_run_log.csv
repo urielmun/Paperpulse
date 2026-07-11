@@ -1,0 +1,4 @@
+﻿run_at,target_months,total_selected,processed_count,skipped_count,failed_count,model_dir
+2026-07-11T13:22:45.996971+00:00,2026-07,3,3,0,0,/home/urie111/AM/models/qwen2_5_7b_instruct
+2026-07-11T13:23:47.489204+00:00,2026-07,3,0,3,0,/home/urie111/AM/models/qwen2_5_7b_instruct
+2026-07-11T14:17:03.197948+00:00,2026-07,300,281,3,16,/home/urie111/AM/models/qwen2_5_7b_instruct

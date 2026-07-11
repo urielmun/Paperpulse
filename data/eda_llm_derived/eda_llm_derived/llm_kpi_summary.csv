@@ -1,0 +1,12 @@
+﻿metric_name,metric_value,metric_description
+llm_total_papers,284,LLM 분석이 완료된 논문 수
+llm_months_covered,1,LLM EDA 대상 월 개수
+llm_latest_month,2026-07,LLM EDA 대상 중 가장 최근 월
+llm_top_paradigm,Reasoning,가장 많이 분류된 연구 패러다임
+llm_top_paradigm_count,75,최상위 연구 패러다임 논문 수
+llm_avg_confidence,0.8937,LLM 분류 confidence 평균
+llm_low_confidence_count,0,confidence < 0.5 논문 수
+llm_total_concepts,1431,LLM이 추출한 고유 핵심 개념 수
+llm_top_concept,large language models,가장 많은 논문에서 추출된 핵심 개념
+llm_top_concept_count,13,최상위 핵심 개념이 등장한 논문 수
+llm_concept_edges,300,Concept co-occurrence edge 수

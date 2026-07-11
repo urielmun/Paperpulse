@@ -1,0 +1,12 @@
+﻿month,rule_primary_paradigm,paper_count,month_total,ratio
+2026-07,Benchmark/Evaluation,123,500,24.6
+2026-07,Multimodal,82,500,16.4
+2026-07,Efficiency/Optimization,68,500,13.6
+2026-07,Agent/Tool Use,62,500,12.4
+2026-07,Alignment/Safety,45,500,9.0
+2026-07,Dataset/Benchmark,41,500,8.2
+2026-07,Theory/Methodology,29,500,5.8
+2026-07,Application,20,500,4.0
+2026-07,Reasoning,14,500,2.8
+2026-07,RAG/Retrieval,10,500,2.0
+2026-07,Other,6,500,1.2

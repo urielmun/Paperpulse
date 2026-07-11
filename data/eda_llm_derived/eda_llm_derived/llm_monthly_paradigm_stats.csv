@@ -1,0 +1,11 @@
+﻿month,primary_paradigm,paper_count,avg_confidence,month_total,ratio,previous_month_count,growth_rate
+2026-07,Reasoning,75,0.8893,284,26.41,0,100.0
+2026-07,Theory/Methodology,44,0.8909,284,15.49,0,100.0
+2026-07,Benchmark/Evaluation,41,0.8951,284,14.44,0,100.0
+2026-07,Alignment/Safety,40,0.895,284,14.08,0,100.0
+2026-07,Efficiency/Optimization,34,0.8912,284,11.97,0,100.0
+2026-07,Agent/Tool Use,23,0.9,284,8.1,0,100.0
+2026-07,Multimodal,13,0.9077,284,4.58,0,100.0
+2026-07,Application,5,0.9,284,1.76,0,100.0
+2026-07,RAG/Retrieval,5,0.9,284,1.76,0,100.0
+2026-07,Dataset/Benchmark,4,0.9,284,1.41,0,100.0

@@ -1,0 +1,1460 @@
+﻿concept_name,concept_type,paper_count,first_month,latest_month
+large language models,model,13,2026-07,2026-07
+large language model,model,10,2026-07,2026-07
+transformer,model,8,2026-07,2026-07
+retrieval-augmented generation,method,7,2026-07,2026-07
+reinforcement learning,method,6,2026-07,2026-07
+multimodal,task,5,2026-07,2026-07
+vision-language model,model,5,2026-07,2026-07
+fine-tuning,method,5,2026-07,2026-07
+hallucination,risk,4,2026-07,2026-07
+hidden states,model,3,2026-07,2026-07
+domain adaptation,method,3,2026-07,2026-07
+llm,model,3,2026-07,2026-07
+language model,model,3,2026-07,2026-07
+macro-f1,metric,3,2026-07,2026-07
+knowledge distillation,method,3,2026-07,2026-07
+transformer-based model,model,3,2026-07,2026-07
+self-distillation,method,3,2026-07,2026-07
+vision-language models,model,3,2026-07,2026-07
+benchmark,other,3,2026-07,2026-07
+alignment,other,2,2026-07,2026-07
+foundation models,model,2,2026-07,2026-07
+on-policy distillation,method,2,2026-07,2026-07
+throughput,metric,2,2026-07,2026-07
+policy gradient,method,2,2026-07,2026-07
+policy optimization,method,2,2026-07,2026-07
+benchmark,metric,2,2026-07,2026-07
+distillation,method,2,2026-07,2026-07
+prompt engineering,method,2,2026-07,2026-07
+language models,model,2,2026-07,2026-07
+f1 score,metric,2,2026-07,2026-07
+factual consistency,metric,2,2026-07,2026-07
+evaluation,other,2,2026-07,2026-07
+diffusion model,model,2,2026-07,2026-07
+supervised fine-tuning,method,2,2026-07,2026-07
+code generation,task,2,2026-07,2026-07
+lora adapters,model,2,2026-07,2026-07
+uncertainty quantification,method,2,2026-07,2026-07
+reward hacking,risk,2,2026-07,2026-07
+majority voting,method,2,2026-07,2026-07
+accuracy,metric,2,2026-07,2026-07
+steering vectors,method,2,2026-07,2026-07
+low-rank adaptation (lora,method,2,2026-07,2026-07
+perplexity,metric,2,2026-07,2026-07
+powerbench,tool,1,2026-07,2026-07
+power status,application,1,2026-07,2026-07
+power analysis,theory,1,2026-07,2026-07
+potential-based reward shaping (pbrs,theory,1,2026-07,2026-07
+posterior belief,theory,1,2026-07,2026-07
+post-training acceleration,method,1,2026-07,2026-07
+post-training,application,1,2026-07,2026-07
+post-solution confidence,metric,1,2026-07,2026-07
+post-rl teacher,model,1,2026-07,2026-07
+pattern recognition,theory,1,2026-07,2026-07
+post-hoc score,metric,1,2026-07,2026-07
+pedagogical rubric,theory,1,2026-07,2026-07
+post hallucination reasoning (phr,task,1,2026-07,2026-07
+position-interpolation-based length generalization,method,1,2026-07,2026-07
+power-calibrated,theory,1,2026-07,2026-07
+principled-vs-statistical distinction,other,1,2026-07,2026-07
+privacy,application,1,2026-07,2026-07
+path planning,task,1,2026-07,2026-07
+primitive skills,task,1,2026-07,2026-07
+pathwise feature transport,method,1,2026-07,2026-07
+price anchoring,method,1,2026-07,2026-07
+pretraining curriculum,theory,1,2026-07,2026-07
+pretrained score network,model,1,2026-07,2026-07
+pretrained audio teacher,model,1,2026-07,2026-07
+pattern matching,task,1,2026-07,2026-07
+predictability,theory,1,2026-07,2026-07
+pattern discovery,task,1,2026-07,2026-07
+predicate-gated state transitions,method,1,2026-07,2026-07
+pre-solution confidence,metric,1,2026-07,2026-07
+pre-generation signals,method,1,2026-07,2026-07
+pragmatic quality,metric,1,2026-07,2026-07
+per-axis normalization,method,1,2026-07,2026-07
+pragmatic framing,risk,1,2026-07,2026-07
+pragmatic ambiguity,task,1,2026-07,2026-07
+preference optimization,method,1,2026-07,2026-07
+policy distillation,method,1,2026-07,2026-07
+polarity-contradiction detection,method,1,2026-07,2026-07
+poisson arrival process,model,1,2026-07,2026-07
+point-cloud manifold,model,1,2026-07,2026-07
+point cloud evolution,task,1,2026-07,2026-07
+podcast feed,dataset,1,2026-07,2026-07
+planning compilation,method,1,2026-07,2026-07
+planning,other,1,2026-07,2026-07
+percentile-aware layerwise sparsity,method,1,2026-07,2026-07
+pet-guided noise modulation module,tool,1,2026-07,2026-07
+plan-like internal representation,theory,1,2026-07,2026-07
+phase-based freeze schedule,method,1,2026-07,2026-07
+pixel-level segmentation mask,tool,1,2026-07,2026-07
+physics-guided machine learning,theory,1,2026-07,2026-07
+physical laws,application,1,2026-07,2026-07
+physics-audited agentic sciml,method,1,2026-07,2026-07
+physics requirements,theory,1,2026-07,2026-07
+physical plausibility,other,1,2026-07,2026-07
+planner behavior,other,1,2026-07,2026-07
+position estimation,metric,1,2026-07,2026-07
+position embedding,theory,1,2026-07,2026-07
+port-based cad assembly library,method,1,2026-07,2026-07
+population profile,method,1,2026-07,2026-07
+population misalignment,risk,1,2026-07,2026-07
+polyworkbench,other,1,2026-07,2026-07
+polysemanticity,risk,1,2026-07,2026-07
+perceptual stages,task,1,2026-07,2026-07
+policy gradients,theory,1,2026-07,2026-07
+performance-relevant diff hunks,task,1,2026-07,2026-07
+pollution protocol,dataset,1,2026-07,2026-07
+perplexity degradation,metric,1,2026-07,2026-07
+persistent homology,theory,1,2026-07,2026-07
+political orientation,application,1,2026-07,2026-07
+policy optimization target,theory,1,2026-07,2026-07
+personal ai agents,application,1,2026-07,2026-07
+perturbation discrimination score (pds,metric,1,2026-07,2026-07
+policy loss,metric,1,2026-07,2026-07
+polynomial approximations,method,1,2026-07,2026-07
+recursive prompt bank,model,1,2026-07,2026-07
+recurring workflows,task,1,2026-07,2026-07
+recurrent soft-flow,method,1,2026-07,2026-07
+reconstruction-aware,method,1,2026-07,2026-07
+recommendation generation,application,1,2026-07,2026-07
+reasoning-free inference,other,1,2026-07,2026-07
+reasoning-active training,other,1,2026-07,2026-07
+reasoning traces,task,1,2026-07,2026-07
+reasoning guard,other,1,2026-07,2026-07
+path-dependent tension resolution,theory,1,2026-07,2026-07
+realistic coding contexts,task,1,2026-07,2026-07
+real-world end-to-end working demands,task,1,2026-07,2026-07
+readability,metric,1,2026-07,2026-07
+ray and wave optics,task,1,2026-07,2026-07
+rational inattention,theory,1,2026-07,2026-07
+rate-of-spread estimation,metric,1,2026-07,2026-07
+rank-r subspace,task,1,2026-07,2026-07
+rank-1 orthogonal projections,method,1,2026-07,2026-07
+random sampling map,method,1,2026-07,2026-07
+random neural network,model,1,2026-07,2026-07
+reasoning dynamics,metric,1,2026-07,2026-07
+repeated execution protocol,method,1,2026-07,2026-07
+relevance anchor,model,1,2026-07,2026-07
+rejection sampling,theory,1,2026-07,2026-07
+rejection fine-tuning,method,1,2026-07,2026-07
+reinforcement learning from verifiable rewards (rlvr,method,1,2026-07,2026-07
+reinforcement learning,theory,1,2026-07,2026-07
+reinforcement learning,application,1,2026-07,2026-07
+reinforcement fine-tuning,method,1,2026-07,2026-07
+regulation-aware ai,theory,1,2026-07,2026-07
+redsm5,dataset,1,2026-07,2026-07
+region of interest,task,1,2026-07,2026-07
+region context embeddings,task,1,2026-07,2026-07
+regime-dependent failure,risk,1,2026-07,2026-07
+regex-based constraint,tool,1,2026-07,2026-07
+refusal behavior,other,1,2026-07,2026-07
+refusal,application,1,2026-07,2026-07
+reflective orchestrator,method,1,2026-07,2026-07
+reference-free,model,1,2026-07,2026-07
+reed-solomon code,method,1,2026-07,2026-07
+redundant meta-training compute,method,1,2026-07,2026-07
+regression model,method,1,2026-07,2026-07
+proposal trees,task,1,2026-07,2026-07
+proof-mechanism,task,1,2026-07,2026-07
+prompt-optimized parameter shaking,method,1,2026-07,2026-07
+prompt robustness,theory,1,2026-07,2026-07
+prompt optimization,method,1,2026-07,2026-07
+prompt construction,risk,1,2026-07,2026-07
+prompt complexity,theory,1,2026-07,2026-07
+prompt category,task,1,2026-07,2026-07
+projective techniques,task,1,2026-07,2026-07
+random forest,method,1,2026-07,2026-07
+program evolution,task,1,2026-07,2026-07
+program analysis,tool,1,2026-07,2026-07
+production traffic,metric,1,2026-07,2026-07
+process model generation,task,1,2026-07,2026-07
+probability capacity (cap,theory,1,2026-07,2026-07
+privileged information,risk,1,2026-07,2026-07
+privileged context,method,1,2026-07,2026-07
+private intent,task,1,2026-07,2026-07
+privacy-utility orthogonality,theory,1,2026-07,2026-07
+privacy classifier,tool,1,2026-07,2026-07
+program synthesis,task,1,2026-07,2026-07
+qwen,model,1,2026-07,2026-07
+question-type-specific inference,method,1,2026-07,2026-07
+query-key projections,task,1,2026-07,2026-07
+quantitative data extraction,method,1,2026-07,2026-07
+quantisation,method,1,2026-07,2026-07
+quality-filtered trajectory distillation,method,1,2026-07,2026-07
+quality scorer,metric,1,2026-07,2026-07
+quality rubric,metric,1,2026-07,2026-07
+quadrotor,application,1,2026-07,2026-07
+pure reasoning,other,1,2026-07,2026-07
+proprioceptive vehicle localization,task,1,2026-07,2026-07
+public announcement,task,1,2026-07,2026-07
+pubhealthbench,dataset,1,2026-07,2026-07
+psychometric battery,method,1,2026-07,2026-07
+pseudo frames,dataset,1,2026-07,2026-07
+pruning,method,1,2026-07,2026-07
+pruning,application,1,2026-07,2026-07
+proxy score,metric,1,2026-07,2026-07
+prototypical contrastive learning,method,1,2026-07,2026-07
+protocolmanager,tool,1,2026-07,2026-07
+prosodic segmentation,task,1,2026-07,2026-07
+pullback metrics,method,1,2026-07,2026-07
+multi-buyer markets,application,1,2026-07,2026-07
+multi-bit watermarking,method,1,2026-07,2026-07
+multi-agent systems,theory,1,2026-07,2026-07
+multi-agent pipeline,method,1,2026-07,2026-07
+multi-agent mathematical reasoning,theory,1,2026-07,2026-07
+multi-agent llm safety,application,1,2026-07,2026-07
+multi-agent coordination,application,1,2026-07,2026-07
+multi-agent architecture,model,1,2026-07,2026-07
+motion latents,other,1,2026-07,2026-07
+moral decisiveness,theory,1,2026-07,2026-07
+renyi entropy,metric,1,2026-07,2026-07
+monoid extension,theory,1,2026-07,2026-07
+monocular depth estimation,method,1,2026-07,2026-07
+moe llm,model,1,2026-07,2026-07
+moe,model,1,2026-07,2026-07
+modular instruction memory,model,1,2026-07,2026-07
+model-relative text compression,theory,1,2026-07,2026-07
+model failure modes,risk,1,2026-07,2026-07
+modality interference,risk,1,2026-07,2026-07
+mobilenetv2,model,1,2026-07,2026-07
+mobile llm inference,task,1,2026-07,2026-07
+monotonic improvement,theory,1,2026-07,2026-07
+multi-turn interaction,task,1,2026-07,2026-07
+multi-token localized attention (mtla,method,1,2026-07,2026-07
+multi-task reinforcement learning,task,1,2026-07,2026-07
+multi-step derivation,risk,1,2026-07,2026-07
+multi-stage reasoning,method,1,2026-07,2026-07
+multi-seed study,method,1,2026-07,2026-07
+multi-scale transformer,model,1,2026-07,2026-07
+multi-resolution,method,1,2026-07,2026-07
+multi-model blending,method,1,2026-07,2026-07
+multi-modality machine unlearning,theory,1,2026-07,2026-07
+multi-channel spread-spectrum watermarking,method,1,2026-07,2026-07
+multi-modal input,other,1,2026-07,2026-07
+multi-llm arena,tool,1,2026-07,2026-07
+multi-label span classification,task,1,2026-07,2026-07
+multi-label formulation,model,1,2026-07,2026-07
+multi-hop qa,dataset,1,2026-07,2026-07
+multi-gpu,tool,1,2026-07,2026-07
+multi-fidelity framework,theory,1,2026-07,2026-07
+multi-dimensional reward shaping,method,1,2026-07,2026-07
+multi-dimensional annotation,metric,1,2026-07,2026-07
+multi-class formulation,model,1,2026-07,2026-07
+multi-modal representation,other,1,2026-07,2026-07
+mass-conserving fuel transport,metric,1,2026-07,2026-07
+masked sequence,task,1,2026-07,2026-07
+masked language model,model,1,2026-07,2026-07
+mask-conditioned,method,1,2026-07,2026-07
+market discovery,task,1,2026-07,2026-07
+market coupling,task,1,2026-07,2026-07
+marker-gated coordination pass,method,1,2026-07,2026-07
+manual labeling,method,1,2026-07,2026-07
+manipulation policies,application,1,2026-07,2026-07
+mamba,model,1,2026-07,2026-07
+mmlu,other,1,2026-07,2026-07
+machine-checkable,tool,1,2026-07,2026-07
+machine translation,tool,1,2026-07,2026-07
+machine representation reconstruction,method,1,2026-07,2026-07
+lyapunov function,theory,1,2026-07,2026-07
+low-rank temporal adapters,model,1,2026-07,2026-07
+low-rank peft,method,1,2026-07,2026-07
+low-precision gradient communication,method,1,2026-07,2026-07
+low-latency path,model,1,2026-07,2026-07
+low-capacity evaluation channel,model,1,2026-07,2026-07
+lora fine-tune,method,1,2026-07,2026-07
+mahalanobis distance scores,metric,1,2026-07,2026-07
+mmd,method,1,2026-07,2026-07
+ml-based model selection,method,1,2026-07,2026-07
+mixture-of-models,model,1,2026-07,2026-07
+mixture of beta distribution,model,1,2026-07,2026-07
+mixed-mode rollout,method,1,2026-07,2026-07
+misalignment,risk,1,2026-07,2026-07
+minority class,task,1,2026-07,2026-07
+minimum covariance determinant (mcd,method,1,2026-07,2026-07
+minimax-regret,metric,1,2026-07,2026-07
+meta-learning,theory,1,2026-07,2026-07
+mass-shell constraint,theory,1,2026-07,2026-07
+memory-guided generation,method,1,2026-07,2026-07
+memory poisoning,risk,1,2026-07,2026-07
+memorization window,metric,1,2026-07,2026-07
+medical figure classification,task,1,2026-07,2026-07
+mechanistic interpretability,theory,1,2026-07,2026-07
+measurement validity,other,1,2026-07,2026-07
+mean-field residual-scaling law,theory,1,2026-07,2026-07
+mean-field posterior,model,1,2026-07,2026-07
+matthews correlation coefficient (mcc,metric,1,2026-07,2026-07
+mathematical reasoning,task,1,2026-07,2026-07
+mentalroberta,model,1,2026-07,2026-07
+open web search,method,1,2026-07,2026-07
+open problems,task,1,2026-07,2026-07
+ontology-based synonym matching,method,1,2026-07,2026-07
+one-dimensional transformer autoencoder,model,1,2026-07,2026-07
+on-policy token,model,1,2026-07,2026-07
+on-policy,method,1,2026-07,2026-07
+olfaction,application,1,2026-07,2026-07
+offloading and quantization strategies,method,1,2026-07,2026-07
+offline reinforcement learning,method,1,2026-07,2026-07
+offline recurrent loop,method,1,2026-07,2026-07
+multi-view context,task,1,2026-07,2026-07
+off-policy training,task,1,2026-07,2026-07
+observer option12,tool,1,2026-07,2026-07
+object detection,task,1,2026-07,2026-07
+nurc-sp dataset,dataset,1,2026-07,2026-07
+nucleus accumbens,model,1,2026-07,2026-07
+novelty profile,metric,1,2026-07,2026-07
+novelty claim,metric,1,2026-07,2026-07
+normal-inverse-gamma distribution,metric,1,2026-07,2026-07
+nonlinear effects,theory,1,2026-07,2026-07
+nli,theory,1,2026-07,2026-07
+offline construction,method,1,2026-07,2026-07
+pass 2,metric,1,2026-07,2026-07
+partial observability,task,1,2026-07,2026-07
+part segmentation,task,1,2026-07,2026-07
+parametric component factories,application,1,2026-07,2026-07
+parameter-efficient fine-tuning (peft,method,1,2026-07,2026-07
+pangolintokenizer,other,1,2026-07,2026-07
+pandasqueryengine,tool,1,2026-07,2026-07
+paired significance tests,metric,1,2026-07,2026-07
+output cardinality,metric,1,2026-07,2026-07
+outcome reward,metric,1,2026-07,2026-07
+open-source detectors,application,1,2026-07,2026-07
+oracle,model,1,2026-07,2026-07
+optimizer state,task,1,2026-07,2026-07
+optimization context,task,1,2026-07,2026-07
+optimal transport divergence,theory,1,2026-07,2026-07
+optimal policy,other,1,2026-07,2026-07
+operational reframing,risk,1,2026-07,2026-07
+operating point,metric,1,2026-07,2026-07
+openapi specification,dataset,1,2026-07,2026-07
+open-source smaller language models (os-sllms,model,1,2026-07,2026-07
+open-source llms,tool,1,2026-07,2026-07
+ordinary least squares fit,method,1,2026-07,2026-07
+multimodal scientific foundation model,model,1,2026-07,2026-07
+multimodal retrieval,method,1,2026-07,2026-07
+multimodal representation,model,1,2026-07,2026-07
+multimodal pattern,metric,1,2026-07,2026-07
+multimodal large language models,model,1,2026-07,2026-07
+multimodal large language model (mllm,model,1,2026-07,2026-07
+multimodal interaction,other,1,2026-07,2026-07
+multimodal generative framework,model,1,2026-07,2026-07
+multimodal generation,task,1,2026-07,2026-07
+multimodal entropy structure,theory,1,2026-07,2026-07
+neuron-level interventions,method,1,2026-07,2026-07
+multimodal,other,1,2026-07,2026-07
+multimodal,application,1,2026-07,2026-07
+multilingual transcripts,dataset,1,2026-07,2026-07
+multilingual long-horizon llm agents,application,1,2026-07,2026-07
+multilingual access,tool,1,2026-07,2026-07
+multilingual ability,application,1,2026-07,2026-07
+multilingual,task,1,2026-07,2026-07
+multifactor scoring system,theory,1,2026-07,2026-07
+multidimensional protocol,method,1,2026-07,2026-07
+multicultural,task,1,2026-07,2026-07
+multimodal alignment,task,1,2026-07,2026-07
+neuron selectors,model,1,2026-07,2026-07
+neural network modifications,task,1,2026-07,2026-07
+neural fictitious self-play,method,1,2026-07,2026-07
+ndcg,metric,1,2026-07,2026-07
+naturalistic online setting,application,1,2026-07,2026-07
+natural-language justification,method,1,2026-07,2026-07
+natural-language i/o,task,1,2026-07,2026-07
+natural-language datasets,dataset,1,2026-07,2026-07
+natural-gradient update,method,1,2026-07,2026-07
+natural world,application,1,2026-07,2026-07
+multiple-comparison correction,theory,1,2026-07,2026-07
+natural language prover,model,1,2026-07,2026-07
+natural language processing (nlp,task,1,2026-07,2026-07
+natural language processing,tool,1,2026-07,2026-07
+natural language processing,task,1,2026-07,2026-07
+natural language explanation,application,1,2026-07,2026-07
+native structural reasoning,method,1,2026-07,2026-07
+nas,theory,1,2026-07,2026-07
+narrative generation,application,1,2026-07,2026-07
+mutual transformer,model,1,2026-07,2026-07
+mutation taxonomy,theory,1,2026-07,2026-07
+mupe-diversidades dataset,dataset,1,2026-07,2026-07
+natural language specification,application,1,2026-07,2026-07
+threat score,metric,1,2026-07,2026-07
+thinking residual,theory,1,2026-07,2026-07
+thinking models,model,1,2026-07,2026-07
+thermal-airflow perturbation,other,1,2026-07,2026-07
+textual dependency graph,model,1,2026-07,2026-07
+text-to-video diffusion transformer,model,1,2026-07,2026-07
+text-to-sql,task,1,2026-07,2026-07
+text-to-cad,task,1,2026-07,2026-07
+text summarization,task,1,2026-07,2026-07
+test suite,metric,1,2026-07,2026-07
+residual variance,metric,1,2026-07,2026-07
+test effectiveness,metric,1,2026-07,2026-07
+tensor program,theory,1,2026-07,2026-07
+temporal encoder,model,1,2026-07,2026-07
+temporal drift,metric,1,2026-07,2026-07
+temporal discourse reasoning,task,1,2026-07,2026-07
+temporal convolution module,model,1,2026-07,2026-07
+temporal analysis,method,1,2026-07,2026-07
+template accuracy,metric,1,2026-07,2026-07
+telegram posts,application,1,2026-07,2026-07
+teacher-student model,model,1,2026-07,2026-07
+test oracles,task,1,2026-07,2026-07
+top-term analyses,other,1,2026-07,2026-07
+top-k marginals,metric,1,2026-07,2026-07
+toolset,tool,1,2026-07,2026-07
+toolfailbench,other,1,2026-07,2026-07
+tool-use failures,task,1,2026-07,2026-07
+tool-augmented agent,model,1,2026-07,2026-07
+tool use,application,1,2026-07,2026-07
+tool resampling,method,1,2026-07,2026-07
+tool discovery,task,1,2026-07,2026-07
+tool composition,task,1,2026-07,2026-07
+threshold check,metric,1,2026-07,2026-07
+token-level signals,task,1,2026-07,2026-07
+token-level explanation,method,1,2026-07,2026-07
+token-level clipping,method,1,2026-07,2026-07
+token-centric dual-view learning,method,1,2026-07,2026-07
+token-adaptive cache compression,method,1,2026-07,2026-07
+token log probability,metric,1,2026-07,2026-07
+timestep schedules,task,1,2026-07,2026-07
+time-series forecasting,task,1,2026-07,2026-07
+time-conditioned velocity field,model,1,2026-07,2026-07
+time-agnostic propagation,method,1,2026-07,2026-07
+time series classification,task,1,2026-07,2026-07
+tool call,task,1,2026-07,2026-07
+sycophancy,other,1,2026-07,2026-07
+svm classifier,method,1,2026-07,2026-07
+surrogate models,model,1,2026-07,2026-07
+surrogate modeling,method,1,2026-07,2026-07
+surrogate model,model,1,2026-07,2026-07
+surplus extraction,task,1,2026-07,2026-07
+supervised training,method,1,2026-07,2026-07
+supervised fine-tuning,application,1,2026-07,2026-07
+superquadric primitive,model,1,2026-07,2026-07
+superposition,risk,1,2026-07,2026-07
+teacher-student framework,method,1,2026-07,2026-07
+subword vocabulary,task,1,2026-07,2026-07
+subspace non-identifiability,risk,1,2026-07,2026-07
+sub-instructions,model,1,2026-07,2026-07
+sub-goal embeddings,model,1,2026-07,2026-07
+structured token-level communication,method,1,2026-07,2026-07
+structured safety labels,other,1,2026-07,2026-07
+structured radio frequency interference,task,1,2026-07,2026-07
+structured newton layer parallelism,method,1,2026-07,2026-07
+structured iteration workflow,method,1,2026-07,2026-07
+structured feedback,tool,1,2026-07,2026-07
+super-resolution,task,1,2026-07,2026-07
+task-semantic field factorization,method,1,2026-07,2026-07
+task-rubric rewards,metric,1,2026-07,2026-07
+task-relevant computations,task,1,2026-07,2026-07
+task-oriented scenarios,dataset,1,2026-07,2026-07
+task constraints,risk,1,2026-07,2026-07
+tabular classifier,tool,1,2026-07,2026-07
+table qa,task,1,2026-07,2026-07
+table insight,task,1,2026-07,2026-07
+systems development life cycle (sdlc,theory,1,2026-07,2026-07
+synthetic labeling,task,1,2026-07,2026-07
+symbolic attribute graph,model,1,2026-07,2026-07
+synthetic content analysis,task,1,2026-07,2026-07
+synthetic consumer data,dataset,1,2026-07,2026-07
+synthetic cohort,dataset,1,2026-07,2026-07
+syntactic quality,metric,1,2026-07,2026-07
+syntactic attacks,risk,1,2026-07,2026-07
+synchronized trajectory,task,1,2026-07,2026-07
+synaptic rule,method,1,2026-07,2026-07
+symplectic learning,theory,1,2026-07,2026-07
+symmetric positive definite (spd) manifold,theory,1,2026-07,2026-07
+symmetric noise objective,theory,1,2026-07,2026-07
+symbolic bootstraps,metric,1,2026-07,2026-07
+synthetic fog generation,task,1,2026-07,2026-07
+unified multimodal model,model,1,2026-07,2026-07
+uncertainty-driven selective refinement,method,1,2026-07,2026-07
+unbounded positive asymmetric optimization (up,method,1,2026-07,2026-07
+ucr archive,dataset,1,2026-07,2026-07
+uav imagery,dataset,1,2026-07,2026-07
+ablated models,model,1,2026-07,2026-07
+anov,method,1,2026-07,2026-07
+annotation guidelines,theory,1,2026-07,2026-07
+anhedonia,risk,1,2026-07,2026-07
+anatomical validation,other,1,2026-07,2026-07
+topic models,model,1,2026-07,2026-07
+analytical jacobian,method,1,2026-07,2026-07
+alignment criterion,metric,1,2026-07,2026-07
+alignment amplification,theory,1,2026-07,2026-07
+alignment,theory,1,2026-07,2026-07
+alignment,method,1,2026-07,2026-07
+aligned models,model,1,2026-07,2026-07
+algebraic structure,task,1,2026-07,2026-07
+ai-native sql,task,1,2026-07,2026-07
+agentic framework,tool,1,2026-07,2026-07
+agentic ai,model,1,2026-07,2026-07
+analytical workflow,application,1,2026-07,2026-07
+visual question answering,task,1,2026-07,2026-07
+visual imagination,task,1,2026-07,2026-07
+visual alignment reward,other,1,2026-07,2026-07
+vision-language,application,1,2026-07,2026-07
+vision foundation models,model,1,2026-07,2026-07
+video2reaction,dataset,1,2026-07,2026-07
+video diffusion models,model,1,2026-07,2026-07
+vex vr,application,1,2026-07,2026-07
+verification-first workflow,method,1,2026-07,2026-07
+verification-first execution framework,method,1,2026-07,2026-07
+unigram-lm,method,1,2026-07,2026-07
+verifiable rewards,metric,1,2026-07,2026-07
+vendorbench-100,other,1,2026-07,2026-07
+vector field,model,1,2026-07,2026-07
+variational source condition,theory,1,2026-07,2026-07
+variational autoencoder,model,1,2026-07,2026-07
+variable semantics,theory,1,2026-07,2026-07
+variable naming conventions,method,1,2026-07,2026-07
+value alignment,theory,1,2026-07,2026-07
+utility-aligned canonical decomposition,method,1,2026-07,2026-07
+utility classifier,tool,1,2026-07,2026-07
+1d u-net,model,1,2026-07,2026-07
+verification,task,1,2026-07,2026-07
+transformer-based topic modeling,method,1,2026-07,2026-07
+transformer-based models,model,1,2026-07,2026-07
+transformer-based architectures,model,1,2026-07,2026-07
+transformer encoder,model,1,2026-07,2026-07
+transformer decoder,model,1,2026-07,2026-07
+transformer circuit analysis,method,1,2026-07,2026-07
+transformer attention heads,model,1,2026-07,2026-07
+transformer attention,model,1,2026-07,2026-07
+transformer architecture,model,1,2026-07,2026-07
+transfer learning,theory,1,2026-07,2026-07
+agent-based verification,method,1,2026-07,2026-07
+trajectory-aware benchmarks,other,1,2026-07,2026-07
+trajectory planning,task,1,2026-07,2026-07
+training-set coverage,metric,1,2026-07,2026-07
+training-free,method,1,2026-07,2026-07
+training epochs,task,1,2026-07,2026-07
+tracking,task,1,2026-07,2026-07
+trace analysis,method,1,2026-07,2026-07
+tpc-h benchmark,other,1,2026-07,2026-07
+topological continuity,theory,1,2026-07,2026-07
+topic-conditional layer normalization,method,1,2026-07,2026-07
+transaction history,dataset,1,2026-07,2026-07
+agent-based pipeline,method,1,2026-07,2026-07
+agent-based modeling,model,1,2026-07,2026-07
+agent-assisted recommendation,application,1,2026-07,2026-07
+agent-as-user-simulator,application,1,2026-07,2026-07
+agent-as-recommender,application,1,2026-07,2026-07
+agent optimization,application,1,2026-07,2026-07
+zero-shot vision-language models (llms,model,1,2026-07,2026-07
+agent,tool,1,2026-07,2026-07
+adversarial vulnerability,risk,1,2026-07,2026-07
+adversarial strategy,method,1,2026-07,2026-07
+transformer-based vision-language models,model,1,2026-07,2026-07
+advantage-weighted separation,method,1,2026-07,2026-07
+advantage-weighted regression,method,1,2026-07,2026-07
+advantage-weighted ranking loss,method,1,2026-07,2026-07
+u-net,model,1,2026-07,2026-07
+typing,task,1,2026-07,2026-07
+trust region policy distillation,method,1,2026-07,2026-07
+truncated reasoning auc evaluation (trace,method,1,2026-07,2026-07
+tri-mode language model,model,1,2026-07,2026-07
+tree-verification,method,1,2026-07,2026-07
+tree-structured rollout,method,1,2026-07,2026-07
+tree-of-thoughts (tot,method,1,2026-07,2026-07
+adversarial attack,other,1,2026-07,2026-07
+self-play,task,1,2026-07,2026-07
+self-play,method,1,2026-07,2026-07
+self-evolution module,model,1,2026-07,2026-07
+self-attention mechanisms,model,1,2026-07,2026-07
+selective disclosure,method,1,2026-07,2026-07
+segmentation,task,1,2026-07,2026-07
+security metrics evaluation,metric,1,2026-07,2026-07
+security governance,theory,1,2026-07,2026-07
+section-aware relevance scoring,method,1,2026-07,2026-07
+search-routing,task,1,2026-07,2026-07
+structured canonical lift,method,1,2026-07,2026-07
+scl,method,1,2026-07,2026-07
+sci error taxonomy,theory,1,2026-07,2026-07
+scene-conditioned negative prompts,method,1,2026-07,2026-07
+scene descriptors,task,1,2026-07,2026-07
+scene classification,task,1,2026-07,2026-07
+scalable framework,theory,1,2026-07,2026-07
+scalable bayesian inference,method,1,2026-07,2026-07
+scaffold,application,1,2026-07,2026-07
+sampling,method,1,2026-07,2026-07
+sample efficiency,metric,1,2026-07,2026-07
+seamless interaction corpus,dataset,1,2026-07,2026-07
+sentiment analysis,task,1,2026-07,2026-07
+sentiment analysis,application,1,2026-07,2026-07
+sentence transformer,model,1,2026-07,2026-07
+semi-autoregressive architecture,model,1,2026-07,2026-07
+semantically equivalent code patterns,method,1,2026-07,2026-07
+semantic stages,task,1,2026-07,2026-07
+semantic segmentation,method,1,2026-07,2026-07
+semantic quality,metric,1,2026-07,2026-07
+semantic homogenization,theory,1,2026-07,2026-07
+semantic distortion,risk,1,2026-07,2026-07
+self-reported diagnosis,task,1,2026-07,2026-07
+semantic corruption,risk,1,2026-07,2026-07
+semantic annotation,task,1,2026-07,2026-07
+semantic alignment channel,tool,1,2026-07,2026-07
+self-supervised transformer,model,1,2026-07,2026-07
+self-supervised pretraining,method,1,2026-07,2026-07
+self-supervised learning,theory,1,2026-07,2026-07
+self-supervised learning,method,1,2026-07,2026-07
+self-supervised encoder,model,1,2026-07,2026-07
+self-speculation decoding,task,1,2026-07,2026-07
+self-similarity,theory,1,2026-07,2026-07
+self-review,method,1,2026-07,2026-07
+semantic coverage,metric,1,2026-07,2026-07
+reward signal stationarity,theory,1,2026-07,2026-07
+reward shaping,method,1,2026-07,2026-07
+reward function design,method,1,2026-07,2026-07
+reversibility,risk,1,2026-07,2026-07
+retrosynthesis accuracy,metric,1,2026-07,2026-07
+retrosynthesis,task,1,2026-07,2026-07
+retrieval,task,1,2026-07,2026-07
+retrieval,method,1,2026-07,2026-07
+restoration quality,metric,1,2026-07,2026-07
+response latency,metric,1,2026-07,2026-07
+safetyverifier,tool,1,2026-07,2026-07
+resource creation,method,1,2026-07,2026-07
+lora,model,1,2026-07,2026-07
+residual streams,model,1,2026-07,2026-07
+research ideation,task,1,2026-07,2026-07
+requirement disambiguation,task,1,2026-07,2026-07
+reproducing kernel hilbert space,model,1,2026-07,2026-07
+reproducibility,metric,1,2026-07,2026-07
+representation sharing,metric,1,2026-07,2026-07
+repository enrichment,method,1,2026-07,2026-07
+repeated games,other,1,2026-07,2026-07
+resource-constrained embedded device,application,1,2026-07,2026-07
+safety guardrails,tool,1,2026-07,2026-07
+safety,other,1,2026-07,2026-07
+runbugrun dataset,dataset,1,2026-07,2026-07
+rule-following behavior,application,1,2026-07,2026-07
+rule discovery,task,1,2026-07,2026-07
+routing,method,1,2026-07,2026-07
+rotational sweep videos,dataset,1,2026-07,2026-07
+rotary position embeddings (rope,model,1,2026-07,2026-07
+rollout-guided progressive hard-case optimization,other,1,2026-07,2026-07
+rollout policy optimization,method,1,2026-07,2026-07
+reward valuation,task,1,2026-07,2026-07
+role-aware encoding,method,1,2026-07,2026-07
+role factorization,method,1,2026-07,2026-07
+roc-auc,metric,1,2026-07,2026-07
+robustness,risk,1,2026-07,2026-07
+rl gym,tool,1,2026-07,2026-07
+rl benchmark,other,1,2026-07,2026-07
+rl (reinforcement learning,other,1,2026-07,2026-07
+risk-controlled selective answering,method,1,2026-07,2026-07
+risk score,metric,1,2026-07,2026-07
+riemannian mean pooling,method,1,2026-07,2026-07
+reward-swap,method,1,2026-07,2026-07
+role-based policy,theory,1,2026-07,2026-07
+stance detection,task,1,2026-07,2026-07
+stability measures,metric,1,2026-07,2026-07
+square-free modular multiplication,task,1,2026-07,2026-07
+spike detection,task,1,2026-07,2026-07
+speech-to-text alignment,task,1,2026-07,2026-07
+speech recognition,task,1,2026-07,2026-07
+speech intelligence,metric,1,2026-07,2026-07
+speculative decoding,method,1,2026-07,2026-07
+spectral preprocessing,method,1,2026-07,2026-07
+spectral entropy,metric,1,2026-07,2026-07
+sentiment and emotion classification,method,1,2026-07,2026-07
+spectral control,theory,1,2026-07,2026-07
+spectral attention,method,1,2026-07,2026-07
+specification-derived authority,theory,1,2026-07,2026-07
+specification grounding,theory,1,2026-07,2026-07
+speaker-separated dialogue speech,task,1,2026-07,2026-07
+spatiotemporal neural models,model,1,2026-07,2026-07
+spatiotemporal manifold sampling,method,1,2026-07,2026-07
+spatiotemporal analysis,task,1,2026-07,2026-07
+spatio-temporal encoder,model,1,2026-07,2026-07
+spatio-temporal embedding,task,1,2026-07,2026-07
+spectral decomposition,method,1,2026-07,2026-07
+structure-aware vocabulary,model,1,2026-07,2026-07
+structural tension,theory,1,2026-07,2026-07
+structural metrics,metric,1,2026-07,2026-07
+structural grading,method,1,2026-07,2026-07
+structural and functional mri,dataset,1,2026-07,2026-07
+stratified train-validation split,method,1,2026-07,2026-07
+strategic bargaining,task,1,2026-07,2026-07
+stop-gradient operator,method,1,2026-07,2026-07
+stochastic token steering (sts,method,1,2026-07,2026-07
+stochastic model-discovery operator,model,1,2026-07,2026-07
+standard operating procedures (sop,task,1,2026-07,2026-07
+stochastic block models,task,1,2026-07,2026-07
+stiefel layer,model,1,2026-07,2026-07
+step-level reward,method,1,2026-07,2026-07
+steering vector,other,1,2026-07,2026-07
+statistical prevalence,metric,1,2026-07,2026-07
+statistical inverse learning,theory,1,2026-07,2026-07
+station observation,dataset,1,2026-07,2026-07
+state-management complexity,metric,1,2026-07,2026-07
+state-coherent screenshot set,dataset,1,2026-07,2026-07
+state memory capacity,metric,1,2026-07,2026-07
+star rating,metric,1,2026-07,2026-07
+stochastic block steering (sbs,method,1,2026-07,2026-07
+smart home configuration,application,1,2026-07,2026-07
+small language model,model,1,2026-07,2026-07
+sketching,method,1,2026-07,2026-07
+singular vectors,method,1,2026-07,2026-07
+singular value decomposition (svd,method,1,2026-07,2026-07
+single-view,theory,1,2026-07,2026-07
+single-rollout sampling,method,1,2026-07,2026-07
+single-cell perturbation,task,1,2026-07,2026-07
+signal-processing features,task,1,2026-07,2026-07
+signal reconstruction,method,1,2026-07,2026-07
+spatial vision perception,application,1,2026-07,2026-07
+shot-local story-global tuning objective,metric,1,2026-07,2026-07
+shortest generating prompt,method,1,2026-07,2026-07
+short image histories,other,1,2026-07,2026-07
+shared decision making (sdm,task,1,2026-07,2026-07
+sharding,method,1,2026-07,2026-07
+shap explainability,method,1,2026-07,2026-07
+shannon entropy,metric,1,2026-07,2026-07
+sha-256 hash-chained audit log,metric,1,2026-07,2026-07
+sft,method,1,2026-07,2026-07
+severity phenotyping,task,1,2026-07,2026-07
+sequence length,metric,1,2026-07,2026-07
+shot-role prompt tokens,tool,1,2026-07,2026-07
+spatial understanding,other,1,2026-07,2026-07
+spatial geometry,other,1,2026-07,2026-07
+spatial gaussian blending,method,1,2026-07,2026-07
+spatial deictic expressions,task,1,2026-07,2026-07
+spatial bases,model,1,2026-07,2026-07
+sparse autoencoders (saes,tool,1,2026-07,2026-07
+sparse autoencoders (saes,model,1,2026-07,2026-07
+sparse addressing,method,1,2026-07,2026-07
+span-level uncertainty estimation,task,1,2026-07,2026-07
+span-annotated corpus,dataset,1,2026-07,2026-07
+smell encoder,model,1,2026-07,2026-07
+source trustworthiness,risk,1,2026-07,2026-07
+source of authority,theory,1,2026-07,2026-07
+softmax,tool,1,2026-07,2026-07
+softmax,other,1,2026-07,2026-07
+soft-label prediction,method,1,2026-07,2026-07
+soft sensing,application,1,2026-07,2026-07
+sociolinguistic characteristics,task,1,2026-07,2026-07
+social norms,theory,1,2026-07,2026-07
+social media,application,1,2026-07,2026-07
+snowball citation expansion,method,1,2026-07,2026-07
+smooth euler characteristic transform (sect,method,1,2026-07,2026-07
+source-guided candidate-generation,method,1,2026-07,2026-07
+cross-center validation,other,1,2026-07,2026-07
+cross-attention,method,1,2026-07,2026-07
+creative process,application,1,2026-07,2026-07
+coverage,metric,1,2026-07,2026-07
+covariance matrix estimation,method,1,2026-07,2026-07
+coupling-aware balancing loss,method,1,2026-07,2026-07
+counterfactual supervision,method,1,2026-07,2026-07
+cost-aware objective,metric,1,2026-07,2026-07
+cosine similarity,metric,1,2026-07,2026-07
+corpus,dataset,1,2026-07,2026-07
+logical complexity,theory,1,2026-07,2026-07
+cooperative multi-agent reinforcement learning (marl,task,1,2026-07,2026-07
+convolutional kernels,model,1,2026-07,2026-07
+convnext,model,1,2026-07,2026-07
+conversational role attribution,task,1,2026-07,2026-07
+controlled synthetic completions,task,1,2026-07,2026-07
+controlled dialogue prompts,task,1,2026-07,2026-07
+control-variate adjustment,method,1,2026-07,2026-07
+contrastive vision-encoder training,method,1,2026-07,2026-07
+contrastive ranking objectives,method,1,2026-07,2026-07
+continuous-query,method,1,2026-07,2026-07
+coreset selection,method,1,2026-07,2026-07
+curvature,metric,1,2026-07,2026-07
+curriculum learning,method,1,2026-07,2026-07
+curator review,tool,1,2026-07,2026-07
+curation,task,1,2026-07,2026-07
+curated corpus,dataset,1,2026-07,2026-07
+cultural variation,risk,1,2026-07,2026-07
+cultural heritage preservation,theory,1,2026-07,2026-07
+cultural alignment,theory,1,2026-07,2026-07
+crossmodal retrieval,task,1,2026-07,2026-07
+cross-validation,method,1,2026-07,2026-07
+cross-cultural comparison,other,1,2026-07,2026-07
+cross-task transfer,theory,1,2026-07,2026-07
+cross-source exact-match check,metric,1,2026-07,2026-07
+cross-scanner validation,other,1,2026-07,2026-07
+cross-page reasoning,method,1,2026-07,2026-07
+cross-modal transformer,model,1,2026-07,2026-07
+cross-frequency coupling,task,1,2026-07,2026-07
+cross-episode memory,method,1,2026-07,2026-07
+cross-entropy training,other,1,2026-07,2026-07
+cross-domain evaluation,other,1,2026-07,2026-07
+cross-document claim graph,model,1,2026-07,2026-07
+cross-depth residual factorization,method,1,2026-07,2026-07
+cross-temporal generalization,task,1,2026-07,2026-07
+conditional total correlation,theory,1,2026-07,2026-07
+conditional dialect group invariance (cdgi,theory,1,2026-07,2026-07
+conditional dependencies,theory,1,2026-07,2026-07
+condition encoding,task,1,2026-07,2026-07
+conciseness,metric,1,2026-07,2026-07
+conceptual structure,theory,1,2026-07,2026-07
+concept representation,task,1,2026-07,2026-07
+computational sensing,task,1,2026-07,2026-07
+computational imaging,task,1,2026-07,2026-07
+compression failure,risk,1,2026-07,2026-07
+continuous-integration,tool,1,2026-07,2026-07
+compositional reasoning,task,1,2026-07,2026-07
+composite quality score (q,metric,1,2026-07,2026-07
+completion-style datasets,dataset,1,2026-07,2026-07
+completeness,metric,1,2026-07,2026-07
+competitive-ratio,metric,1,2026-07,2026-07
+common weakness enumeration (cwe,task,1,2026-07,2026-07
+common vulnerabilities and exposures (cve,task,1,2026-07,2026-07
+commercially available starting materials,metric,1,2026-07,2026-07
+commercial apis,application,1,2026-07,2026-07
+coherence,metric,1,2026-07,2026-07
+compression,task,1,2026-07,2026-07
+continued pre-training,method,1,2026-07,2026-07
+continuation probability,model,1,2026-07,2026-07
+continual pretraining,method,1,2026-07,2026-07
+contextual transformation,task,1,2026-07,2026-07
+contextual expansion,method,1,2026-07,2026-07
+context-rich reviser,method,1,2026-07,2026-07
+context-parallel,method,1,2026-07,2026-07
+contamination-awareness,other,1,2026-07,2026-07
+contact-rich quadruped,application,1,2026-07,2026-07
+constraint-guided llm generation,method,1,2026-07,2026-07
+cone machinery,task,1,2026-07,2026-07
+constrained exploration,task,1,2026-07,2026-07
+constrained decoding,task,1,2026-07,2026-07
+constrained decoding,method,1,2026-07,2026-07
+conspiratorial actors,task,1,2026-07,2026-07
+consolidation,task,1,2026-07,2026-07
+consensus-based defense,other,1,2026-07,2026-07
+confusion matrix,metric,1,2026-07,2026-07
+conformal prediction,theory,1,2026-07,2026-07
+confidence-scheduled verification,method,1,2026-07,2026-07
+confidence intervals,metric,1,2026-07,2026-07
+confidence interval,method,1,2026-07,2026-07
+constraint-aware reinforcement learning,theory,1,2026-07,2026-07
+downstream metric,metric,1,2026-07,2026-07
+downstream evaluation,metric,1,2026-07,2026-07
+doob h-transform,theory,1,2026-07,2026-07
+domain-specific foundation models,model,1,2026-07,2026-07
+domain knowledge base,dataset,1,2026-07,2026-07
+domain knowledge,risk,1,2026-07,2026-07
+domain adaptation,task,1,2026-07,2026-07
+document visual question answering,task,1,2026-07,2026-07
+diversity regularizer,method,1,2026-07,2026-07
+diversity and concentration metrics,metric,1,2026-07,2026-07
+custom operators,method,1,2026-07,2026-07
+distributional sensitivity,risk,1,2026-07,2026-07
+distribution shift,risk,1,2026-07,2026-07
+distributed sparse interventions,method,1,2026-07,2026-07
+dissipative systems,task,1,2026-07,2026-07
+displacement structure,metric,1,2026-07,2026-07
+disentangled representation,model,1,2026-07,2026-07
+discrete token vocabulary,task,1,2026-07,2026-07
+discrete motion latent codes,model,1,2026-07,2026-07
+discrete autoregressive generation,theory,1,2026-07,2026-07
+direct preference optimization (dpo,method,1,2026-07,2026-07
+diversity,metric,1,2026-07,2026-07
+elastic modulus,metric,1,2026-07,2026-07
+eigenvalue clipping,method,1,2026-07,2026-07
+effort-based decision-making,task,1,2026-07,2026-07
+efficient inference,method,1,2026-07,2026-07
+effective rank,metric,1,2026-07,2026-07
+effective dimension,metric,1,2026-07,2026-07
+eeg,application,1,2026-07,2026-07
+editing for safety,application,1,2026-07,2026-07
+edge cases,risk,1,2026-07,2026-07
+ecg reconstruction,task,1,2026-07,2026-07
+drift,risk,1,2026-07,2026-07
+early-exit guided predictive prefetching,method,1,2026-07,2026-07
+dynamic-programming pass,method,1,2026-07,2026-07
+dynamic voltage frequency scaling,tool,1,2026-07,2026-07
+dynamic tool-orchestration engine,tool,1,2026-07,2026-07
+dynamic structural sparsification,method,1,2026-07,2026-07
+dynamic preferences,method,1,2026-07,2026-07
+dynamic interaction,task,1,2026-07,2026-07
+dynamic evolution,method,1,2026-07,2026-07
+dynamic clipping,method,1,2026-07,2026-07
+dual-stage guidance mechanism,method,1,2026-07,2026-07
+dual-llm intersection pipeline,method,1,2026-07,2026-07
+ecg anonymization,application,1,2026-07,2026-07
+denoising,task,1,2026-07,2026-07
+delta-style networks,model,1,2026-07,2026-07
+delegation,task,1,2026-07,2026-07
+defended-claims gate,tool,1,2026-07,2026-07
+deepfake image detection,task,1,2026-07,2026-07
+decoupled progressive expert supervision,method,1,2026-07,2026-07
+decision protocols,method,1,2026-07,2026-07
+de novo structure elucidation,method,1,2026-07,2026-07
+dataset type,task,1,2026-07,2026-07
+dataset,dataset,1,2026-07,2026-07
+direct on-policy distillation,method,1,2026-07,2026-07
+database storage decoding,task,1,2026-07,2026-07
+data storage and processing,task,1,2026-07,2026-07
+data reuse,method,1,2026-07,2026-07
+data lock-in,risk,1,2026-07,2026-07
+data extraction,task,1,2026-07,2026-07
+data curation,task,1,2026-07,2026-07
+dann,method,1,2026-07,2026-07
+damped resonators,model,1,2026-07,2026-07
+cybersecurity,application,1,2026-07,2026-07
+cwe attribution,task,1,2026-07,2026-07
+datamanager,tool,1,2026-07,2026-07
+dimensional metric grouping,method,1,2026-07,2026-07
+digital twin,application,1,2026-07,2026-07
+digital humanities,application,1,2026-07,2026-07
+digital cardiac assessment,application,1,2026-07,2026-07
+diffusion samplers,model,1,2026-07,2026-07
+differentiable graph reasoning,other,1,2026-07,2026-07
+differentiable asr model,model,1,2026-07,2026-07
+difference-in-differences,method,1,2026-07,2026-07
+dialectal robustness,metric,1,2026-07,2026-07
+dialect bias,risk,1,2026-07,2026-07
+dense process reward,metric,1,2026-07,2026-07
+devsecops,application,1,2026-07,2026-07
+deviation,metric,1,2026-07,2026-07
+detr-style span decoder,model,1,2026-07,2026-07
+deterministic mate transformations,method,1,2026-07,2026-07
+detection robustness,metric,1,2026-07,2026-07
+detection power,metric,1,2026-07,2026-07
+design structure matrices (dsms,task,1,2026-07,2026-07
+depth-free,theory,1,2026-07,2026-07
+depth router,tool,1,2026-07,2026-07
+deployment simulation,method,1,2026-07,2026-07
+deployment pipeline,method,1,2026-07,2026-07
+diagnostic evaluation,method,1,2026-07,2026-07
+atomic actions,task,1,2026-07,2026-07
+atmospheric scattering model,model,1,2026-07,2026-07
+asynchronous reinforcement learning,method,1,2026-07,2026-07
+ast-based code mutation,method,1,2026-07,2026-07
+association metric,metric,1,2026-07,2026-07
+asr robustness,metric,1,2026-07,2026-07
+aspect-based sentiment analysis,task,1,2026-07,2026-07
+argument-level policy,theory,1,2026-07,2026-07
+area under the receiver operating characteristic curve (auc,metric,1,2026-07,2026-07
+architectural inductive biases,theory,1,2026-07,2026-07
+cognitive states,task,1,2026-07,2026-07
+apache arrow buffers,metric,1,2026-07,2026-07
+antisemitic events,task,1,2026-07,2026-07
+anti-pattern detection,tool,1,2026-07,2026-07
+answer-driven reasoning,risk,1,2026-07,2026-07
+1-regularization,method,1,2026-07,2026-07
+zero-shot nli,method,1,2026-07,2026-07
+zero-shot learning,method,1,2026-07,2026-07
+zero-shot evaluation,other,1,2026-07,2026-07
+zero-shot attack,other,1,2026-07,2026-07
+zero-shot,theory,1,2026-07,2026-07
+approval-framed delegation,other,1,2026-07,2026-07
+autoregressive decoding,task,1,2026-07,2026-07
+autoregressive decoding,method,1,2026-07,2026-07
+autonomy framework,theory,1,2026-07,2026-07
+autonomous exploration,method,1,2026-07,2026-07
+autonomous coding agent,tool,1,2026-07,2026-07
+automatic speech recognition (asr,tool,1,2026-07,2026-07
+automatic speech recognition,task,1,2026-07,2026-07
+automated evaluation,tool,1,2026-07,2026-07
+autoformalization,task,1,2026-07,2026-07
+auto-fix,method,1,2026-07,2026-07
+attack path identification,task,1,2026-07,2026-07
+auditable engineering cascade,application,1,2026-07,2026-07
+auditability,risk,1,2026-07,2026-07
+audio-text llm,model,1,2026-07,2026-07
+audio understanding,metric,1,2026-07,2026-07
+auc,metric,1,2026-07,2026-07
+attribution scores,metric,1,2026-07,2026-07
+attention-output probes,metric,1,2026-07,2026-07
+attention-limited measurement process,theory,1,2026-07,2026-07
+attention-based detectors,tool,1,2026-07,2026-07
+attention mechanisms,model,1,2026-07,2026-07
+attention,theory,1,2026-07,2026-07
+authorization gateway,tool,1,2026-07,2026-07
+visual reasoning,task,1,2026-07,2026-07
+visual reasoning,method,1,2026-07,2026-07
+agent attention mechanism,model,1,2026-07,2026-07
+visual question-answering,application,1,2026-07,2026-07
+voxel features,model,1,2026-07,2026-07
+answer generation,task,1,2026-07,2026-07
+upstream metric,metric,1,2026-07,2026-07
+advantage-weighted compactness,method,1,2026-07,2026-07
+advantage regularization,method,1,2026-07,2026-07
+advantage awareness,theory,1,2026-07,2026-07
+zero-day detection,task,1,2026-07,2026-07
+adapter gates,model,1,2026-07,2026-07
+adapter composition schedule,method,1,2026-07,2026-07
+activations,model,1,2026-07,2026-07
+activation steering,method,1,2026-07,2026-07
+activation overflow,risk,1,2026-07,2026-07
+activation magnitude,metric,1,2026-07,2026-07
+activation dispersion,metric,1,2026-07,2026-07
+activation,tool,1,2026-07,2026-07
+acoustic modulation,method,1,2026-07,2026-07
+accuracy transition,task,1,2026-07,2026-07
+adolescent substance use discourse,task,1,2026-07,2026-07
+yolov5,model,1,2026-07,2026-07
+xor synergy control,tool,1,2026-07,2026-07
+worst-case protection,risk,1,2026-07,2026-07
+working memory,model,1,2026-07,2026-07
+word-level control,task,1,2026-07,2026-07
+word error rate,metric,1,2026-07,2026-07
+white-box attack,method,1,2026-07,2026-07
+whisper,model,1,2026-07,2026-07
+wer,metric,1,2026-07,2026-07
+weight decay,method,1,2026-07,2026-07
+visual token pruning,task,1,2026-07,2026-07
+weak models,model,1,2026-07,2026-07
+wavelet scattering transform,method,1,2026-07,2026-07
+watermarking,method,1,2026-07,2026-07
+watermarking,application,1,2026-07,2026-07
+wasserstein distance,metric,1,2026-07,2026-07
+vulnerability detection,task,1,2026-07,2026-07
+acceptance rate,metric,1,2026-07,2026-07
+voxcpm2,other,1,2026-07,2026-07
+visual-token representations,model,1,2026-07,2026-07
+visual-question-answering,task,1,2026-07,2026-07
+visual-action alignment reward,other,1,2026-07,2026-07
+weak-to-strong generalization,task,1,2026-07,2026-07
+classical morphology,theory,1,2026-07,2026-07
+clarity,metric,1,2026-07,2026-07
+cider 0.5iou,metric,1,2026-07,2026-07
+ci/cd workflow,task,1,2026-07,2026-07
+chi-square law,theory,1,2026-07,2026-07
+chemical plausibility,metric,1,2026-07,2026-07
+character-level language modeling,application,1,2026-07,2026-07
+channel adaptation,method,1,2026-07,2026-07
+change detection,task,1,2026-07,2026-07
+chamfer distance,metric,1,2026-07,2026-07
+awareness functionals,tool,1,2026-07,2026-07
+chain-of-thought,other,1,2026-07,2026-07
+cer,metric,1,2026-07,2026-07
+centroid,model,1,2026-07,2026-07
+cell-wise,task,1,2026-07,2026-07
+causal mechanism,theory,1,2026-07,2026-07
+causal localization,method,1,2026-07,2026-07
+causal functions,model,1,2026-07,2026-07
+capacity allocation,method,1,2026-07,2026-07
+candidate diversity mechanism,theory,1,2026-07,2026-07
+camera-centric action,task,1,2026-07,2026-07
+chain-of-thought,task,1,2026-07,2026-07
+cognitive bias,risk,1,2026-07,2026-07
+coding agents,other,1,2026-07,2026-07
+code parsing,metric,1,2026-07,2026-07
+coarse-to-fine retrieval,method,1,2026-07,2026-07
+coalition value,metric,1,2026-07,2026-07
+clustered standard errors,metric,1,2026-07,2026-07
+cloze-style masked language modeling,method,1,2026-07,2026-07
+closed-loop simulator,tool,1,2026-07,2026-07
+closed-loop program synthesis,method,1,2026-07,2026-07
+closed-loop feedback,method,1,2026-07,2026-07
+classification,task,1,2026-07,2026-07
+clinicalragengine,tool,1,2026-07,2026-07
+clinicalorchestrator,tool,1,2026-07,2026-07
+clinical validation,application,1,2026-07,2026-07
+clinical research,application,1,2026-07,2026-07
+clinical consultations,dataset,1,2026-07,2026-07
+clinical alignment metric,metric,1,2026-07,2026-07
+click-centric refinement,method,1,2026-07,2026-07
+clean tool-use rate,metric,1,2026-07,2026-07
+classifier-free guidance (cfg,task,1,2026-07,2026-07
+classifier discrimination score (cds,metric,1,2026-07,2026-07
+classification metrics,metric,1,2026-07,2026-07
+clip,method,1,2026-07,2026-07
+bidirectional causal control,method,1,2026-07,2026-07
+bibliographic discovery,task,1,2026-07,2026-07
+bias correction,task,1,2026-07,2026-07
+bias,risk,1,2026-07,2026-07
+beta nll regression,method,1,2026-07,2026-07
+best-arm identification,task,1,2026-07,2026-07
+benchmark,theory,1,2026-07,2026-07
+belief updating,theory,1,2026-07,2026-07
+behavioral profile,task,1,2026-07,2026-07
+behavioral control,task,1,2026-07,2026-07
+calibration-free online error tracking,method,1,2026-07,2026-07
+bccd dataset,dataset,1,2026-07,2026-07
+bayesian optimization,method,1,2026-07,2026-07
+bayesian ceiling,metric,1,2026-07,2026-07
+barrier-conditioning,method,1,2026-07,2026-07
+barbet,other,1,2026-07,2026-07
+band-gap regimes,task,1,2026-07,2026-07
+balanced accuracy,metric,1,2026-07,2026-07
+backend-specific energy attribution,metric,1,2026-07,2026-07
+b-rep geometric evidence,method,1,2026-07,2026-07
+axiomatic assembly specification,theory,1,2026-07,2026-07
+behavior leverage imbalance,theory,1,2026-07,2026-07
+calibration-free,theory,1,2026-07,2026-07
+calibration,task,1,2026-07,2026-07
+calibrated gate,tool,1,2026-07,2026-07
+cad generation,application,1,2026-07,2026-07
+byte-pair encoding (bpe,method,1,2026-07,2026-07
+brain age,metric,1,2026-07,2026-07
+bradley--terry log-odds,model,1,2026-07,2026-07
+boundary-aware span representations,model,1,2026-07,2026-07
+boundary-aware hard negative mining,method,1,2026-07,2026-07
+bound-token mechanism,method,1,2026-07,2026-07
+binary verdict,task,1,2026-07,2026-07
+blockage detection,application,1,2026-07,2026-07
+block-wise,task,1,2026-07,2026-07
+block-diffusion language model,model,1,2026-07,2026-07
+block-based programming,task,1,2026-07,2026-07
+blind obedience,risk,1,2026-07,2026-07
+black-box evaluation,method,1,2026-07,2026-07
+bistability,risk,1,2026-07,2026-07
+biopsy acquisition,application,1,2026-07,2026-07
+biological systems,application,1,2026-07,2026-07
+biodiversity imagery,dataset,1,2026-07,2026-07
+binomial generalized estimating equation,method,1,2026-07,2026-07
+bootstrapping,method,1,2026-07,2026-07
+information gain,metric,1,2026-07,2026-07
+infinite-width limit,theory,1,2026-07,2026-07
+inference-time plasticity,method,1,2026-07,2026-07
+inference procedure,method,1,2026-07,2026-07
+inference compute,metric,1,2026-07,2026-07
+inertial navigation system,tool,1,2026-07,2026-07
+inductive biases,theory,1,2026-07,2026-07
+inductive bias,risk,1,2026-07,2026-07
+induction heads,model,1,2026-07,2026-07
+incomplete ecg records,application,1,2026-07,2026-07
+electroacoustic quantitative measurement,method,1,2026-07,2026-07
+in-context learning,task,1,2026-07,2026-07
+importance-weighted novelty,metric,1,2026-07,2026-07
+importance sampling (is,method,1,2026-07,2026-07
+importance sampling,method,1,2026-07,2026-07
+imbalance,risk,1,2026-07,2026-07
+image-text pairs,dataset,1,2026-07,2026-07
+image synthesis,application,1,2026-07,2026-07
+image signal processing,task,1,2026-07,2026-07
+image restoration,task,1,2026-07,2026-07
+image classification,task,1,2026-07,2026-07
+inception module,model,1,2026-07,2026-07
+interpretable ai,application,1,2026-07,2026-07
+interpretability,application,1,2026-07,2026-07
+interpersonal stance,metric,1,2026-07,2026-07
+internal state validation,method,1,2026-07,2026-07
+internal language modeling,theory,1,2026-07,2026-07
+intermediate-state informativeness,task,1,2026-07,2026-07
+intermediate representations,other,1,2026-07,2026-07
+interactive dashboard,application,1,2026-07,2026-07
+interaction inference,task,1,2026-07,2026-07
+inter-view interaction,task,1,2026-07,2026-07
+information governance,theory,1,2026-07,2026-07
+intent-driven dataset,dataset,1,2026-07,2026-07
+instruction-tuned model,model,1,2026-07,2026-07
+instruction-tuned language models,model,1,2026-07,2026-07
+instruction-response pairs,task,1,2026-07,2026-07
+instruction-pose aware router,tool,1,2026-07,2026-07
+instruction-following failures,risk,1,2026-07,2026-07
+instance-level data augmentation,method,1,2026-07,2026-07
+innovative solutions,application,1,2026-07,2026-07
+information-theoretic capacity region,theory,1,2026-07,2026-07
+information set monte carlo search,method,1,2026-07,2026-07
+information matching,task,1,2026-07,2026-07
+intentrouter,tool,1,2026-07,2026-07
+hierarchical search,task,1,2026-07,2026-07
+hierarchical question decomposition,method,1,2026-07,2026-07
+hierarchical parameter separation,method,1,2026-07,2026-07
+hierarchical multi-scale architecture,model,1,2026-07,2026-07
+hierarchical modeling,method,1,2026-07,2026-07
+hidden-anchor audit,method,1,2026-07,2026-07
+hidden state,task,1,2026-07,2026-07
+hidden representations,model,1,2026-07,2026-07
+hidden activations,model,1,2026-07,2026-07
+heteroscedastic identification,theory,1,2026-07,2026-07
+hyperbolic representation,model,1,2026-07,2026-07
+heterogeneous graph,model,1,2026-07,2026-07
+heterogeneity-adaptive diffusion schrodinger bridge,method,1,2026-07,2026-07
+hermeneutic reasoning,theory,1,2026-07,2026-07
+hellinger loss,metric,1,2026-07,2026-07
+heaviside gate,theory,1,2026-07,2026-07
+headline generation,task,1,2026-07,2026-07
+heading-anchor,method,1,2026-07,2026-07
+hateful event detection,task,1,2026-07,2026-07
+hate,risk,1,2026-07,2026-07
+harness mdp,theory,1,2026-07,2026-07
+heterogeneous relaxation,method,1,2026-07,2026-07
+hybrid reward,metric,1,2026-07,2026-07
+hybrid retrieval,method,1,2026-07,2026-07
+hybrid model,model,1,2026-07,2026-07
+hybrid framework,method,1,2026-07,2026-07
+human-aware representation,other,1,2026-07,2026-07
+human-aligned behavior,other,1,2026-07,2026-07
+human-ai coordination,application,1,2026-07,2026-07
+human-ai co-creation,method,1,2026-07,2026-07
+human validation,method,1,2026-07,2026-07
+human judgment,metric,1,2026-07,2026-07
+hierarchical task taxonomy,theory,1,2026-07,2026-07
+human decision-making,task,1,2026-07,2026-07
+hotel review,dataset,1,2026-07,2026-07
+homoscedastic uncertainty weighting,theory,1,2026-07,2026-07
+homology-controlled gene ontology prediction,task,1,2026-07,2026-07
+hmac-sha256 signature,metric,1,2026-07,2026-07
+hmac-authenticated qr receipt,metric,1,2026-07,2026-07
+high-resolution rgb imagery,dataset,1,2026-07,2026-07
+high-loss completions,dataset,1,2026-07,2026-07
+high-fidelity,metric,1,2026-07,2026-07
+hierarchy-relaxed evaluation,method,1,2026-07,2026-07
+hierarchical vocabulary routing,method,1,2026-07,2026-07
+human interpretation,application,1,2026-07,2026-07
+llama-600m,dataset,1,2026-07,2026-07
+llama-300m,dataset,1,2026-07,2026-07
+llama,model,1,2026-07,2026-07
+literature synthesis,task,1,2026-07,2026-07
+literature search,tool,1,2026-07,2026-07
+linguistic measures,metric,1,2026-07,2026-07
+linguistic diversity,task,1,2026-07,2026-07
+linearization,method,1,2026-07,2026-07
+linear probes,method,1,2026-07,2026-07
+linear decoding,method,1,2026-07,2026-07
+interpretation difficulty,task,1,2026-07,2026-07
+limited memory language models,model,1,2026-07,2026-07
+lifelong user modeling,task,1,2026-07,2026-07
+legal professional privilege,risk,1,2026-07,2026-07
+legal and ethical compliance,risk,1,2026-07,2026-07
+leave one subject out cross-validation,method,1,2026-07,2026-07
+learned optimizer,model,1,2026-07,2026-07
+learnable spectrum,model,1,2026-07,2026-07
+learnable selection,method,1,2026-07,2026-07
+layernorm,tool,1,2026-07,2026-07
+latent-prediction objective,method,1,2026-07,2026-07
+linear attention,method,1,2026-07,2026-07
+long-term memory,model,1,2026-07,2026-07
+long-horizon reasoning,other,1,2026-07,2026-07
+long-horizon,task,1,2026-07,2026-07
+long-form qa benchmarks,other,1,2026-07,2026-07
+long-context understanding,task,1,2026-07,2026-07
+logit-based,method,1,2026-07,2026-07
+logistic regression probe,tool,1,2026-07,2026-07
+logistic regression,model,1,2026-07,2026-07
+logical irrelevant factors,theory,1,2026-07,2026-07
+logic-based datasets,dataset,1,2026-07,2026-07
+llm-as-a-judge,model,1,2026-07,2026-07
+localization signals,other,1,2026-07,2026-07
+localization,task,1,2026-07,2026-07
+local preservation,theory,1,2026-07,2026-07
+local large language model,model,1,2026-07,2026-07
+local hierarchical algebraic regions,model,1,2026-07,2026-07
+local heads,model,1,2026-07,2026-07
+local context,metric,1,2026-07,2026-07
+load-aware verification,method,1,2026-07,2026-07
+llm-based semantic assessment,method,1,2026-07,2026-07
+llm-assisted code synthesis,method,1,2026-07,2026-07
+llm-as-a-judge,tool,1,2026-07,2026-07
+log-ratio,metric,1,2026-07,2026-07
+knowledge base,dataset,1,2026-07,2026-07
+kl regularization,method,1,2026-07,2026-07
+kl divergence,metric,1,2026-07,2026-07
+keyword filter,other,1,2026-07,2026-07
+keyed pseudo-random permutation,method,1,2026-07,2026-07
+kappa statistic,metric,1,2026-07,2026-07
+judgement-of-learning (jol,task,1,2026-07,2026-07
+joint token commitment,method,1,2026-07,2026-07
+joint estimation,method,1,2026-07,2026-07
+joint ar-diffusion objective,metric,1,2026-07,2026-07
+latent programming horizon,theory,1,2026-07,2026-07
+jaccard overlap,metric,1,2026-07,2026-07
+iterative tool optimization,method,1,2026-07,2026-07
+iterative repair,method,1,2026-07,2026-07
+iterative refinement,method,1,2026-07,2026-07
+iou 0.95 positive labeling,method,1,2026-07,2026-07
+iou,metric,1,2026-07,2026-07
+inverse reconstruction,task,1,2026-07,2026-07
+inverse participation ratio,metric,1,2026-07,2026-07
+invalid inputs,risk,1,2026-07,2026-07
+intrinsic noise,risk,1,2026-07,2026-07
+jensen-shannon divergence,metric,1,2026-07,2026-07
+latent persona direction,model,1,2026-07,2026-07
+latent graph encoding,method,1,2026-07,2026-07
+latent generation,task,1,2026-07,2026-07
+latent field,model,1,2026-07,2026-07
+latent compositional pattern,task,1,2026-07,2026-07
+large-language-model,model,1,2026-07,2026-07
+large language models (llms,model,1,2026-07,2026-07
+large language models (llm,model,1,2026-07,2026-07
+large language model (llm,tool,1,2026-07,2026-07
+large language model (llm,model,1,2026-07,2026-07
+knowledge base manager,model,1,2026-07,2026-07
+language resource,risk,1,2026-07,2026-07
+language and dialect consistency,metric,1,2026-07,2026-07
+lagrangian budget constraint,method,1,2026-07,2026-07
+label smoothing,method,1,2026-07,2026-07
+l1-penalized logistic regression,method,1,2026-07,2026-07
+kolmogorov complexity,theory,1,2026-07,2026-07
+knowledge-intensive domains,task,1,2026-07,2026-07
+knowledge-augmented dataset,dataset,1,2026-07,2026-07
+knowledge retrieval,task,1,2026-07,2026-07
+knowledge graph,task,1,2026-07,2026-07
+knowledge graph,model,1,2026-07,2026-07
+language-guided latent decomposition,method,1,2026-07,2026-07
+failure mode,risk,1,2026-07,2026-07
+factual reliability,task,1,2026-07,2026-07
+factual precision,metric,1,2026-07,2026-07
+factual hallucination,risk,1,2026-07,2026-07
+factorized draft models,model,1,2026-07,2026-07
+extraction,task,1,2026-07,2026-07
+external-memory latency,risk,1,2026-07,2026-07
+external knowledge,model,1,2026-07,2026-07
+external corpus,dataset,1,2026-07,2026-07
+extended conversational context,dataset,1,2026-07,2026-07
+harness maturity score,metric,1,2026-07,2026-07
+explorer-definer pipeline,method,1,2026-07,2026-07
+exploratory data analysis,method,1,2026-07,2026-07
+expert-annotated datasets,dataset,1,2026-07,2026-07
+expert system,model,1,2026-07,2026-07
+experimental design,method,1,2026-07,2026-07
+expected calibration error (ece,metric,1,2026-07,2026-07
+execution,task,1,2026-07,2026-07
+executable web application,application,1,2026-07,2026-07
+executable verification,method,1,2026-07,2026-07
+executable reasoning-action trajectory,task,1,2026-07,2026-07
+exponential moving average (ema,method,1,2026-07,2026-07
+fine-tuning,task,1,2026-07,2026-07
+fine-grained diagnostic annotations,dataset,1,2026-07,2026-07
+fine-grained access control,application,1,2026-07,2026-07
+final action,task,1,2026-07,2026-07
+filled pause,task,1,2026-07,2026-07
+field-resolution tradeoff,theory,1,2026-07,2026-07
+fidelity,metric,1,2026-07,2026-07
+few-step distillation,method,1,2026-07,2026-07
+few-shot learning,other,1,2026-07,2026-07
+few-shot knowledge distillation,task,1,2026-07,2026-07
+failure mode classification,method,1,2026-07,2026-07
+feedback-based refinement,method,1,2026-07,2026-07
+federated learning,application,1,2026-07,2026-07
+feddualatt,method,1,2026-07,2026-07
+fedavg,method,1,2026-07,2026-07
+feature space,other,1,2026-07,2026-07
+fast radio burst,task,1,2026-07,2026-07
+false positive rate,risk,1,2026-07,2026-07
+faithfulness,metric,1,2026-07,2026-07
+failure-driven,theory,1,2026-07,2026-07
+failure pattern mining,method,1,2026-07,2026-07
+failure modes,task,1,2026-07,2026-07
+feeling-of-knowing (fok,task,1,2026-07,2026-07
+energy waste,risk,1,2026-07,2026-07
+endpoint representation,model,1,2026-07,2026-07
+endogenous loss function,theory,1,2026-07,2026-07
+end-to-end workflows,application,1,2026-07,2026-07
+end-to-end training,method,1,2026-07,2026-07
+encoder-decoder,model,1,2026-07,2026-07
+empirically derived cultural taxonomy,theory,1,2026-07,2026-07
+empirical risk minimization,method,1,2026-07,2026-07
+empirical annotator distribution,task,1,2026-07,2026-07
+emotional naturalness,metric,1,2026-07,2026-07
+executable patch validation,task,1,2026-07,2026-07
+emergent misalignment,task,1,2026-07,2026-07
+embodied experience,application,1,2026-07,2026-07
+embedding techniques,method,1,2026-07,2026-07
+embedding models,model,1,2026-07,2026-07
+embedding model,metric,1,2026-07,2026-07
+embedding,model,1,2026-07,2026-07
+elemental and compound phases,task,1,2026-07,2026-07
+electronic-nose signals,metric,1,2026-07,2026-07
+electronic medical records,application,1,2026-07,2026-07
+electronic healthcare records (ehr,application,1,2026-07,2026-07
+emotion distribution,task,1,2026-07,2026-07
+evidence-grounded pipeline,method,1,2026-07,2026-07
+event-based timestamps,method,1,2026-07,2026-07
+evaluative pipeline,method,1,2026-07,2026-07
+evaluation methodologies,other,1,2026-07,2026-07
+evaluation framework,theory,1,2026-07,2026-07
+evaluation framework,other,1,2026-07,2026-07
+evaluation budgets,metric,1,2026-07,2026-07
+error-state extended kalman filter,model,1,2026-07,2026-07
+error rate,metric,1,2026-07,2026-07
+error detection,task,1,2026-07,2026-07
+energy-based model (ebm,model,1,2026-07,2026-07
+error accumulation,metric,1,2026-07,2026-07
+ergodic theory,theory,1,2026-07,2026-07
+equitable performance,metric,1,2026-07,2026-07
+epistemic entropy,metric,1,2026-07,2026-07
+episodic memory,model,1,2026-07,2026-07
+episode failure,risk,1,2026-07,2026-07
+epidemic modeling,task,1,2026-07,2026-07
+entropy pacing,method,1,2026-07,2026-07
+entity familiarity,task,1,2026-07,2026-07
+entity extraction,method,1,2026-07,2026-07
+entailment,task,1,2026-07,2026-07
+error amplification,metric,1,2026-07,2026-07
+graph attention network (gat,model,1,2026-07,2026-07
+gradient-boosted tree classifier,tool,1,2026-07,2026-07
+gradient-based alignment,method,1,2026-07,2026-07
+gradient warfare,risk,1,2026-07,2026-07
+gradient variance,metric,1,2026-07,2026-07
+gradient projection,method,1,2026-07,2026-07
+gpu--dram--ssd hierarchy,model,1,2026-07,2026-07
+gpt-5 series,model,1,2026-07,2026-07
+global heads,model,1,2026-07,2026-07
+global dependency modeling,task,1,2026-07,2026-07
+finite automaton,theory,1,2026-07,2026-07
+ghost errors,risk,1,2026-07,2026-07
+geometry-inductive mixture-of-experts,model,1,2026-07,2026-07
+geometry-aware transformation,method,1,2026-07,2026-07
+geometry-aware spatiotemporal graph,model,1,2026-07,2026-07
+geometric grounding,task,1,2026-07,2026-07
+geometric deep learning,method,1,2026-07,2026-07
+geometric causal models,model,1,2026-07,2026-07
+genetic improvement,application,1,2026-07,2026-07
+genetic and reinforcement-learning evolution,method,1,2026-07,2026-07
+genetic algorithm,model,1,2026-07,2026-07
+global convergence,theory,1,2026-07,2026-07
+harness architecture,theory,1,2026-07,2026-07
+hardening strategy generation,task,1,2026-07,2026-07
+hard-negative sampling,method,1,2026-07,2026-07
+hand-eye matrix,model,1,2026-07,2026-07
+hallucination penalties,risk,1,2026-07,2026-07
+hallucination inference and verification engine (hive,tool,1,2026-07,2026-07
+hallucinated chain-of-thought,risk,1,2026-07,2026-07
+grpcompviarep (gcr,theory,1,2026-07,2026-07
+group theory,theory,1,2026-07,2026-07
+ground-truth matrices,metric,1,2026-07,2026-07
+graph convolutional attention,method,1,2026-07,2026-07
+grokking,theory,1,2026-07,2026-07
+groking,task,1,2026-07,2026-07
+gridded observation,dataset,1,2026-07,2026-07
+grid-based dominance scoring,method,1,2026-07,2026-07
+grb-sympnet,model,1,2026-07,2026-07
+graphical user interface,tool,1,2026-07,2026-07
+graph-theoretic representation,theory,1,2026-07,2026-07
+graph theory,theory,1,2026-07,2026-07
+graph reasoning,other,1,2026-07,2026-07
+graph property functionals,tool,1,2026-07,2026-07
+graph propagation module,model,1,2026-07,2026-07
+ground truth injection module,tool,1,2026-07,2026-07
+fuel density prediction,task,1,2026-07,2026-07
+frozen backbone,model,1,2026-07,2026-07
+frequency-matching principle,theory,1,2026-07,2026-07
+frequency-domain mixing,theory,1,2026-07,2026-07
+framing susceptibility,theory,1,2026-07,2026-07
+fractal architecture,model,1,2026-07,2026-07
+fr chet mean,method,1,2026-07,2026-07
+fp8,metric,1,2026-07,2026-07
+fourier transform,tool,1,2026-07,2026-07
+fourier mechanisms,method,1,2026-07,2026-07
+generative pipeline,method,1,2026-07,2026-07
+formatting attacks,risk,1,2026-07,2026-07
+formal verification,theory,1,2026-07,2026-07
+formal language prover,model,1,2026-07,2026-07
+forged amplifying rationale memory attack,other,1,2026-07,2026-07
+forensic reconstruction,task,1,2026-07,2026-07
+fluency,metric,1,2026-07,2026-07
+flow sparsity regularization,other,1,2026-07,2026-07
+fixed-point arithmetic,application,1,2026-07,2026-07
+fisher-rao distance,metric,1,2026-07,2026-07
+finite-horizon,task,1,2026-07,2026-07
+forward pass,metric,1,2026-07,2026-07
+generative image model,model,1,2026-07,2026-07
+generative ai,model,1,2026-07,2026-07
+generative adversarial network,model,1,2026-07,2026-07
+generation,task,1,2026-07,2026-07
+generalized-ridge sympnet,model,1,2026-07,2026-07
+generalized estimating equations,method,1,2026-07,2026-07
+generalization,theory,1,2026-07,2026-07
+gaussian process,model,1,2026-07,2026-07
+gated mlp,model,1,2026-07,2026-07
+gated linear rnn,model,1,2026-07,2026-07
+full-duplex slms,application,1,2026-07,2026-07
+gamma band,metric,1,2026-07,2026-07
+game-playing agent,application,1,2026-07,2026-07
+fuzzy cognitive map,task,1,2026-07,2026-07
+future confidence distillation,method,1,2026-07,2026-07
+fusion tokens,model,1,2026-07,2026-07
+functional correctness,metric,1,2026-07,2026-07
+functional connectivity,task,1,2026-07,2026-07
+function class,task,1,2026-07,2026-07
+fully homomorphic encryption,theory,1,2026-07,2026-07
+fully convolutional network,model,1,2026-07,2026-07
+full-duplex spoken dialogue model,model,1,2026-07,2026-07
+gated accumulation,method,1,2026-07,2026-07

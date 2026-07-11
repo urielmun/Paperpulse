@@ -1,0 +1,101 @@
+﻿rank,concept_name,concept_type,paper_count,first_month,latest_month,top_paradigms,top_categories
+1,large language models,model,13,2026-07,2026-07,Reasoning | Benchmark/Evaluation | Theory/Methodology | Alignment/Safety,cs.CL | cs.AI | cs.SE | cs.LG
+2,large language model,model,10,2026-07,2026-07,Reasoning | Benchmark/Evaluation | Agent/Tool Use | Dataset/Benchmark,cs.CL | cs.LG | cs.AI | cs.CV
+3,transformer,model,8,2026-07,2026-07,Reasoning | Efficiency/Optimization | Multimodal | Benchmark/Evaluation,cs.CL | cs.LG | cs.AI | cs.CV
+4,retrieval-augmented generation,method,7,2026-07,2026-07,RAG/Retrieval | Reasoning | Agent/Tool Use,cs.AI | cs.SE | cs.CL | cs.CV
+5,reinforcement learning,method,6,2026-07,2026-07,Reasoning | Agent/Tool Use,cs.LG | cs.AI | cs.CL
+6,multimodal,task,5,2026-07,2026-07,Multimodal | Benchmark/Evaluation,cs.CV | cs.CL | cs.SE
+7,vision-language model,model,5,2026-07,2026-07,Reasoning | Alignment/Safety | Benchmark/Evaluation | Multimodal,cs.CV | cs.HC | cs.LG
+8,fine-tuning,method,5,2026-07,2026-07,Theory/Methodology | Benchmark/Evaluation | Alignment/Safety | Multimodal,cs.CL | cs.LG | cs.CV
+9,hallucination,risk,4,2026-07,2026-07,Reasoning | Theory/Methodology | Multimodal,cs.CL | cs.CV | cs.SE | cs.AI
+10,hidden states,model,3,2026-07,2026-07,Reasoning | Theory/Methodology,cs.CL | cs.LG | cs.CV
+11,domain adaptation,method,3,2026-07,2026-07,Theory/Methodology | Alignment/Safety | Benchmark/Evaluation,cs.CL | cs.CV
+12,llm,model,3,2026-07,2026-07,Agent/Tool Use | Benchmark/Evaluation,cs.SE | cs.CL | cs.CR
+13,language model,model,3,2026-07,2026-07,Benchmark/Evaluation,cs.CL | cs.AI
+14,macro-f1,metric,3,2026-07,2026-07,Benchmark/Evaluation,cs.LG | cs.CL
+15,knowledge distillation,method,3,2026-07,2026-07,Reasoning | Efficiency/Optimization,cs.RO | cs.LG | cs.CL
+16,transformer-based model,model,3,2026-07,2026-07,Reasoning | Efficiency/Optimization | Theory/Methodology,cs.LG | cs.RO
+17,self-distillation,method,3,2026-07,2026-07,Reasoning | Alignment/Safety,cs.LG | cs.AI | cs.CL
+18,vision-language models,model,3,2026-07,2026-07,Multimodal | Benchmark/Evaluation | Reasoning,cs.CL | cs.AI | cs.CV
+19,benchmark,other,3,2026-07,2026-07,Benchmark/Evaluation | Reasoning | Multimodal,cs.CL | cs.AI | cs.SE
+20,alignment,other,2,2026-07,2026-07,Alignment/Safety,cs.AI | cs.CL
+21,foundation models,model,2,2026-07,2026-07,Theory/Methodology | Reasoning,cs.AI
+22,on-policy distillation,method,2,2026-07,2026-07,Agent/Tool Use | Theory/Methodology,cs.CL | cs.LG
+23,throughput,metric,2,2026-07,2026-07,Reasoning | Efficiency/Optimization,cs.CL | cs.AI
+24,policy gradient,method,2,2026-07,2026-07,Reasoning,cs.CL | cs.AI
+25,policy optimization,method,2,2026-07,2026-07,Alignment/Safety,cs.LG
+26,benchmark,metric,2,2026-07,2026-07,Multimodal | Alignment/Safety,cs.CV | cs.CL
+27,distillation,method,2,2026-07,2026-07,Multimodal | Efficiency/Optimization,cs.CL | cs.SD
+28,prompt engineering,method,2,2026-07,2026-07,Benchmark/Evaluation,cs.AI | cs.CL
+29,language models,model,2,2026-07,2026-07,Reasoning | Theory/Methodology,cs.CL
+30,f1 score,metric,2,2026-07,2026-07,Reasoning | Application,cs.CL | cs.CV
+31,factual consistency,metric,2,2026-07,2026-07,Benchmark/Evaluation | RAG/Retrieval,cs.CL
+32,evaluation,other,2,2026-07,2026-07,Benchmark/Evaluation,cs.CL
+33,diffusion model,model,2,2026-07,2026-07,Multimodal | Reasoning,cs.LG | cs.CL
+34,supervised fine-tuning,method,2,2026-07,2026-07,Reasoning | Theory/Methodology,cs.CL
+35,code generation,task,2,2026-07,2026-07,Reasoning | Multimodal,cs.SE
+36,lora adapters,model,2,2026-07,2026-07,Efficiency/Optimization | Reasoning,cs.SD | cs.CL
+37,uncertainty quantification,method,2,2026-07,2026-07,Reasoning | Alignment/Safety,cs.CV | cs.CL
+38,reward hacking,risk,2,2026-07,2026-07,Reasoning | Agent/Tool Use,cs.LG | cs.AI
+39,majority voting,method,2,2026-07,2026-07,Benchmark/Evaluation | Theory/Methodology,cs.CL | cs.CR
+40,accuracy,metric,2,2026-07,2026-07,Benchmark/Evaluation | Alignment/Safety,cs.CL | cs.AI
+41,steering vectors,method,2,2026-07,2026-07,Theory/Methodology | Alignment/Safety,cs.LG
+42,low-rank adaptation (lora,method,2,2026-07,2026-07,Efficiency/Optimization | Reasoning,cs.CV | cs.RO
+43,perplexity,metric,2,2026-07,2026-07,Efficiency/Optimization | Benchmark/Evaluation,cs.CL
+44,powerbench,tool,1,2026-07,2026-07,Efficiency/Optimization,cs.AR
+45,power status,application,1,2026-07,2026-07,Theory/Methodology,cs.CL
+46,power analysis,theory,1,2026-07,2026-07,Benchmark/Evaluation,cs.CL
+47,potential-based reward shaping (pbrs,theory,1,2026-07,2026-07,Alignment/Safety,cs.LG
+48,posterior belief,theory,1,2026-07,2026-07,Agent/Tool Use,econ.TH
+49,post-training acceleration,method,1,2026-07,2026-07,Efficiency/Optimization,cs.CV
+50,post-training,application,1,2026-07,2026-07,Agent/Tool Use,cs.CL
+51,post-solution confidence,metric,1,2026-07,2026-07,Reasoning,cs.CL
+52,post-rl teacher,model,1,2026-07,2026-07,Reasoning,cs.LG
+53,pattern recognition,theory,1,2026-07,2026-07,Theory/Methodology,cs.AI
+54,post-hoc score,metric,1,2026-07,2026-07,Multimodal,cs.CV
+55,pedagogical rubric,theory,1,2026-07,2026-07,Benchmark/Evaluation,cs.AI
+56,post hallucination reasoning (phr,task,1,2026-07,2026-07,Reasoning,cs.CV
+57,position-interpolation-based length generalization,method,1,2026-07,2026-07,Theory/Methodology,cs.LG
+58,power-calibrated,theory,1,2026-07,2026-07,Theory/Methodology,stat.ML
+59,principled-vs-statistical distinction,other,1,2026-07,2026-07,Theory/Methodology,cs.CL
+60,privacy,application,1,2026-07,2026-07,Benchmark/Evaluation,cs.CR
+61,path planning,task,1,2026-07,2026-07,Reasoning,cs.LG
+62,primitive skills,task,1,2026-07,2026-07,Reasoning,cs.AI
+63,pathwise feature transport,method,1,2026-07,2026-07,Reasoning,cs.AI
+64,price anchoring,method,1,2026-07,2026-07,Reasoning,cs.LG
+65,pretraining curriculum,theory,1,2026-07,2026-07,Theory/Methodology,cs.LG
+66,pretrained score network,model,1,2026-07,2026-07,Reasoning,cs.LG
+67,pretrained audio teacher,model,1,2026-07,2026-07,Efficiency/Optimization,cs.SD
+68,pattern matching,task,1,2026-07,2026-07,Reasoning,cs.AI
+69,predictability,theory,1,2026-07,2026-07,Alignment/Safety,cs.AI
+70,pattern discovery,task,1,2026-07,2026-07,Agent/Tool Use,cs.AI
+71,predicate-gated state transitions,method,1,2026-07,2026-07,Alignment/Safety,cs.AI
+72,pre-solution confidence,metric,1,2026-07,2026-07,Reasoning,cs.CL
+73,pre-generation signals,method,1,2026-07,2026-07,Reasoning,cs.CV
+74,pragmatic quality,metric,1,2026-07,2026-07,Reasoning,cs.CL
+75,per-axis normalization,method,1,2026-07,2026-07,Efficiency/Optimization,cs.LG
+76,pragmatic framing,risk,1,2026-07,2026-07,Alignment/Safety,cs.CL
+77,pragmatic ambiguity,task,1,2026-07,2026-07,RAG/Retrieval,cs.SE
+78,preference optimization,method,1,2026-07,2026-07,Reasoning,cs.CL
+79,policy distillation,method,1,2026-07,2026-07,Reasoning,cs.LG
+80,polarity-contradiction detection,method,1,2026-07,2026-07,Benchmark/Evaluation,cs.CV
+81,poisson arrival process,model,1,2026-07,2026-07,Agent/Tool Use,econ.TH
+82,point-cloud manifold,model,1,2026-07,2026-07,Theory/Methodology,cs.CL
+83,point cloud evolution,task,1,2026-07,2026-07,Reasoning,cs.RO
+84,podcast feed,dataset,1,2026-07,2026-07,Dataset/Benchmark,cs.CL
+85,planning compilation,method,1,2026-07,2026-07,Agent/Tool Use,cs.CR
+86,planning,other,1,2026-07,2026-07,Alignment/Safety,cs.AI
+87,percentile-aware layerwise sparsity,method,1,2026-07,2026-07,Efficiency/Optimization,cs.CL
+88,pet-guided noise modulation module,tool,1,2026-07,2026-07,Reasoning,cs.CV
+89,plan-like internal representation,theory,1,2026-07,2026-07,Theory/Methodology,cs.CL
+90,phase-based freeze schedule,method,1,2026-07,2026-07,Alignment/Safety,cs.LG
+91,pixel-level segmentation mask,tool,1,2026-07,2026-07,Reasoning,cs.CV
+92,physics-guided machine learning,theory,1,2026-07,2026-07,Reasoning,cs.LG
+93,physical laws,application,1,2026-07,2026-07,Reasoning,cs.AI
+94,physics-audited agentic sciml,method,1,2026-07,2026-07,Agent/Tool Use,cs.AI
+95,physics requirements,theory,1,2026-07,2026-07,Agent/Tool Use,cs.AI
+96,physical plausibility,other,1,2026-07,2026-07,Reasoning,cs.CV
+97,planner behavior,other,1,2026-07,2026-07,Alignment/Safety,cs.AI
+98,position estimation,metric,1,2026-07,2026-07,Theory/Methodology,cs.CL
+99,position embedding,theory,1,2026-07,2026-07,Reasoning,cs.CV
+100,port-based cad assembly library,method,1,2026-07,2026-07,Reasoning,cs.AI

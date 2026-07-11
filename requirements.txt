@@ -1,0 +1,13 @@
+requests
+feedparser
+pandas
+python-dateutil
+scikit-learn
+huggingface_hub
+transformers
+accelerate
+safetensors
+python-dotenv
+numpy
+scikit-learn
+streamlit
